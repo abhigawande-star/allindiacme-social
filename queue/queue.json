@@ -12,8 +12,8 @@
    "sub": "A consultant in a district town and one in a metro should be able to reach the same standard of care. That is the whole point of what we build.",
    "caption": "Continuing education in India is not short of lectures. What it is short of is continuity, a structured path through one skill, taught in the same voice, session after session, so that what a clinician learns in the third hour builds on the first.\n\nAll India CME is being built as that path rather than as a series of one-off talks. Each programme is CME taught the masterclass way: one clinical skill, a curriculum that progresses, and a standard that does not vary with geography.\n\nUniform excellence in clinical practice is not a slogan for us. It is the test we apply to every session that goes on the calendar, and the reason we would rather run fewer sessions well than many indifferently.\n\n#CME #MedEd #Brand",
    "image": "queue/img/q20261009am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Brand' after a blank line, no dates, faculty, prices, accreditation or partner names; theme navy, no gold adjacency. G3 n/a, no clinical claim. G4 respectful, no fear-selling, no superiority over any setting. G5 no repeat in the queue; the geography-of-standards argument is the account's core claim and has not been made in this window. G6 queue/img/q20261009am.jpg present, 1080x1080 JPEG, re-rendered overflow false. Worth posting: it states the founding promise in one line a doctor in a district town would recognise as about them.",
    "revision": 0
   },
   {
@@ -28,8 +28,8 @@
    "sub": "A year-long CME programme in pain management moves from assessment and pharmacology to interventional technique, and each session assumes the one before it.",
    "caption": "Two hours on a Sunday can introduce a topic. It cannot build a skill. The gap between knowing about pain management and practising it well is a matter of sequence: assessment before pharmacology, pharmacology before blocks, and supervised clinical reasoning threaded through all of it.\n\nThat is why the longer programmes are structured as CME in masterclass format, twenty-four sessions across a year, one skill, each session written on the assumption that the previous one landed. Attendance at session nineteen should mean something different from attendance at session one.\n\nThe format is not the product. The CME is. The masterclass is simply how that CME is taught when the skill is worth a whole year of someone's Sundays.\n\n#CME #MedEd #PainMedicine",
    "image": "queue/img/q20261009pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant; A2 satisfied, masterclass is named as the format and the post says plainly 'the format is not the product, the CME is'; no dates or faculty. G3 n/a, programme structure only, no dose, threshold or management step. G4 respectful. G5 no repeat; distinct from the brand post earlier the same day. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: it answers the obvious objection, why a year rather than a lecture, with a sequence argument rather than a boast.",
    "revision": 0
   },
   {
@@ -44,8 +44,8 @@
    "sub": "If a card states a dose, a threshold or a duration, the guideline it came from is named on the card itself. Nothing goes up on memory.",
    "caption": "A number without a source is an opinion wearing a lab coat. So the rule here is narrow and absolute: nothing clinical is published unless the governing guideline has been opened and read, the recommendation says what we say it says, and the guideline is named where a reader can go and check it.\n\nIndian bodies come first, the paediatric, obstetric, diabetes, anaesthesia, critical care and neonatology societies, and where no Indian recommendation exists, the leading international one. Generic drug names only. The caveat that changes management stays in, even when it costs us the cleaner line.\n\nIf a claim cannot survive that, it does not go up. Clinical accuracy outranks engagement, every time.\n\n#CME #MedEd #Standards",
    "image": "queue/img/q20261010am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant; guideline bodies are named generically as categories, which is not a partner name or an accreditation claim. G3 n/a, the post makes no clinical claim of its own. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: publishing the sourcing rule is what earns the right to be believed on the clinical cards.",
    "revision": 0
   },
   {
@@ -60,8 +60,8 @@
    "sub": "Strength tells you how confidently to act. Certainty tells you how solid the underlying evidence is. Guidelines label both, and the two do not always move together.",
    "caption": "Two labels sit next to most modern recommendations, and they answer different questions. Strength, strong or conditional, is guidance on action: how confidently should a clinician do this for most patients. Certainty, high through very low, is a verdict on the evidence itself.\n\nThey come apart more often than people expect. A strong recommendation on moderate certainty usually means the benefit is large and consistent enough to act on even though the trials are imperfect. A conditional recommendation on the same certainty usually means the evidence is reasonable but the balance of benefit and burden depends on the patient in front of you.\n\nReading both labels, and not just the verb in the sentence, is the difference between following a guideline and using one.\n\n#CME #MedEd #Evidence",
    "image": "queue/img/q20261010pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant. G3 checked against GRADE as used in the WHO documents opened in this run: strength strong or conditional, certainty high to very low, and the two are rated separately; no dose, drug or threshold is stated, so no guideline citation is required. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: most readers act on the verb and ignore the certainty label, and the distinction changes how a recommendation is applied.",
    "revision": 0
   },
   {
@@ -76,8 +76,8 @@
    "sub": "WHO 2022 recommends four months, not six, between 3 months and 16 years of age, when disease is non-severe and drug resistance is neither suspected nor evident.",
    "caption": "Ask this in a busy clinic and the reflex answer is six months. The current WHO consolidated guidance on tuberculosis says otherwise for a defined group: in children and adolescents between 3 months and 16 years of age with non-severe disease, and without suspicion or evidence of multidrug-resistant or rifampicin-resistant tuberculosis, a four-month regimen should be used. It is a strong recommendation on moderate certainty evidence.\n\nThe caveat is the whole recommendation. Non-severe here means peripheral lymph node disease, intrathoracic lymph node disease without airway obstruction, or uncomplicated pleural effusion and paucibacillary non-cavitary disease confined to one lobe without a miliary pattern. A child who does not meet that definition still gets the standard six months. Shortening treatment for the wrong child is not a smaller intervention, it is a different one.\n\n#CME #MedEd #Paediatrics",
    "image": "queue/img/q20261011am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "G1 pass. G2 pass. G4 pass. G6 pass, image present, 1080x1080 JPEG, overflow false. G5 pass, no repeat. G3 FAIL. Source opened: WHO consolidated guidelines on tuberculosis, module 5, 2022 (NBK579377), confirmed current, no later edition. The four-month recommendation, the 3 months to 16 years range, the absence of MDR/RR-TB, 'strong recommendation, moderate certainty of evidence' and the non-severe definition all match the source word for word. The failure is the last caveat: the caption says 'A child who does not meet that definition still gets the standard six months', but the source remark reads 'should receive the standard six-month treatment regimen (2HRZE/4HR), OR recommended treatment regimens for severe forms of extrapulmonary TB'. As written the line tells a reader that severe extrapulmonary disease, including TB meningitis and osteoarticular TB, is treated for six months, which is undertreatment. Fix: restore the second limb, for example 'still gets the standard six-month regimen, or the longer regimen recommended for that form of severe extrapulmonary disease'. Everything else in the post can stand.",
    "revision": 0,
    "source": "WHO TB guidelines 2022",
    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK579377/"
@@ -94,8 +94,8 @@
    "sub": "Respiratory rate above 16 a minute, patellar reflexes present, urine output over 100 ml in the last four hours. Any one missing and the dose waits.",
    "caption": "The loading dose gets the attention. The maintenance doses are where harm accumulates, because magnesium is cleared renally and a woman who is oliguric will hold on to it.\n\nThe third edition of the FOGSI-GESTOSIS-ICOG good clinical practice recommendations on hypertensive disorders in pregnancy sets the condition plainly: the maintenance dose is given only if respiratory rate is above 16 a minute, patellar reflexes are present, and urine output has exceeded 100 ml in the last four hours. All three, before each dose, recorded.\n\nBoth regimens remain in use, the intramuscular schedule with a 14 gram loading dose and the intravenous one with an hourly infusion. Whichever is running, the pre-dose check does not change, and an absent reflex is a reason to stop and reassess rather than to push on.\n\n#CME #MedEd #Obstetrics",
    "image": "queue/img/q20261011pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "held",
+   "qc_notes": "G1 pass. G2 pass. G4 pass. G5 pass. G6 pass, image present, 1080x1080 JPEG, overflow false. G3 UNRESOLVED, so held rather than failed. The cited source, the FOGSI 2026 hypertensive disorders in pregnancy PDF, could not be opened from here: fogsi.org sits behind Cloudflare and returned 403 to every route tried, including a full browser session that was blocked on the FOGSI home page as well as on the PDF itself. The three pre-dose checks and the 14 gram intramuscular loading dose are confirmed word for word in the 2019 FOGSI-GESTOSIS-ICOG edition of the same recommendations, hosted at icogonline.org, which I did open: 'Maintenance dose will be given only if following parameters are present. 1. Respiratory rate > 16 / min 2. Patellar reflexes present 3. Urine output>100 ml in last 4 hours', Pritchard 'Total 14 gram', Zuspan '1 gm / hour'. So the clinical content is almost certainly right, but the Guardian cannot verify the 2026 edition the post actually cites, and the rule is that a source we cannot open is a founder decision, not ours.",
    "revision": 0,
    "source": "FOGSI-GESTOSIS-ICOG HDP 2026",
    "source_url": "https://www.fogsi.org/wp-content/uploads/2026/01/Hypertensive-Disorders-in-Pregnancy-Final-pdf.pdf"
@@ -112,8 +112,8 @@
    "sub": "RSSDI 2022 recommends starting metformin in combination with lifestyle intervention at the time of diagnosis, and measuring HbA1c every three to six months.",
    "caption": "The old sequence, diet and exercise for three months, then review, then a drug, is not what the current Indian recommendation says. The RSSDI clinical practice recommendations for type 2 diabetes state that metformin can be initiated in combination with lifestyle interventions at the time of diagnosis, with the other oral classes reserved for when metformin is contraindicated or not tolerated.\n\nThe target deserves the same care as the drug. An HbA1c below 7.0% minimises the risk of developing complications, but the document is explicit that a higher target may be considered where earlier attempts at tight control caused unacceptable hypoglycaemia, or where the person sitting in front of you is at high risk of it. Monitoring runs every three to six months depending on the level, the stability of control and any change in therapy.\n\n#CME #MedEd #Diabetes",
    "image": "queue/img/q20261012am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "G1 pass. G2 pass. G4 pass. G5 pass. G6 pass, image present, 1080x1080 JPEG, overflow false. G3 FAIL on two points. Source opened: RSSDI clinical practice recommendations 2022, confirmed the current general edition (the 2025 nutrition and 2026 older-adults documents are separate consensus papers, not a replacement). Supported word for word: 'Metformin can be initiated in combination with lifestyle interventions at the time of diagnosis', 'Measure HbA1c every three to six months depending on level, stability of blood glucose control, and changes in therapy', 'maintaining an HbA1c <7.0% minimizes the risk of developing complications', and the higher-target caveat. (1) The caption says the other oral classes are reserved for when metformin 'is contraindicated or not tolerated'. The source says only 'if it is contraindicated'; tolerance is not mentioned. Drop 'or not tolerated' or source it separately. (2) The headline 'Metformin belongs at diagnosis, alongside lifestyle, not after it fails' turns a permissive recommendation into a directive and adds a claim the source does not make, that the stepwise approach is wrong. RSSDI says metformin CAN be initiated at diagnosis. Rewrite to the permissive form, for example 'Metformin can start at diagnosis, alongside lifestyle, not only after it fails'.",
    "revision": 0,
    "source": "RSSDI 2022",
    "source_url": "https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf"
@@ -130,8 +130,8 @@
    "sub": "One track is own-discipline CME within the practitioner's own system. The other is high-value clinical CME taught by qualified specialists, delivered in five languages.",
    "caption": "An AYUSH practitioner in a taluka town carries two learning needs at once, and most programmes serve only one of them. The first is depth in their own system, structured and longitudinal, sequenced like any other curriculum. The second is the clinical ground they share with everyone else who sees undifferentiated illness first.\n\nSo the AYUSH side of All India CME runs as two parallel tracks. Own-discipline CME for Ayurveda and Homoeopathy practitioners, taught within those systems. And high-value clinical CME on subjects that matter across disciplines, taught by specialists qualified in that subject, with delivery planned in Hindi, Tamil, Telugu, Bengali and English rather than English alone.\n\nLearning in the language you consult in is not a concession. It is how retention actually works.\n\n#CME #MedEd #AYUSH",
    "image": "queue/img/q20261012pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant, no credit or accreditation claim, no partner names, theme ivory. G3 n/a, no clinical claim, dose or management step; it describes programme design only. G4 this is the gate that matters here and it passes: the post treats AYUSH practitioners as clinicians with two real learning needs rather than as an audience to be corrected, keeps each track inside its own system, and makes no claim about scope of practice. G5 no repeat, the only AYUSH post in the window, at about one in ten against the one-in-seven aim. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: the language line is the part most programmes get wrong and it is stated without condescension.",
    "revision": 0
   },
   {
@@ -146,8 +146,8 @@
    "sub": "WHO rates cognitive behavioural therapy and related approaches on moderate certainty evidence. Every recommendation in that guideline, the drugs included, is conditional.",
    "caption": "Chronic pain in childhood tends to be managed as a pharmacological problem, and the WHO guideline on the management of chronic pain in children does not support that ordering. Psychological management through cognitive behavioural therapy and related interventions, including acceptance and commitment therapy, behavioural therapy and relaxation therapy, may be used, and it carries moderate certainty evidence, the highest certainty anywhere in the document. Delivery may be face to face, remote, or a combination of the two.\n\nPhysical therapies may be used alone or with other treatments, on very low certainty evidence. Pharmacological management tailored to the indication may be used, on low certainty evidence. Morphine sits within end-of-life care, given by appropriately trained providers under the principles of opioid stewardship.\n\nThe caveat that matters: every one of these is a conditional recommendation, not a default, and the certainty labels are the reason why.\n\n#CME #MedEd #PainCare",
    "image": "queue/img/q20261013am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant, generic drug name (morphine) only. G3 source opened and confirmed current, WHO guidelines on the management of chronic pain in children, 2020, no later edition; the NCBI mirror in source_url is bot-blocked from here, so verification was done against the WHO original, 9789240017870. Every claim matches: psychological management through CBT and related interventions, naming acceptance and commitment therapy, behavioural therapy and relaxation therapy, conditional recommendation on moderate certainty evidence; delivery face to face, remotely or combined; physical therapies alone or in combination, very low certainty; pharmacological management tailored to specific indications, low certainty; morphine for end-of-life care under opioid stewardship by appropriately trained providers, very low certainty. The safety caveat that all four recommendations are conditional is present and is the closing line. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: it corrects a real default, reaching for a drug first, and it does so with the certainty grades on the table.",
    "revision": 0,
    "source": "WHO chronic pain in children 2020",
    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK566551/"
@@ -164,8 +164,8 @@
    "sub": "Recommendations move between editions, and the copy in a downloads folder may be two revisions behind. The issuing body's own page is the version worth quoting.",
    "caption": "Most clinical arguments that go nowhere are arguments about different editions. One person is quoting the recommendation they learned in training, the other the revision that replaced it, and neither has the document open in front of them.\n\nThree habits fix most of it. Go to the issuing body's own site rather than a mirror, a slide deck or a summary, because mirrors do not get updated when the guideline does. Note the edition and the year beside the recommendation in your own notes, so the next reader can tell what you were looking at. And when a recommendation surprises you, read the strength and certainty labels before deciding the guideline is wrong.\n\nA recommendation is only as current as the copy in your hand. Checking takes a minute and settles the room.\n\n#CME #MedEd #Practice",
    "image": "queue/img/q20261013pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "G1 pass. G2 pass. G3 n/a, no clinical claim. G4 pass. G6 pass, image present, 1080x1080 JPEG, overflow false. G5 FAIL, necessity and freshness. The third of the three habits, 'read the strength and certainty labels before deciding the guideline is wrong', is the entire subject of q20261010pm three days earlier, same pillar, same cross-specialty audience, same voice. A reader who saw Friday evening's post is taught the same lesson again on Monday evening, and what is left that is new, check the edition and go to the issuing body's own site, is thin on its own. Fix either way: drop this post for a cross-specialty educational topic that is not about how to read guidelines, the week already carries three of those including the 10 Oct brand post, or keep edition-checking and rebuild it around one concrete example of a recommendation that changed between editions, with the habit-three line removed.",
    "revision": 0
   }
  ]
