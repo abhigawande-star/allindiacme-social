@@ -203,6 +203,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261015am",
+   "date": "2026-10-15",
+   "slot": "09:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "navy",
+   "eyebrow": "Consent",
+   "headline": "A consent form is the record of a conversation, not a substitute for one",
+   "sub": "The test of consent is not whether the sheet is signed. It is whether the patient can say back to you, in their own words, what could go wrong and what happens if they decline.",
+   "caption": "The form protects the patient only to the extent that the conversation behind it happened. A signature collected on a trolley, minutes before a procedure, from someone who has already been told the decision is made, records compliance rather than agreement.\n\nWhat makes the difference is asking the patient to say it back. Not a quiz, just an invitation: tell me what you understood, and what worries you most about it. The gaps that surface in that answer are the ones that turn into complaints later, and they take a minute to close. Cover what the alternatives are, including doing nothing for now, and write down the specific risks you actually discussed rather than the generic list.\n\nA patient who can explain the plan in their own words has consented. One who has only signed has not, whatever the file says.\n\n#CME #MedEd #Consent",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261015am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261015pm",
+   "date": "2026-10-15",
+   "slot": "17:30",
+   "pillar": "ayush",
+   "specialty": "AYUSH",
+   "theme": "ivory",
+   "eyebrow": "Own-discipline CME",
+   "headline": "CME for an AYUSH practitioner is not allopathy in translation",
+   "sub": "One track deepens the practitioner's own system on its own terms. The other is modern clinical teaching, taught by a qualified specialist and named plainly as that. Neither pretends to be the other.",
+   "caption": "A great deal of what is offered to BAMS and BHMS practitioners as continuing education is modern medicine with the labels changed, which serves nobody. It does not deepen the practitioner's own discipline and it does not teach the other one honestly either.\n\nWe keep the two separate on purpose. Own-discipline CME is taught inside the practitioner's own system, by people who work in it, using its own reasoning rather than a borrowed framework. The cross-discipline CME is modern clinical teaching delivered by a qualified specialist in that subject, and it is described as exactly that, in the language the practitioner thinks and works in.\n\nRespect here is practical, not decorative. A practitioner deciding something in a district town is owed teaching that is clear about what it is.\n\n#CME #MedEd #AYUSH",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261015pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
