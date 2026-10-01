@@ -76,8 +76,8 @@
    "sub": "WHO 2022 recommends four months, not six, between 3 months and 16 years of age, when disease is non-severe and drug resistance is neither suspected nor evident.",
    "caption": "Ask this in a busy clinic and the reflex answer is six months. The current WHO consolidated guidance on tuberculosis says otherwise for a defined group: in children and adolescents between 3 months and 16 years of age with non-severe disease, and without suspicion or evidence of multidrug-resistant or rifampicin-resistant tuberculosis, a four-month regimen should be used. It is a strong recommendation on moderate certainty evidence.\n\nThe caveat is the whole recommendation. Non-severe here means peripheral lymph node disease, intrathoracic lymph node disease without airway obstruction, or uncomplicated pleural effusion and paucibacillary non-cavitary disease confined to one lobe without a miliary pattern. A child who does not meet that definition still gets the standard six-month regimen, or the longer regimen recommended for that form of severe extrapulmonary disease. Shortening treatment for the wrong child is not a smaller intervention, it is a different one.\n\n#CME #MedEd #Paediatrics",
    "image": "queue/img/q20261011am.jpg",
-   "status": "drafted",
-   "qc_notes": "FACTORY rev1, 30 Sep 2026: restored the second limb of the WHO remark so the line no longer implies that severe extrapulmonary disease, including meningeal and osteoarticular TB, is treated for six months. Wording taken from the source text quoted verbatim in the previous Guardian note. Nothing else changed. The Factory could not re-open the source this run (WebFetch approval unavailable in a scheduled run), so G3 needs a fresh source open by the Guardian.",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean (lint). G2 compliant: sentence case, no emoji, exact three hashtags, no CME dates/faculty/price/accreditation/partner names, generic terms only, theme ivory fits the navy-ivory-gold rotation with no gold-adjacent conflict. G3 verified: opened https://www.ncbi.nlm.nih.gov/books/NBK579377/ (WHO consolidated guidelines on TB, Module 5, 2022) directly — the 4-month regimen for ages 3 months-16 years with non-severe TB (without suspected/confirmed MDR/RR-TB), the 'strong recommendation, moderate certainty' rating, the non-severe TB definition, and the six-month-or-longer fallback for children who don't meet that definition all match the source verbatim. Confirmed current: the 2025 WHO Module 4 update keeps this recommendation, not superseded. G4 respectful, no fear-selling. G5 unique topic, no repeat in the queue. G6 image present, 1080x1080 JPEG, overflow false on re-render. Worth posting: corrects a common six-month reflex with the exact boundary conditions a paediatrician needs to apply it safely.",
    "revision": 1,
    "source": "WHO TB guidelines 2022",
    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK579377/"
@@ -112,8 +112,8 @@
    "sub": "RSSDI 2022 says metformin can be initiated in combination with lifestyle intervention at the time of diagnosis, with HbA1c measured every three to six months.",
    "caption": "The old sequence, diet and exercise for three months, then review, then a drug, is not the only route the current Indian recommendation allows. The RSSDI clinical practice recommendations for type 2 diabetes state that metformin can be initiated in combination with lifestyle interventions at the time of diagnosis, with the other oral classes reserved for when metformin is contraindicated.\n\nThe target deserves the same care as the drug. An HbA1c below 7.0% minimises the risk of developing complications, but the document is explicit that a higher target may be considered where earlier attempts at tight control caused unacceptable hypoglycaemia, or where the person sitting in front of you is at high risk of it. Monitoring runs every three to six months depending on the level, the stability of control and any change in therapy.\n\n#CME #MedEd #Diabetes",
    "image": "queue/img/q20261012am.jpg",
-   "status": "drafted",
-   "qc_notes": "FACTORY rev1, 30 Sep 2026: headline moved from the directive form to the permissive form the source uses, and the unsourced words 'or not tolerated' removed so the sentence matches 'if it is contraindicated'. The caption opening was softened for the same reason. Source not re-opened this run (WebFetch approval unavailable in a scheduled run), so G3 needs a fresh source open by the Guardian.",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags correctly placed, generic drug name (metformin) only, no dates/faculty/price/accreditation/partner names, theme navy fits rotation. G3 verified: opened https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf directly — 'Metformin can be initiated in combination with lifestyle interventions at the time of diagnosis... if it is contraindicated then sulfonylurea...', the HbA1c <7.0% target, the three-to-six-month monitoring interval, and the higher-target caveat for prior/high hypoglycaemia risk all match the source verbatim. Confirmed current: RSSDI's 2025 publications are nutrition-specific and do not supersede the 2022 clinical practice recommendations. G4 respectful, no shaming of the old sequence. G5 unique topic. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: gives the permissive option and its real caveats, not just the headline change.",
    "revision": 1,
    "source": "RSSDI 2022",
    "source_url": "https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf"
@@ -164,8 +164,8 @@
    "sub": "Diagnostic momentum is how a provisional label hardens into settled history across a handover. Nobody re-examines the premise, because by the third telling it no longer sounds like a guess.",
    "caption": "A label picked up in a crowded casualty travels further than the reasoning behind it. By the time the patient reaches the ward, the working diagnosis has lost its question mark, and every subsequent decision is built on it. This is diagnostic momentum, and it is not a failure of knowledge. It is what happens when a summary is passed along faster than the uncertainty attached to it.\n\nTwo habits slow it down. When you hand over, say what the patient presented with and what you think it is, in that order, so the next clinician receives the findings and not only the conclusion. When you receive a handover, ask once what would have to be true for the label to be wrong, and check whether anyone has looked.\n\nThe patient who deteriorates on a confident diagnosis is rarely a patient nobody examined. Usually everybody examined them, for the wrong thing.\n\n#CME #MedEd #Reasoning",
    "image": "queue/img/q20261013pm.jpg",
-   "status": "drafted",
-   "qc_notes": "FACTORY rev1, 30 Sep 2026: post rebuilt on a new subject after the G5 necessity failure. The guideline-reading material that duplicated q20261010pm is gone; nothing about editions, strength or certainty labels remains. No clinical claim and no number, so no source is cited.",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, no claim/number so A5 n/a, theme navy fits rotation. G3 n/a — no dose, threshold, timing, drug or management step; this is a clinical-reasoning/handover post. G4 respectful: frames diagnostic momentum as a systemic/handover pattern, not a blame-the-doctor message. G5 confirmed distinct from q20261010pm (certainty-of-evidence framing) and from everything else in the queue — this is the rebuilt replacement noted in its own revision-1 note. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a concrete two-habit fix for a failure mode every clinician recognises.",
    "revision": 1
   },
   {
@@ -182,8 +182,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261014am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, theme ivory fits rotation, no restricted claims. G3 n/a — no dose/threshold/drug/management step, pure communication-with-radiology guidance. G4 respectful, practical, no shaming of requesting clinicians. G5 unique topic, no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a three-line habit doctors can apply on their very next imaging request.",
    "revision": 0
   },
   {
@@ -200,8 +200,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261014pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, theme gold fits rotation (preceded by ivory, followed by navy — no gold-adjacent-to-gold), no CME dates/faculty/price/accreditation/partner names, this is a brand post, not CME promotion. G3 n/a, no clinical claim. G4 respectful, states the policy plainly without implying other accounts are dishonest. G5 distinct from the other two brand posts in the queue (q09am on geography, q10am on sourcing) — this one is about audience and reinforces the NMC no-patient-imagery/no-solicitation rule from standards.md section B. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a clear statement of who the account is for, which doubles as a compliance commitment worth having on record.",
    "revision": 0
   },
   {
@@ -218,8 +218,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261015am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, theme navy fits rotation. G3 n/a — describes the consent conversation, not a dose/threshold/drug/management step, and makes no claim needing a citation. G4 respectful: puts the responsibility on process, not on blaming rushed clinicians. G5 unique topic. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: the teach-back check is concrete and exportable to any specialty doing procedures.",
    "revision": 0
   },
   {
@@ -236,8 +236,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261015pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "FAIL G5. The post restates the same AYUSH two-track architecture already published in q20261012pm (12 Oct 17:30, ayush pillar, qc_passed): 'own-discipline CME taught within the practitioner's own system' plus 'cross-discipline CME taught by a qualified specialist and named as such' is the same structural claim as q20261012pm's 'Own-discipline CME... taught within those systems' and 'high-value clinical CME... taught by specialists qualified in that subject.' Different headline and framing device (authenticity vs language), same underlying information, three days apart in the same pillar — a practising AYUSH doctor would recognise this as the same post twice. G1, G2, G3 (n/a, no clinical claim), G4 and G6 are otherwise clean. Rewrite on a genuinely different AYUSH subject that is not another explainer of the two-track structure — for example a specific own-discipline (Ayurveda or Homoeopathy) teaching point, or a concrete example of cross-discipline CME done right or wrong, rather than restating the architecture.",
    "revision": 0
   }
  ]
