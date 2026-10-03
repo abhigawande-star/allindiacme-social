@@ -58,9 +58,17 @@ No worker edits this section. The Standards Researcher may propose a change in s
   infographics, annotated images — drew the most shares, while people-and-milestone posts drew the
   most likes and comments. We optimise for shares, so build the clinical post as a case or a
   question with the answer and the pearl, not as a statement.
+- **Question and knowledge shape (3 Oct 2026):** when a post asks something, ask it as a
+  multiple-choice question. In the one controlled comparison available, MCQs drew significantly
+  more participation than yes/no or open-ended prompts (p < 0.001), and within knowledge posts
+  mnemonics and practical general information substantially outperformed clinical-trial and
+  case-report write-ups. **Scope limit:** that cohort was fourth-year medical students, not
+  practising clinicians, so treat this as the default shape for our MCQ carousels and not as
+  evidence about consultant audiences. Source in section C.
 - **Formats from 9 Oct 2026** (revised 24 Sep 2026; old rule and evidence in section C): per week
   6 single squares, 4 carousels (2 reference, ≤10 slides, and 2 MCQ question), and 2 Reels once a
-  Reels route exists. Never two carousels back to back; not on CME day or the day before.
+  Reels route exists. **Reels run ≤60 seconds** (added 3 Oct 2026). Never two carousels back to
+  back; not on CME day or the day before.
   Carousels need the Publisher's carousel flow and Reels need a video route. Until each is tested,
   draft single squares only **and record the unmet slot** — a missing carousel or Reel is a
   capability gap to escalate, not a slot to fill silently.
@@ -72,13 +80,77 @@ No worker edits this section. The Standards Researcher may propose a change in s
   healed-patient, surgery or procedure imagery, however impressive the result; nothing that
   solicits patients — every post is clinician-facing; never buy likes, followers or ranking.
   These sit alongside A10 and A11 and bind the Factory and the Guardian equally.
-- **Reality check (24 Sep 2026):** measured reach is 2–8 accounts per post, with zero saves and
-  zero shares on every post old enough to measure. Format tuning cannot fix a distribution problem
-  of that size. Until reach is consistently in the hundreds, treat these format rules as
-  preparation, and name distribution — not format — as the binding constraint in each Guardian run.
+- **Reality check (updated 3 Oct 2026):** across all 24 posts old enough to measure, reach is
+  2–9 accounts per post, with zero saves, zero shares and zero comments on every one of them, and
+  two profile visits in total. The last sixteen consecutive posts all sat at reach 2–3 despite four
+  unbroken weeks of twice-daily publishing — so cadence alone is now shown not to build
+  distribution. Format tuning cannot fix a problem of that size. Until reach is consistently in the
+  hundreds, treat these format rules as preparation, and name distribution — not format — as the
+  binding constraint in each Guardian run.
 
 ## C. Research log — dated entries, newest first
 
+- 3 Oct 2026 — **Platform scan, 3 Sep – 3 Oct 2026: no ranking-signal change announced in the
+  window.** Everything logged in the window is product surface, not ranking: Music Highlights, a
+  "next post" button, action-button haptics, custom lists, WhatsApp call controls and a Carousel
+  Editor in Edits, all iOS tests. Two items are worth watching but need no rule change. (1)
+  Instagram is now actively prompting users to post Reels consistently — a nudge in the product,
+  not a stated ranking change, and it points the same way as our existing Reels allocation.
+  (2) The AI-profile label from 31 Aug 2026 was renamed from "AI Creator" to "AI-generated
+  profile"; the scope is still synthetic personas, not accounts that use AI tools in production, so
+  our machine-rendered cards and drafted captions remain outside it, as recorded on 24 Sep. Source:
+  https://socialbee.com/blog/instagram-updates/
+- 3 Oct 2026 — **Reels length cap added to the formats rule.** Old: "2 Reels once a Reels route
+  exists", with no length stated. New: the same, plus "Reels run ≤60 seconds". Evidence: a
+  cross-sectional analysis of 125 video posts on a working medical-education Instagram account
+  (26 May 2020 – 3 May 2024; median reach 5,317 per video, median views 6,533) found videos
+  ≤60 seconds had significantly higher relative watch time — median 29% (IQR 20%–40%) against
+  19% (IQR 15%–30%) across the set. Watch time is one of the confirmed ranking signals already
+  recorded in section B, which is why length is worth fixing before the first Reel is made. To
+  reverse, delete the "≤60 seconds" clause. Source: https://mededu.jmir.org/2026/1/e79124
+- 3 Oct 2026 — **"Question and knowledge shape" added** (new rule, nothing replaced). A
+  cross-sectional study of a medical-education Instagram account run alongside a haematology and
+  oncology module (University Medical Center Göttingen, 181 student followers, summer 2022 and
+  winter 2022/23 semesters) found multiple-choice questions drew significantly higher participation
+  than yes/no and open-ended formats (p < 0.001), while open-ended questions produced the more
+  accurate answers (88.5% correct against 59.2%). Within knowledge posts, mnemonics and general
+  medical information substantially outperformed clinical trials and case reports (p < 0.01). The
+  cohort is fourth-year medical students, so the rule is written with that scope limit on its face.
+  To reverse, delete the bullet. Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC13147703/
+- 3 Oct 2026 — **Compliance re-check: no change, and one false trail recorded.** The NMC social-
+  media guidance of 13 Aug 2023 remains the operative instrument; no NMC notification dated 2025 or
+  2026 was found. Several consultancy pages now market an "NMC 2026 Code of Ethics", but they cite
+  only the NMC Act 2019, the IMC (Professional Conduct, Etiquette and Ethics) Regulations 2002 and
+  the Telemedicine Practice Guidelines, with no primary notification behind the 2026 framing —
+  treat it as secondary-source packaging, not new regulation, and do not re-open it next run on the
+  strength of a blog title. Separately, Meta's 2026 health and wellness tightening is confined to
+  paid advertising; we publish organically and run no ads, so it does not bind us today. The
+  section B compliance constraints stand unchanged. Source:
+  https://ichelonconsulting.com/insights/nmc-2026-ethics-code-complete-guide-doctors
+- 3 Oct 2026 — **Caption length checked, no change.** No study of usable quality was found: the
+  field is blog content recycling a "125-character rule" with no dataset behind it. Our captions
+  run roughly 400–600 characters and no rule is written about length. Leaving it alone until a real
+  dataset appears is the correct call, and at reach 2 it would change nothing either way.
+- 3 Oct 2026 — **Our own performance.** Twenty-eight posts live, 24 old enough to measure. Reach
+  2–9 accounts each; zero saves, zero shares and zero comments on every single post; two profile
+  visits in total across the account's life. Best reach: 21 Sep, the Gadchiroli paediatric sepsis
+  brand post — reach 9, 3 interactions, and one of the two profile visits; then 7 Sep, "the future
+  of healthcare is evolving" — reach 8. The other profile visit came from 23 Sep, the "uniform
+  excellence" brand post. Worst: the long flat tail — every post from 24 Sep onward sits at reach
+  2–3, sixteen in a row, including both slots on every day. Since 21 Sep the account has published
+  twice a day without a miss and reach has not moved at all. No pillar and no specialty can be
+  separated at this volume, and the two posts that drew a profile visit were both brand posts, which
+  is a two-event observation and not a finding. What the numbers now establish, more firmly than on
+  24 Sep, is that consistency is not the missing input. Recorded in the section B reality check.
+- 3 Oct 2026 — **Proposal for the founder (cadence).** The Architecture fixes two awareness posts
+  every day (§14.1), and the Factory has delivered it without a miss for four weeks. The result is
+  48 posts seen by between two and nine accounts each, with no saves or shares at all. The cadence
+  is therefore producing a content archive rather than an audience, and the cost of holding it is
+  the Factory and Guardian capacity spent twice a day. Options for the founder: hold 2/day as brand
+  discipline and accept that reach waits on seeding; or drop to one post a day until the seeding
+  route exists and redirect the freed capacity into it. This is a founder call because the cadence
+  comes from the Architecture, not from this rulebook — no change made. It sits underneath the
+  distribution proposal of 24 Sep, which remains the primary ask.
 - 24 Sep 2026 — **Platform scan, 25 Aug – 24 Sep 2026: no ranking-signal change announced in the
   window.** Three items, none requiring a rule change. (1) From 31 Aug 2026 Instagram labels
   AI-generated profiles and removes unlabelled ones from recommendations; the scope is synthetic
