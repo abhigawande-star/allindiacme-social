@@ -311,6 +311,42 @@
    "revision": 0,
    "source": null,
    "source_url": null
+  },
+  {
+   "id": "q20261018am",
+   "date": "2026-10-18",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "paediatrics and neonatology",
+   "theme": "navy",
+   "eyebrow": "Neonatal hypoglycaemia",
+   "headline": "A normal-looking newborn can still need an emergency dextrose bolus",
+   "sub": "Blood glucose below 20 mg/dL is treated with an immediate IV bolus whether or not the baby looks unwell; waiting for symptoms risks the brain injury the treatment exists to prevent.",
+   "caption": "A newborn with a low blood glucose but no jitteriness, poor feeding or lethargy is often watched rather than treated, on the assumption that a baby who looks normal can wait for a recheck.\n\nThe ICMR standard treatment workflow for neonatology sets a lower bound instead of a waiting period. A blood glucose below 20 mg/dL is treated as an emergency regardless of symptoms: an immediate intravenous bolus of 2 ml/kg of 10% dextrose, followed by a continuous infusion at 6 mg/kg per minute. The workflow states plainly that both symptomatic and asymptomatic hypoglycaemia can cause permanent brain damage, so the absence of signs is not a reason to wait.\n\nCheck the number before you check the baby's appearance. Below that threshold, the bolus comes first and the examination follows.\n\n#CME #MedEd #NeonatalHypoglycaemia",
+   "image": "queue/img/q20261018am.jpg",
+   "status": "drafted",
+   "qc_notes": null,
+   "revision": 0,
+   "source": "ICMR Standard Treatment Workflow — Neonatology (Neonatal Hypoglycaemia)",
+   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1726568619_neonatology_all.pdf"
+  },
+  {
+   "id": "q20261018pm",
+   "date": "2026-10-18",
+   "slot": "17:30",
+   "pillar": "clinical",
+   "specialty": "radiology",
+   "theme": "ivory",
+   "eyebrow": "Contrast and metformin",
+   "headline": "Most patients do not need to stop metformin before a contrast scan",
+   "sub": "The reflex to hold metformin before an iodinated contrast study applies only below an eGFR of 30, or after an arterial study with renal-artery risk.",
+   "caption": "Reflexively stopping metformin before every contrast-enhanced scan is still common practice on many wards, even when the patient's kidneys are working normally.\n\nThe ACR manual on contrast media sets a renal-function threshold instead of a blanket rule. For intravenous iodinated contrast, a patient with an eGFR of 30 or above and no acute kidney injury does not need to discontinue metformin either before or after the scan. Only an eGFR below 30, or acute kidney injury, calls for holding the drug at the time of the procedure and for 48 hours after, with renal function confirmed before it restarts. An arterial study with a risk of renal artery emboli is handled separately, and metformin is stopped regardless of eGFR.\n\nThe question worth asking before the form is signed is the eGFR, not the drug chart.\n\n#CME #MedEd #ContrastMedia",
+   "image": "queue/img/q20261018pm.jpg",
+   "status": "drafted",
+   "qc_notes": null,
+   "revision": 0,
+   "source": "ACR Manual on Contrast Media (2023)",
+   "source_url": "https://dig.pharmacy.uic.edu/faqs/2023-2/september-2023-faqs/what-are-current-best-practices-on-holding-metformin-prior-to-and-post-contrast-administration"
   }
  ]
 }
