@@ -347,6 +347,42 @@
    "revision": 0,
    "source": "ACR Manual on Contrast Media (2023)",
    "source_url": "https://dig.pharmacy.uic.edu/faqs/2023-2/september-2023-faqs/what-are-current-best-practices-on-holding-metformin-prior-to-and-post-contrast-administration"
+  },
+  {
+   "id": "q20261019am",
+   "date": "2026-10-19",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "obstetrics and gynaecology",
+   "theme": "gold",
+   "eyebrow": "Postpartum haemorrhage",
+   "headline": "Tranexamic acid for postpartum haemorrhage only works if it arrives within three hours",
+   "sub": "WHO's recommendation sets a hard timing window, not a preference: the benefit falls with delay and disappears after three hours from birth.",
+   "caption": "Tranexamic acid has earned a place in most postpartum haemorrhage protocols now, but the benefit is tightly timed, not open-ended.\n\nThe WHO recommendation on tranexamic acid for the treatment of postpartum haemorrhage sets the dose at one gram intravenously, given over ten minutes, as soon as possible once bleeding is recognised, with a second one-gram dose if bleeding continues after thirty minutes. The caveat that matters: it must be started within three hours of birth. Benefit falls with every interval of delay, and WHO advises against starting it beyond that window.\n\nThis is not a reason to wait for a diagnosis to firm up. It is a reason to have the drug, the dose and the clock written into the same checklist, so the decision to give it is made in the first few minutes, not the first few hours.\n\n#CME #MedEd #PPH",
+   "source": "WHO recommendation on tranexamic acid for PPH (2017)",
+   "source_url": "https://www.who.int/publications/i/item/9789241550154",
+   "image": "queue/img/q20261019am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261019pm",
+   "date": "2026-10-19",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "navy",
+   "eyebrow": "Reading trial results",
+   "headline": "The relative risk reduction is the impressive number; the absolute one is the useful one",
+   "sub": "The same trial result can be described as a large relative effect or a small absolute one, and only one of those numbers tells a patient what to expect for herself.",
+   "caption": "A therapy reported to cut risk by a large margin sounds decisive. Whether that is worth having depends on the baseline risk it is cutting from, and that number rarely makes the headline.\n\nRelative risk reduction compares two risks to each other. Absolute risk reduction compares the outcome to the starting point. A drug that produces a large relative reduction in a rare event may still change very few outcomes in absolute terms, because the baseline was already low. The same relative reduction applied to a common, high-stakes event changes a great deal.\n\nNeither number is wrong. They answer different questions, and a trial result is read correctly only when both are stated with the baseline risk alongside them.\n\nThe caveat that matters: a result presented in relative terms alone, with no baseline risk attached, cannot be converted into a decision for the patient in front of you.\n\n#CME #MedEd #Evidence",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261019pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
