@@ -58,13 +58,17 @@ No worker edits this section. The Standards Researcher may propose a change in s
   infographics, annotated images — drew the most shares, while people-and-milestone posts drew the
   most likes and comments. We optimise for shares, so build the clinical post as a case or a
   question with the answer and the pearl, not as a statement.
-- **Question and knowledge shape (3 Oct 2026):** when a post asks something, ask it as a
-  multiple-choice question. In the one controlled comparison available, MCQs drew significantly
-  more participation than yes/no or open-ended prompts (p < 0.001), and within knowledge posts
-  mnemonics and practical general information substantially outperformed clinical-trial and
-  case-report write-ups. **Scope limit:** that cohort was fourth-year medical students, not
+- **Question and knowledge shape (3 Oct 2026; extended 5 Oct 2026):** when a post asks something,
+  ask it as a multiple-choice question. In the one controlled comparison available, MCQs drew
+  significantly more participation than yes/no or open-ended prompts (p < 0.001), and within
+  knowledge posts mnemonics and practical general information substantially outperformed
+  clinical-trial and case-report write-ups. The mnemonic half of that is now replicated in a
+  randomised comparison: mnemonic posts drew significantly more engagement than clinical-trial
+  posts (p = 0.01), and adding supplementary visuals — comics, extra images — to a trial write-up
+  produced no improvement at all (p = 0.325). So lead with the retainable pearl, and do not dress a
+  study summary up to compensate for one. **Scope limit:** both cohorts were medical students, not
   practising clinicians, so treat this as the default shape for our MCQ carousels and not as
-  evidence about consultant audiences. Source in section C.
+  evidence about consultant audiences. Sources in section C.
 - **Formats from 9 Oct 2026** (revised 24 Sep 2026; old rule and evidence in section C): per week
   6 single squares, 4 carousels (2 reference, ≤10 slides, and 2 MCQ question), and 2 Reels once a
   Reels route exists. **Reels run ≤60 seconds** (added 3 Oct 2026). Never two carousels back to
@@ -72,6 +76,10 @@ No worker edits this section. The Standards Researcher may propose a change in s
   Carousels need the Publisher's carousel flow and Reels need a video route. Until each is tested,
   draft single squares only **and record the unmet slot** — a missing carousel or Reel is a
   capability gap to escalate, not a slot to fill silently.
+  **Slide count is not the lever (5 Oct 2026):** in the one randomised comparison, single-slide and
+  multi-slide posts drew equivalent engagement. The carousel allocation above rests on saves, not
+  on length, so a carousel has to be worth saving rather than merely longer — and a two-slide
+  carousel that earns a save beats a ten-slide one that does not.
 - **Optimise for** shares and saves, not likes. The confirmed ranking signals are watch time,
   likes per reach and sends per reach; a send is weighted several times a like and a save about
   three times a like.
@@ -80,15 +88,85 @@ No worker edits this section. The Standards Researcher may propose a change in s
   healed-patient, surgery or procedure imagery, however impressive the result; nothing that
   solicits patients — every post is clinician-facing; never buy likes, followers or ranking.
   These sit alongside A10 and A11 and bind the Factory and the Guardian equally.
-- **Reality check (updated 3 Oct 2026):** across all 24 posts old enough to measure, reach is
-  2–9 accounts per post, with zero saves, zero shares and zero comments on every one of them, and
-  two profile visits in total. The last sixteen consecutive posts all sat at reach 2–3 despite four
-  unbroken weeks of twice-daily publishing — so cadence alone is now shown not to build
-  distribution. Format tuning cannot fix a problem of that size. Until reach is consistently in the
-  hundreds, treat these format rules as preparation, and name distribution — not format — as the
-  binding constraint in each Guardian run.
+- **Reality check (updated 5 Oct 2026):** across all 27 posts old enough to measure, reach is
+  1–9 accounts per post with a median of 2, and there are zero saves, zero shares and zero comments
+  on every one of them, plus two profile visits in total. The last nineteen consecutive posts all
+  sat at reach 1–3 — including a new floor of reach 1 on 2 Oct — despite five unbroken weeks of
+  twice-daily publishing, so cadence alone is now shown not to build distribution. Format tuning
+  cannot fix a problem of that size. Until reach is consistently in the hundreds, treat these
+  format rules as preparation, and name distribution — not format — as the binding constraint in
+  each Guardian run. **The route is now evidenced (5 Oct 2026):** in a
+  randomised medical-education account study, a passive asynchronous invitation produced 3
+  followers while personalised direct invitations produced 30 within twelve hours. Direct personal
+  invitation, not publishing volume, is what builds the first audience. Acting on it is a founder
+  call (see section C); quoting it is not.
 
 ## C. Research log — dated entries, newest first
+
+- 5 Oct 2026 — **Randomised evidence on post design; two section B rules refined.** Source opened:
+  *Best Practices for Instagram in Medical Education: A Study With Randomized Post Designs*, In
+  Vivo 39(6):3516, Nov 2025 — a randomised comparison on a course-linked medical-education account
+  (126 students enrolled, 49 followers, 19 survey respondents) that randomised single-slide against
+  multi-slide posts and clinical-trial content alone against the same content with supplementary
+  visuals. (1) **Question and knowledge shape** — old: mnemonics-over-trials rested on one
+  cross-sectional study; new: the same rule, plus the randomised replication (mnemonics over
+  clinical-trial posts, p = 0.01) and the null result for decorative additions (p = 0.325), with
+  the scope limit widened to "both cohorts were medical students". To reverse, restore the 3 Oct
+  wording. (2) **Formats** — old: the weekly allocation with no statement about length; new: the
+  same allocation plus the "slide count is not the lever" clause (single-slide and multi-slide drew
+  equivalent engagement, 1.00 against 1.16 likes, p = 0.640). The weekly numbers are deliberately
+  *unchanged*: the carousel allocation of 24 Sep rests on saves across 24.4M posts, this study
+  measured likes on a 49-follower account, and we optimise for saves and shares, so it bounds the
+  rule rather than overturning it. To reverse, delete the clause. Source:
+  https://iv.iiarjournals.org/content/39/6/3516 (doi 10.21873/invivo.14149)
+- 5 Oct 2026 — **Proposal for the founder (distribution) — now with controlled evidence.** The
+  24 Sep distribution proposal was argued from one observational account. The In Vivo study above
+  supplies a controlled version of the same point: on an account built for a defined cohort,
+  asynchronous invitation drew 3 followers; personalised direct invitation drew 30 within twelve
+  hours, reaching 49 of 126 eligible people. Translated to us, the first audience comes from the
+  founder and confirmed faculty inviting named doctors directly — not from publishing more. This
+  remains the primary ask and remains outside this rulebook; no rule changed. A one-line version is
+  now quotable from the section B reality check.
+- 5 Oct 2026 — **Platform scan, 5 Sep – 5 Oct 2026: no ranking change, confirmed against the
+  tracker's own bar.** The tracker that admits only official posts, help-page changes and Mosseri
+  statements records nothing new: 15 Sep Meta One Links (paid clickable links in organic posts, no
+  stated ranking effect — still a watch item for registration links once A8 clears), 10 Sep Mosseri
+  on chronological feeds (a regulatory statement, not a change), 31 Aug AI-profile labelling (scope
+  is synthetic personas, already handled 24 Sep), and explicitly "no confirmed ranking change
+  rolling out" as of 4 Oct 2026. April 2026's originality crackdown remains the year's largest
+  confirmed change. Nothing to do. Source:
+  https://keywordseverywhere.com/news/instagram-algorithm-updates/
+- 5 Oct 2026 — **Indian posting-time data checked, no change.** Looked specifically for an
+  India-timezone dataset to test the 09:30 / 17:30 IST slots. Every result is affiliate or agency
+  blog content asserting IST windows with no sample size, no method and no dataset — the same
+  failure mode recorded for caption length on 3 Oct. Buffer's 9.6M-post analysis normalised to
+  local time remains the best available evidence and already supports both slots. Do not re-open
+  this on blog results; only a named dataset should move it.
+- 5 Oct 2026 — **Indian advertising rules re-checked: one further instrument found, does not bind
+  us.** The Department of Consumer Affairs *Additional Influencer Guidelines for Health and Wellness
+  Celebrities, Influencers and Virtual Influencers* (issued 10 Aug 2023, enforced under the Consumer
+  Protection Act 2019) require anyone presenting as a health expert to display their certification,
+  and non-experts to carry a disclaimer. Its scope is endorsement and promotion of products, which
+  we do not do: our posts are clinician-facing education, carry no product, and name no practitioner
+  (A8). So no rule change. It becomes live the day we name faculty or accept sponsorship — at that
+  point a named clinician's qualification must appear with any clinical claim they make, which sits
+  with the Architecture's sponsorship-disclosure requirement (§15.1). Logged so the next run can
+  skip it. NMC's 13 Aug 2023 social-media guidance remains the operative instrument for us, and the
+  "NMC 2026 Code of Ethics" consultancy pages are still secondary packaging with no notification
+  behind them, as recorded 3 Oct. Source:
+  https://www.newsonair.gov.in/centre-releases-additional-guidelines-for-health-and-wellness-celebrities-and-influencers
+- 5 Oct 2026 — **Our own performance: 30 posts live, 27 old enough to measure, and the flat line
+  has got flatter.** Reach 1–9 accounts per post, median 2. Zero saves, zero shares and zero
+  comments on all 27 — unbroken since the account's first post. Two profile visits in total, both
+  already logged. Best: 21 Sep, the Gadchiroli paediatric sepsis brand post — reach 9, 3
+  interactions, one profile visit; then 7 Sep, "the future of healthcare is evolving" — reach 8, 4
+  interactions. Worst: 2 Oct 04:15, "this is the sentence the whole platform is built to satisfy" —
+  reach 1, a new floor, and the only post ever to reach a single account. The nineteen consecutive
+  posts from 24 Sep to 3 Oct all sit at reach 1–3. Likes now track roughly one per two accounts
+  reached, which is the follower count talking, not performance. With zero saves and zero shares
+  across the whole account there is still no signal by which to rank a pillar or a specialty, and
+  any such claim this run would be invented. Section B reality check updated with the seeding
+  evidence rather than with new format conclusions.
 
 - 3 Oct 2026 — **Platform scan, 3 Sep – 3 Oct 2026: no ranking-signal change announced in the
   window.** Everything logged in the window is product surface, not ranking: Music Highlights, a
