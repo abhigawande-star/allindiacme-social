@@ -383,6 +383,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261020am",
+   "date": "2026-10-20",
+   "slot": "09:30",
+   "pillar": "brand",
+   "specialty": "general",
+   "theme": "ivory",
+   "eyebrow": "Our rule",
+   "headline": "A dose or a caveat is never cut to make a sentence read better",
+   "sub": "Clinical accuracy outranks engagement here, even when the clean version of the sentence is shorter.",
+   "caption": "Every medical caption could be made shorter. Cut the dose, drop the contraindication, lose the interval that matters, and the sentence reads cleaner.\n\nWe do not make that trade. A dose, a caveat or a contraindication stays in the sentence even when it makes the sentence longer, because the alternative is a shorter sentence that could mislead a reader we are not there to correct in person.\n\nThis is why some of our cards read less smoothly than a typical feed post, and why a post occasionally gets held back to check one more number against its source before it goes out. Reach is slower to build this way. Credibility is not something we are willing to spend to get there faster.\n\n#CME #MedEd #Accuracy",
+   "image": "queue/img/q20261020am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0,
+   "source": null,
+   "source_url": null
+  },
+  {
+   "id": "q20261020pm",
+   "date": "2026-10-20",
+   "slot": "17:30",
+   "pillar": "clinical",
+   "specialty": "paediatrics",
+   "theme": "gold",
+   "eyebrow": "Diarrhoea in children",
+   "headline": "For a child under six months, zinc has not been shown to shorten diarrhoea",
+   "sub": "WHO and UNICEF still set the dose at 10 to 20 mg daily for 14 days under five; the youngest infants are the exception.",
+   "caption": "For a child under five with diarrhoea, the WHO and UNICEF recommendation is oral zinc, 10 to 20 milligrams a day for fourteen days, alongside continued feeding and oral rehydration.\n\nThe caveat that matters: a 2024 WHO-commissioned systematic review and meta-analysis of thirty-eight trials in children under five years of age found this recovery benefit held from six months of age onward, but was not significant in infants younger than six months.\n\nThat does not change what belongs in the box for every other age group. It does mean that in the youngest infants, oral rehydration and feeding advice are doing the real clinical work, and zinc should not be assumed to add to it.\n\n#CME #MedEd #Diarrhoea",
+   "image": "queue/img/q20261020pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0,
+   "source": "WHO-commissioned meta-analysis, J Glob Health 14:04212 (2024)",
+   "source_url": "https://jogh.org/2024/jogh-14-04212"
   }
  ]
 }
