@@ -362,8 +362,8 @@
    "source": "WHO recommendation on tranexamic acid for PPH (2017)",
    "source_url": "https://www.who.int/publications/i/item/9789241550154",
    "image": "queue/img/q20261019am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #PPH' after a blank line; no dates, faculty, prices, accreditation or partner names; generic drug name (tranexamic acid); no patient-identifiable detail; theme gold between ivory/navy, no gold adjacency. G3 verified against the cited WHO recommendation on tranexamic acid for PPH (WHO/RHR/17.21, pub. 9789241550154) via the WHO's own TXA briefer of that same recommendation: 1g IV over 10 minutes, repeat 1g if bleeding continues after 30 minutes, must start within 3 hours of birth with benefit falling roughly 10% per 15-minute delay beyond that — all match exactly; searched for a newer edition and found none that changes dose or window. G4 respectful, no fear-selling, states a hard fact plainly. G5 no PPH/TXA post in the queue window; a clinician would save this as a checklist rule. ",
    "revision": 0
   },
   {
@@ -380,8 +380,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261019pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Evidence' after a blank line; no dates, faculty, prices, accreditation, partner names; no drug or dose stated. G3 n/a — no dose, threshold, timing, drug or management step stated, so no source needed; the post correctly avoids asserting any specific trial numbers. G4 respectful, explains the concept without condescension. G5 no relative/absolute risk post elsewhere in the queue window; genuinely useful for reading any trial reported in the media. Worth posting: equips a doctor to correctly interpret the next 'risk cut by X%' headline.",
    "revision": 0
   },
   {
@@ -396,8 +396,8 @@
    "sub": "Clinical accuracy outranks engagement here, even when the clean version of the sentence is shorter.",
    "caption": "Every medical caption could be made shorter. Cut the dose, drop the contraindication, lose the interval that matters, and the sentence reads cleaner.\n\nWe do not make that trade. A dose, a caveat or a contraindication stays in the sentence even when it makes the sentence longer, because the alternative is a shorter sentence that could mislead a reader we are not there to correct in person.\n\nThis is why some of our cards read less smoothly than a typical feed post, and why a post occasionally gets held back to check one more number against its source before it goes out. Reach is slower to build this way. Credibility is not something we are willing to spend to get there faster.\n\n#CME #MedEd #Accuracy",
    "image": "queue/img/q20261020am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Accuracy' after a blank line; no dates, faculty, prices, accreditation, partner names; no clinical claim. G3 n/a — brand post, no clinical statement. G4 respectful, states the account's own rule without shaming other publishers. G5 distinct from the other brand-rule posts in the queue (q20261010am on naming the guideline, q20261017am on confirming programme details) — this one is specifically about never trimming a dose or caveat for readability, not previously stated. Worth posting: makes the accuracy-over-virality rule explicit and credible to a clinical reader.",
    "revision": 0,
    "source": null,
    "source_url": null
@@ -414,8 +414,8 @@
    "sub": "WHO and UNICEF still set the dose at 10 to 20 mg daily for 14 days under five; the youngest infants are the exception.",
    "caption": "For a child under five with diarrhoea, the WHO and UNICEF recommendation is oral zinc, 10 to 20 milligrams a day for fourteen days, alongside continued feeding and oral rehydration.\n\nThe caveat that matters: a 2024 WHO-commissioned systematic review and meta-analysis of thirty-eight trials in children under five years of age found this recovery benefit held from six months of age onward, but was not significant in infants younger than six months.\n\nThat does not change what belongs in the box for every other age group. It does mean that in the youngest infants, oral rehydration and feeding advice are doing the real clinical work, and zinc should not be assumed to add to it.\n\n#CME #MedEd #Diarrhoea",
    "image": "queue/img/q20261020pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Diarrhoea' after a blank line; no dates, faculty, prices, accreditation, partner names; generic drug name (zinc); no patient-identifiable detail; theme gold between ivory/navy, no gold adjacency. G3 verified against the cited WHO-commissioned meta-analysis (J Glob Health 2024;14:04212, 38 trials, 33,693 children): WHO/UNICEF dose of 10-20mg/day for 14 days under five matches; recovery risk ratio <6 months 0.94 (0.88-1.00, not significant) vs >=6 months 1.05 (1.01-1.10, significant) matches the post's claim exactly; searched for a newer edition, found none superseding it (only a March 2025 commentary discussing a possible future lower-dose option, not an issued change). G4 respectful, careful to say the caveat applies only to the youngest infants and does not undercut the recommendation for every other age group. G5 no zinc/diarrhoea post elsewhere in the queue window. Worth posting: a specific age-based exception a doctor would otherwise apply too broadly.",
    "revision": 0,
    "source": "WHO-commissioned meta-analysis, J Glob Health 14:04212 (2024)",
    "source_url": "https://jogh.org/2024/jogh-14-04212"
