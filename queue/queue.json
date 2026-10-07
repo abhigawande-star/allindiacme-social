@@ -419,6 +419,42 @@
    "revision": 0,
    "source": "WHO-commissioned meta-analysis, J Glob Health 14:04212 (2024)",
    "source_url": "https://jogh.org/2024/jogh-14-04212"
+  },
+  {
+   "id": "q20261021am",
+   "date": "2026-10-21",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "diabetes and internal medicine",
+   "theme": "navy",
+   "eyebrow": "Lipid targets in diabetes",
+   "headline": "A coronary diagnosis moves the LDL target in diabetes from under 100 to under 70",
+   "sub": "ICMR's standard treatment workflow sets this lower goal only where coronary artery disease is already documented.",
+   "caption": "A patient's LDL target in type 2 diabetes is not fixed; it depends on whether coronary artery disease is already present.\n\nICMR's standard treatment workflow for type 2 diabetes mellitus sets the general target at LDL cholesterol under 100 milligrams per decilitre. Where coronary artery disease is documented, that target drops to under 70. The workflow does not extend this lower threshold to diabetic kidney disease, retinopathy or a stroke history on its own.\n\nThe caveat that matters: treating every patient with diabetes to the same lipid goal misses the ones who need a stricter target, and can over-treat some who do not. It is the coronary history on the chart, not the diabetes diagnosis alone, that decides which number applies.\n\n#CME #MedEd #LDL",
+   "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
+   "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
+   "image": "queue/img/q20261021am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261021pm",
+   "date": "2026-10-21",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "anaesthesia and pain",
+   "theme": "ivory",
+   "eyebrow": "Reading the evidence",
+   "headline": "A number needed to treat means little until you know what outcome it was built on",
+   "sub": "The same NNT can describe a cure, a day of pain relief, or a one-point drop on a ten-point scale.",
+   "caption": "A number needed to treat, or NNT, is often quoted as though it settles whether a therapy is worth giving. On its own, it does not.\n\nNNT answers how many patients must receive a treatment for one additional patient to benefit, compared with the comparator. It does not say how large that benefit is, how it was defined, or how long it lasted. A pain intervention with an NNT of four for a fifty per cent reduction in pain scores, and one with an NNT of four for complete resolution, are not the same claim, even though the number on the page is identical.\n\nReading an NNT well means reading the outcome it was built on in the same breath, not stopping at the number itself.\n\nThe caveat that matters: a small NNT attached to a trivial or short-lived outcome is not automatically a stronger result than a larger NNT attached to an outcome the patient would actually notice.\n\n#CME #MedEd #NNT",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261021pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
