@@ -434,8 +434,8 @@
    "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
    "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
    "image": "queue/img/q20261021am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #LDL' after a blank line; no dates, faculty, prices, accreditation or partner names; generic terms only; theme navy, neighbours gold/ivory - no gold-gold adjacency. G3 verified against ICMR Standard Treatment Workflow - Diabetes Mellitus Type 2 (DHR/MoHFW, uploaded 17 Sep 2024, the only version found - no newer edition located on icmr.gov.in or the STW portal): document states 'LDL: < 100 mg/dl (< 70mg/dl in CAD)' verbatim, matching the post's numbers and units exactly; the claim that the lower threshold is not extended to CKD/retinopathy/stroke is also accurate - the source attaches no LDL trigger to those besides CAD (CKD is only tied to the BP target, not LDL). G4 respectful, explains the distinction plainly, no alarm. G5 no LDL/lipid-target post elsewhere in the queue; genuinely useful - corrects a one-size-fits-all lipid-target habit. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: a precise, checkable clinical point a doctor can act on immediately.",
    "revision": 0
   },
   {
@@ -452,8 +452,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261021pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #NNT' after a blank line; no dates/faculty/prices/partners; no real drug or dose asserted. G3 n/a - the NNT example is generic and hypothetical (no real drug, dose, threshold or management step stated), so no source is needed. G4 respectful, teaches without condescension. G5 distinct from the 19 Oct ARR/RRR post and the 22 Oct composite-endpoint post - each covers a different statistical concept in the same evidence-literacy strand; no headline or topic repeat. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: equips a doctor to ask 'NNT for what outcome' before accepting a quoted number.",
    "revision": 0
   },
   {
@@ -470,8 +470,8 @@
    "source": "ICMR Standard Treatment Workflow — Cardiology",
    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823344_cardiology-1.pdf",
    "image": "queue/img/q20261022am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #AFib' after a blank line; no dates/faculty/prices/partners; generic drug/class names only (warfarin, DOAC); theme gold, neighbours navy/navy - no gold-gold adjacency. G3 verified against ICMR Standard Treatment Workflow - Cardiology/Atrial Fibrillation (DHR/MoHFW, uploaded 19 Jan 2026 - the newest cardiology STW on file; the two 2024 cardiology STWs it supersedes were checked separately and do not apply): source lists 'Direct oral anticoagulants (DOAC)' as the anticoagulation choice, states 'VKA only if severe M.S or metallic valve', and lists the only exceptions to anticoagulating as 'Limited period with reversible etiology' and 'Score <2' - all three claims in the post match verbatim. G4 respectful, states the clinical reason plainly without shaming convenience-driven prescribing. G5 no warfarin/DOAC/AFib post elsewhere in the queue; genuinely useful - a checkable, high-stakes anticoagulant-choice correction. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: corrects a real stroke-protection risk, not a stylistic preference.",
    "revision": 0
   },
   {
@@ -488,8 +488,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261022pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Composite' after a blank line; no dates/faculty/prices/partners; no real drug or dose asserted; theme navy, neighbour gold - no gold-gold adjacency. G3 n/a - the composite-endpoint example (death/heart attack/revascularisation) is generic and hypothetical, no real trial, drug, dose or threshold is asserted, so no source is needed. G4 respectful, teaches the concept without undermining trial evidence generally. G5 distinct from the 19 Oct ARR/RRR post and the 21 Oct NNT post - three different evidence-literacy concepts in the same week, no topic or headline repeat. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: changes how a doctor should weigh a reported 'positive' composite result.",
    "revision": 0
   }
  ]
