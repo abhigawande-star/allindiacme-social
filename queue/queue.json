@@ -455,6 +455,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261022am",
+   "date": "2026-10-22",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "cardiology",
+   "theme": "gold",
+   "eyebrow": "Atrial fibrillation",
+   "headline": "A mechanical heart valve is the reason to pick warfarin over a DOAC",
+   "sub": "ICMR's cardiology workflow reserves warfarin for severe mitral stenosis and mechanical valves; every other indicated patient defaults to a DOAC.",
+   "caption": "For atrial fibrillation, the ICMR standard treatment workflow for cardiology sets a direct oral anticoagulant as the default once a patient's stroke-risk score indicates anticoagulation, with exceptions only for a limited period with a reversible cause or a low score.\n\nWarfarin is kept for two situations alone: severe mitral stenosis and a mechanical heart valve. Outside those two, moving a patient to a DOAC because it avoids regular clotting-time blood tests is not what the workflow intends, and in a mechanical valve it would withdraw a protection a DOAC has never been shown to provide there.\n\nThe caveat that matters: it is the valve or the severe mitral stenosis that should decide the drug class, not convenience, and not the diagnosis of atrial fibrillation by itself.\n\n#CME #MedEd #AFib",
+   "source": "ICMR Standard Treatment Workflow — Cardiology",
+   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823344_cardiology-1.pdf",
+   "image": "queue/img/q20261022am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261022pm",
+   "date": "2026-10-22",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "navy",
+   "eyebrow": "Composite endpoints",
+   "headline": "A composite endpoint can move without its most important part moving",
+   "sub": "When a trial reports a drop in a combined outcome, the benefit can sit entirely in its softest component while death or major illness barely move.",
+   "caption": "A composite endpoint bundles several outcomes into one number so a trial can report a result with fewer patients and in less time. Reported as one figure, a reduction in the composite is often read as if every component in it improved by a similar amount. It rarely works that way.\n\nA composite built from death, heart attack and revascularisation can show an overall benefit driven almost entirely by revascularisation, a softer and more subjective outcome, while death and heart attack barely move. The headline result is accurate. What it implies about the outcome a patient actually cares about is not.\n\nReading a composite endpoint well means asking for its individual components before deciding what the result is worth to the patient in front of you.\n\nThe caveat that matters: a positive composite result reported with no separate account of its hardest component has not yet told you what it claims to.\n\n#CME #MedEd #Composite",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261022pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
