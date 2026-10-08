@@ -88,11 +88,47 @@ No worker edits this section. The Standards Researcher may propose a change in s
   healed-patient, surgery or procedure imagery, however impressive the result; nothing that
   solicits patients — every post is clinician-facing; never buy likes, followers or ranking.
   These sit alongside A10 and A11 and bind the Factory and the Guardian equally.
-- **Reality check (updated 5 Oct 2026):** across all 27 posts old enough to measure, reach is
-  1–9 accounts per post with a median of 2, and there are zero saves, zero shares and zero comments
-  on every one of them, plus two profile visits in total. The last nineteen consecutive posts all
-  sat at reach 1–3 — including a new floor of reach 1 on 2 Oct — despite five unbroken weeks of
-  twice-daily publishing, so cadence alone is now shown not to build distribution. Format tuning
+- **Compliance constraints — second instrument (8 Oct 2026; NMC Ethics and Medical Registration
+  Board, *Guidelines on Ethical Advertising and Public Communication by Hospitals/Medical
+  Institutions and Registered Medical Practitioners*, public notice dated 6 Oct 2026, in force
+  immediately).** This sits alongside the 24 Sep bullet above and replaces nothing in it.
+  - **Advertising is defined broadly.** Any communication that directly or indirectly promotes the
+    professional services, reputation or qualifications of a practitioner or an institution counts
+    as advertising, and a communication is treated as advertising whenever its content *or its
+    manner of dissemination* has promotional character. Factual information remains permitted.
+  - **The exemption we sit inside, and must keep sitting inside.** Health-awareness programmes,
+    public-health campaigns, academic discussion and educational content are expressly permitted
+    provided they do not promote personal practice, do not solicit patients, and are not monetised
+    through promotional marketing. So every post stays clinician-facing education that solicits no
+    patient. That is now a compliance position, not only a style choice.
+  - **No superlatives, no guarantees.** Never "best", "No. 1" or "leading" unless objectively
+    verifiable; never a guaranteed cure, a success rate or a patient-number claim. Any ranking or
+    award quoted must be independently verifiable, with its methodology and date.
+  - **No fear-based framing,** and nothing written to create unnecessary demand for a procedure or
+    an investigation. This binds the clinical pillar: a post may state a risk that a named current
+    guideline states, and may never manufacture alarm around it.
+  - **Engagement integrity, widened.** The 24 Sep rule was "never buy likes, followers or ranking".
+    It now reads: never procure or manipulate fake followers, likes, reviews or ratings, and never
+    manipulate search rankings or algorithms to create a misleading impression of standing.
+  - **AI.** AI-generated promotional campaigns furthering a commercial interest are prohibited, and
+    permitted AI-generated promotional content must carry a clear disclosure that its origin is AI.
+    Our cards are machine-rendered and our captions machine-drafted, so our protection is the
+    exemption above: keep every post educational and non-promotional in content and in framing.
+    Never use AI to create or alter a patient, practitioner, image, voice, testimonial or clinical
+    outcome. Whether the brand pillar clears this line is a founder call — see section C.
+  - **When A8 clears and faculty are named,** a named practitioner's post must carry their name,
+    qualifications, registration status and registration number, and an institution must disclose
+    the details of the practitioners associated with its posts. Engaging an agency, an influencer
+    or a platform transfers no responsibility for anything published.
+  - **Patient imagery does not loosen.** The guidelines allow before-and-after and case imagery for
+    scientific or educational use with anonymised consent. Our own rule is stricter and does not
+    move: none of it, ever (24 Sep bullet, A10).
+- **Reality check (updated 8 Oct 2026):** across all 32 posts old enough to measure, reach is
+  1–10 accounts per post with a median of 3, and there are zero saves, zero shares and zero
+  comments on every one of them, plus two profile visits in total. The last twelve measurable posts
+  all sit at reach 1–4, the account's floor of reach 1 now stands on 3 Oct, and the six posts
+  published since the 5 Oct run have not changed the shape of the line, so cadence alone is still
+  shown not to build distribution. Format tuning
   cannot fix a problem of that size. Until reach is consistently in the hundreds, treat these
   format rules as preparation, and name distribution — not format — as the binding constraint in
   each Guardian run. **The route is now evidenced (5 Oct 2026):** in a
@@ -103,6 +139,94 @@ No worker edits this section. The Standards Researcher may propose a change in s
 
 ## C. Research log — dated entries, newest first
 
+- 8 Oct 2026 — **New Indian regulatory instrument; one section B compliance bullet added.** The
+  NMC Ethics and Medical Registration Board issued *Guidelines on Ethical Advertising and Public
+  Communication by Hospitals/Medical Institutions and Registered Medical Practitioners* by public
+  notice dated 6 Oct 2026, signed by NMC Secretary Dr Raghav Langer, in force immediately and
+  circulated to state and UT health and education officials, state medical council registrars and
+  the deans and principals of medical colleges. Old: section B carried one compliance bullet, the
+  NMC social-media guidance of 13 Aug 2023. New: a second bullet sits beside it, covering the broad
+  definition of advertising (any communication whose content or manner of dissemination has
+  promotional character), the express permission for awareness programmes, public-health campaigns,
+  academic discussion and educational content that does not promote personal practice, solicit
+  patients or get monetised through promotional marketing, the ban on superlatives and guaranteed
+  outcomes, the ban on fear-based framing and manufactured demand, engagement integrity widened
+  from "never buy" to "never procure or manipulate, and never manipulate rankings or algorithms",
+  the AI clauses, and the practitioner-identification requirement that becomes live when A8 clears.
+  **Nothing in it stops what we publish today:** our posts are clinician-facing education, carry no
+  product, name no practitioner and solicit no patient — which is the exemption written into the
+  guidelines rather than a gap in them. To reverse, delete the second compliance bullet; the 24 Sep
+  bullet is untouched. **Primary source is not machine-readable:** the notice listed under What's
+  New at 06/10/2026, https://nmc.org.in/whats-new/download/1874, is a scanned PDF with no
+  extractable text, and this environment's egress policy refused a direct download, so the clauses
+  above are taken from three independent reports that agree on them. Next run should re-check
+  whether a text-readable copy has been published, and verify the AI-disclosure wording in
+  particular: two reports state a compulsory AI-origin disclosure on permitted AI-generated
+  promotional content, while the third describes only practitioner-identity disclosure. Sources:
+  https://medicaldialogues.in/health-news/nmc/nmc-issues-ethical-advertising-public-communication-guidelines-for-doctors-hospitals-details-180731
+  and
+  https://www.etvbharat.com/en/bharat/nmc-tightens-rules-on-medical-advertising-bans-misleading-claims-and-ai-manipulated-patient-promotions-enn26100706603
+  and
+  https://thesouthfirst.com/health/doctors-on-instagram-nmc-says-no-to-patient-testimonials-paid-ads-ai-promotions-and-guaranteed-claims/
+- 8 Oct 2026 — **Proposal for the founder (A6 and the pillar mix): decide whether the brand pillar
+  is promotional.** Under the 6 Oct NMC definition a communication is advertising whenever its
+  content or its manner of dissemination has promotional character, and the exemption covers
+  content that is educational and does not promote a practice. Four of our five pillars are plainly
+  educational. The brand pillar — 20% of output, and the pillar the account's best-reaching post
+  belongs to — exists to say what All India CME is, and All India CME is a venture of a commercial
+  LLP. Two calls follow, both the founder's. (1) Hold the brand pillar to factual statements of what
+  the organisation does and teaches, with no claim of superiority over anyone — close to what it
+  already does, but worth stating as a boundary. (2) Whether render.py should carry an AI-origin
+  line beside the lockup, given the cards are machine-rendered and the captions machine-drafted. My
+  reading is that the disclosure attaches to AI-generated *promotional* content and therefore does
+  not bite while every post stays inside the educational exemption, which is why no rule changed
+  — but A6 fixes what every image carries, so only the founder can add to it. No rule changed.
+- 8 Oct 2026 — **Proposal for the founder (brand tone): one unused distribution surface found.**
+  Instagram's own @creators account has announced that photos and carousels with music are eligible
+  to appear in the Reels tab, in its words "helping you reach more people who don't follow you".
+  That is the only route found that puts a static clinical card in front of non-followers without a
+  video, it is free, and it is reversible. It is also a tone decision rather than a strategy one —
+  an MCQ carousel set to a music track changes how the brand sounds, which is section A territory —
+  so it is logged as a proposal and no section B rule changed. Two honest caveats. It is a surface,
+  not a fix: on an account reaching one to four accounts a post it would widen a channel that
+  currently carries almost nothing, and the 5 Oct seeding proposal (direct personal invitation)
+  remains the primary ask. And the announcement is not new and the @creators post could not be
+  opened from here (robots.txt), so the finding rests on secondary coverage. Source:
+  https://www.lindseygamble.com/blog/instagram-expands-the-reach-of-carousels-and-photos-by-featuring-them-in-the-reels-tab-heres-why-it-matters
+- 8 Oct 2026 — **Platform scan, 8 Sep – 8 Oct 2026: no confirmed ranking change.** The tracker that
+  admits only official posts, help-page changes and Mosseri statements was last checked 7 Oct 2026
+  and records nothing at all for October. The window's only entries remain 15 Sep Meta One Links
+  and 10 Sep Mosseri on chronological feeds, both logged on 5 Oct, and it still names April 2026's
+  originality crackdown as the year's largest confirmed change. A second tracker adds four items
+  that are tests or audience filters rather than ranking changes, and none needs a rule: a
+  Reels-first feed layout test; a test replacing follower counts with mutual "Friends", which is a
+  discovery watch item for an account as new as ours; Reels "Series" grouping; and a PG-13 filter
+  for under-18 accounts, outside a clinician audience. Mosseri also restated that resharing a feed
+  post to Stories does not boost reach and that scheduling a Reel does not hurt it. Nothing to do.
+  Sources: https://keywordseverywhere.com/news/instagram-algorithm-updates/ and
+  https://metricool.com/instagram-news/
+- 8 Oct 2026 — **Format evidence re-checked: no new study, and the carousel rule's provenance now
+  recorded.** No medical-education or professional-audience study published since 5 Oct was found;
+  the three that underpin section B are unchanged (In Vivo 39(6):3516; JMIR Med Educ 2026;1:e79124;
+  PMC13147703). The dataset behind the 24 Sep carousel allocation is Metricool's 2026 Instagram
+  study, and its particulars belong in the log rather than in anyone's memory: 24,364,803 posts from
+  375,118 accounts, January–February 2025 against January–February 2026, published 16 Jun 2026,
+  reporting carousels at nine times the saves of single images, Reels at more than four times the
+  interactions of single images, and single-image reach down 21.96% year on year. That is what the
+  6 single squares / 4 carousels / 2 Reels split rests on. The single-image decline is a reason to
+  revisit the split once the Publisher's carousel flow is tested — not before, since we cannot yet
+  publish a carousel at all, and the split already records that unmet slot as a capability gap. No
+  rule changed. Source: https://metricool.com/press-release-instagram-study-2026/
+- 8 Oct 2026 — **Our own performance: 36 posts live, 32 old enough to measure, still a flat line.**
+  Reach 1–10 accounts per post, median 3. Zero saves, zero shares and zero comments on all 32,
+  unbroken since the account's first post. Two profile visits in total, both previously logged.
+  Best: 21 Sep, the Gadchiroli paediatric sepsis brand post — reach 10 (up one since 5 Oct), 3
+  interactions, one profile visit; then 7 Sep, "the future of healthcare is evolving" — reach 9, 4
+  interactions. Worst: 3 Oct 12:15, "All India CME is not a webinar series" — reach 1, the
+  account's floor; the 2 Oct post previously recorded at reach 1 has since risen to 2. The six posts
+  published since the last run have not moved anything. With zero saves and zero shares across the
+  whole account there is still no signal by which to rank a pillar or a specialty, and any such
+  claim this run would be invented. Section B reality check updated with the new counts only.
 - 5 Oct 2026 — **Randomised evidence on post design; two section B rules refined.** Source opened:
   *Best Practices for Instagram in Medical Education: A Study With Randomized Post Designs*, In
   Vivo 39(6):3516, Nov 2025 — a randomised comparison on a course-linked medical-education account
