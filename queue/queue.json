@@ -491,6 +491,42 @@
    "status": "qc_passed",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Composite' after a blank line; no dates/faculty/prices/partners; no real drug or dose asserted; theme navy, neighbour gold - no gold-gold adjacency. G3 n/a - the composite-endpoint example (death/heart attack/revascularisation) is generic and hypothetical, no real trial, drug, dose or threshold is asserted, so no source is needed. G4 respectful, teaches the concept without undermining trial evidence generally. G5 distinct from the 19 Oct ARR/RRR post and the 21 Oct NNT post - three different evidence-literacy concepts in the same week, no topic or headline repeat. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: changes how a doctor should weigh a reported 'positive' composite result.",
    "revision": 0
+  },
+  {
+   "id": "q20261023am",
+   "date": "2026-10-23",
+   "slot": "09:30",
+   "pillar": "ayush",
+   "specialty": "AYUSH",
+   "theme": "ivory",
+   "eyebrow": "AYUSH, in parallel",
+   "headline": "A specialist's one session does not pause the AYUSH practitioner's own curriculum",
+   "sub": "An allopathic specialist can teach one high-value CME to an AYUSH audience without interrupting that practitioner's own-discipline curriculum, which continues on its own calendar.",
+   "caption": "Picture an obstetrics and gynaecology specialist invited to teach an infertility session to an AYUSH audience. For that one session, an allopathic specialist teaches allopathic content, to doctors trained in a different system who still need to understand it.\n\nThat session runs alongside the audience's own curriculum, not instead of it. A BAMS practitioner's Ayurveda learning continues on its own sequence. A BHMS practitioner's homoeopathic learning continues on its own sequence. Neither pauses because a specialist visited for a week.\n\nThe two tracks share a platform and a calendar. They do not share a curriculum, and nothing from one track is ever presented as replacing the other.\n\n#CME #MedEd #AYUSH",
+   "image": "queue/img/q20261023am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0,
+   "source": null,
+   "source_url": null
+  },
+  {
+   "id": "q20261023pm",
+   "date": "2026-10-23",
+   "slot": "17:30",
+   "pillar": "brand",
+   "specialty": "general",
+   "theme": "gold",
+   "eyebrow": "What we don't do",
+   "headline": "A post here never asks you to follow, share or tag a colleague",
+   "sub": "Engagement earned by being useful is the only kind we want; asking for it directly is not something a clinical education account should need to do.",
+   "caption": "Many accounts end a caption with an instruction: follow for more, tag a colleague who needs this, share if this helped you. We do not.\n\nIf a card is useful enough to save, a reader will save it. If a point is worth sending to a colleague, a reader will send it without being asked. Manufacturing that action with an instruction does not make the content any more useful, and it treats a clinician's attention as something to be extracted rather than earned.\n\nSo nothing on these cards asks for an action. What is posted either holds up on its own, or it does not belong here.\n\n#CME #MedEd #Respect",
+   "image": "queue/img/q20261023pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0,
+   "source": null,
+   "source_url": null
   }
  ]
 }
