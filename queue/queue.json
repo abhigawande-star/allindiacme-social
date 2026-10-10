@@ -69,9 +69,12 @@
    "sub": "Strength tells you how confidently to act. Certainty tells you how solid the underlying evidence is. Guidelines label both, and the two do not always move together.",
    "caption": "Two labels sit next to most modern recommendations, and they answer different questions. Strength, strong or conditional, is guidance on action: how confidently should a clinician do this for most patients. Certainty, high through very low, is a verdict on the evidence itself.\n\nThey come apart more often than people expect. A strong recommendation on moderate certainty usually means the benefit is large and consistent enough to act on even though the trials are imperfect. A conditional recommendation on the same certainty usually means the evidence is reasonable but the balance of benefit and burden depends on the patient in front of you.\n\nReading both labels, and not just the verb in the sentence, is the difference between following a guideline and using one.\n\n#CME #MedEd #Evidence",
    "image": "queue/img/q20261010pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant. G3 checked against GRADE as used in the WHO documents opened in this run: strength strong or conditional, certainty high to very low, and the two are rated separately; no dose, drug or threshold is stated, so no guideline citation is required. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: most readers act on the verb and ignore the certainty label, and the distinction changes how a recommendation is applied.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DeUEAAboNjz/",
+   "fb_post_id": "1240677149138394_122112665001486020",
+   "published_at": "2026-10-10T12:16:26+0000"
   },
   {
    "id": "q20261011am",
