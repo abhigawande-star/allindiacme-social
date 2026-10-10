@@ -50,9 +50,12 @@
    "sub": "If a card states a dose, a threshold or a duration, the guideline it came from is named on the card itself. Nothing goes up on memory.",
    "caption": "A number without a source is an opinion wearing a lab coat. So the rule here is narrow and absolute: nothing clinical is published unless the governing guideline has been opened and read, the recommendation says what we say it says, and the guideline is named where a reader can go and check it.\n\nIndian bodies come first, the paediatric, obstetric, diabetes, anaesthesia, critical care and neonatology societies, and where no Indian recommendation exists, the leading international one. Generic drug names only. The caveat that changes management stays in, even when it costs us the cleaner line.\n\nIf a claim cannot survive that, it does not go up. Clinical accuracy outranks engagement, every time.\n\n#CME #MedEd #Standards",
    "image": "queue/img/q20261010am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant; guideline bodies are named generically as categories, which is not a partner name or an accreditation claim. G3 n/a, the post makes no clinical claim of its own. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: publishing the sourcing rule is what earns the right to be believed on the clinical cards.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DeTNCdFAGBP/",
+   "fb_post_id": "1240677149138394_122112512577486020",
+   "published_at": "2026-10-10T04:16:11Z"
   },
   {
    "id": "q20261010pm",
