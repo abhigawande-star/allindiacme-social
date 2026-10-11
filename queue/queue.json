@@ -88,11 +88,14 @@
    "sub": "WHO 2022 recommends four months, not six, between 3 months and 16 years of age, when disease is non-severe and drug resistance is neither suspected nor evident.",
    "caption": "Ask this in a busy clinic and the reflex answer is six months. The current WHO consolidated guidance on tuberculosis says otherwise for a defined group: in children and adolescents between 3 months and 16 years of age with non-severe disease, and without suspicion or evidence of multidrug-resistant or rifampicin-resistant tuberculosis, a four-month regimen should be used. It is a strong recommendation on moderate certainty evidence.\n\nThe caveat is the whole recommendation. Non-severe here means peripheral lymph node disease, intrathoracic lymph node disease without airway obstruction, or uncomplicated pleural effusion and paucibacillary non-cavitary disease confined to one lobe without a miliary pattern. A child who does not meet that definition still gets the standard six-month regimen, or the longer regimen recommended for that form of severe extrapulmonary disease. Shortening treatment for the wrong child is not a smaller intervention, it is a different one.\n\n#CME #MedEd #Paediatrics",
    "image": "queue/img/q20261011am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean (lint). G2 compliant: sentence case, no emoji, exact three hashtags, no CME dates/faculty/price/accreditation/partner names, generic terms only, theme ivory fits the navy-ivory-gold rotation with no gold-adjacent conflict. G3 verified: opened https://www.ncbi.nlm.nih.gov/books/NBK579377/ (WHO consolidated guidelines on TB, Module 5, 2022) directly — the 4-month regimen for ages 3 months-16 years with non-severe TB (without suspected/confirmed MDR/RR-TB), the 'strong recommendation, moderate certainty' rating, the non-severe TB definition, and the six-month-or-longer fallback for children who don't meet that definition all match the source verbatim. Confirmed current: the 2025 WHO Module 4 update keeps this recommendation, not superseded. G4 respectful, no fear-selling. G5 unique topic, no repeat in the queue. G6 image present, 1080x1080 JPEG, overflow false on re-render. Worth posting: corrects a common six-month reflex with the exact boundary conditions a paediatrician needs to apply it safely.",
    "revision": 1,
    "source": "WHO TB guidelines 2022",
-   "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK579377/"
+   "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK579377/",
+   "ig_permalink": "https://www.instagram.com/p/DeVx2zMgEgn/",
+   "fb_post_id": "1240677149138394_122112952869486020",
+   "published_at": "2026-10-11T04:16:17+0000"
   },
   {
    "id": "q20261011pm",
