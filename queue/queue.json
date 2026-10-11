@@ -575,6 +575,42 @@
    "revision": 0,
    "source": null,
    "source_url": null
+  },
+  {
+   "id": "q20261025am",
+   "date": "2026-10-25",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "obstetrics and gynaecology",
+   "theme": "gold",
+   "eyebrow": "Preterm birth",
+   "headline": "Antenatal corticosteroids only help a preterm baby if the receiving unit can care for one",
+   "sub": "WHO's 2022 recommendation covers 24 to 34 weeks when birth is likely within seven days, but one condition is about the baby's side of care, not the mother's dose.",
+   "caption": "Antenatal corticosteroids remain one of the most effective single interventions in preterm birth, but WHO's 2022 recommendation ties the benefit to more than gestational age alone.\n\nThe recommendation covers women with a high likelihood of preterm birth between 24 and 34 weeks of gestation, when birth is expected within seven days and there is no clinical evidence of maternal infection. The condition that is easy to miss: it also requires that adequate childbirth care is available, and that the preterm newborn can actually receive resuscitation, thermal care, feeding support, infection treatment and respiratory support.\n\nGiving the steroid does not substitute for having that newborn care in place. Where it is not available, the same recommendation points to a different decision: refer before birth, not after.\n\n#CME #MedEd #Obstetrics",
+   "source": "WHO 2022",
+   "source_url": "https://www.who.int/publications/i/item/9789240057296",
+   "image": "queue/img/q20261025am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261025pm",
+   "date": "2026-10-25",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "navy",
+   "eyebrow": "Subgroup analysis",
+   "headline": "A trial that misses its primary endpoint can still produce a convincing subgroup result",
+   "sub": "Split a null trial into enough subgroups and one slice will cross significance by chance alone; the count of comparisons decides how much to trust it, not how striking the number looks.",
+   "caption": "A randomised trial that misses its primary endpoint has not entirely failed to produce findings. Split the same dataset into enough subgroups, by age, sex, baseline severity, region or site, and at least one of those slices is likely to cross statistical significance purely by chance.\n\nThis is not evidence of a real effect confined to that subgroup. It is the arithmetic of multiple comparisons: each additional subgroup tested raises the odds that some comparison looks positive even when nothing in the underlying biology changed. A subgroup finding earns attention only when it was specified before the trial started, when it fits a plausible mechanism, and when another trial finds the same pattern independently.\n\nThe practical rule: treat a subgroup claim from a trial that missed on its primary endpoint as a hypothesis for the next study, not as a reason to change today's practice.\n\n#CME #MedEd #TrialDesign",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261025pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
