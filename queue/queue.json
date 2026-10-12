@@ -614,6 +614,42 @@
    "status": "qc_passed",
    "qc_notes": "PASS G1-G6. G3 not applicable: educational/cross-specialty statistical-literacy post (multiple-comparisons / subgroup-analysis fallacy), states no dose/threshold/timing/drug/management step, so no source_url required -- consistent with every other approved educational cross-specialty post in this queue (q20261010pm, q20261013pm, q20261015am, q20261019pm, q20261022pm, q20261024pm), all null source. G2: sentence case, no emoji, 3 hashtags, no restricted claims, no numbers stated so no sourcing gap. Theme navy follows gold (10/25 am) -- rotation intact, no gold-on-gold. G5: no prior post on subgroup analysis / multiple comparisons in the queue; distinct from NNT, composite-endpoint, RRR-vs-ARR and rare-disease-test posts already used. Worth posting: a practical skepticism check doctors can apply to any trial write-up that leads with a subgroup finding -- broadly useful across specialties.",
    "revision": 0
+  },
+  {
+   "id": "q20261026am",
+   "date": "2026-10-26",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "orthopaedics",
+   "theme": "ivory",
+   "eyebrow": "Hip fracture surgery",
+   "headline": "A hip fracture goes to theatre the day of admission, or the day after",
+   "sub": "NICE's hip fracture standard reserves delay for patients not yet medically fit for surgery, not for an open slot elsewhere on the list.",
+   "caption": "A hip fracture is not a scheduling problem to fit around a theatre list; once a patient is fit for surgery, timing itself is the treatment decision.\n\nNICE's hip fracture quality standard QS16, drawing on guideline CG124, states that adults with a hip fracture should have surgery on a planned trauma list on the day of, or the day after, admission. The caveat that matters is what counts as a reason to wait. The standard's concern is avoiding unnecessary delay for patients already assessed as fit for surgery, not a routine pause while a theatre slot clears elsewhere on the list. A correctable medical problem, one that needs treatment before anaesthesia is safe, is a legitimate reason to wait a day. A gap in the list is not.\n\nThat distinction is the point of the standard. It does not ask every hip fracture to be rushed to theatre regardless of fitness; it asks that fitness, once established, stop being the reason surgery slips to day three or four.\n\n#CME #MedEd #HipFracture",
+   "source": "NICE quality standard QS16 (Hip fracture in adults), statement 2, citing guideline CG124",
+   "source_url": "https://www.nice.org.uk/guidance/QS16/chapter/quality-statement-2-timing-and-expertise-for-surgery",
+   "image": "queue/img/q20261026am.jpg",
+   "status": "drafted",
+   "qc_notes": null,
+   "revision": 0
+  },
+  {
+   "id": "q20261026pm",
+   "date": "2026-10-26",
+   "slot": "17:30",
+   "pillar": "ayush",
+   "specialty": "AYUSH",
+   "theme": "gold",
+   "eyebrow": "Language engine",
+   "headline": "An AYUSH session is built once, then delivered as five separate instances",
+   "sub": "Each language gets its own localised delivery of the same session, not a live translation of one feed.",
+   "caption": "A multilingual CME session is not one recording with subtitles stapled on in four more languages afterwards.\n\nThe content is built once, at the master level, and then configured separately for English, Hindi, Tamil, Telugu and Bengali, with each becoming its own delivery instance rather than a live translation of a single feed. That separation is what lets the communication and audience targeting for each language be localised on its own terms, instead of being whatever survives a same-session interpretation.\n\nFor a BAMS or BHMS practitioner learning in their own regional language, or for an allopathic specialist teaching a high-value subject to that same audience, the session they receive was built for that language from the start, not adapted to it after the fact.\n\n#CME #MedEd #AYUSH",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261026pm.jpg",
+   "status": "drafted",
+   "qc_notes": null,
+   "revision": 0
   }
  ]
 }
