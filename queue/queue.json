@@ -629,8 +629,8 @@
    "source": "NICE quality standard QS16 (Hip fracture in adults), statement 2, citing guideline CG124",
    "source_url": "https://www.nice.org.uk/guidance/QS16/chapter/quality-statement-2-timing-and-expertise-for-surgery",
    "image": "queue/img/q20261026am.jpg",
-   "status": "drafted",
-   "qc_notes": null,
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #HipFracture' after a blank line; no CME dates, faculty names, prices, accreditation/credit claims or partner names; no drug mentioned; no patient-identifiable detail; theme ivory, preceded by navy (25 Oct pm), followed by gold (26 Oct pm) -- no gold-gold adjacency. G3 opened the source_url directly (NICE QS16, quality statement 2, last updated 6 Jan 2023, confirmed still current and not withdrawn/superseded as of Oct 2026; statement 2 was unaffected by that update -- only statements 3 and 4 changed). Verified wording: 'Adults with hip fracture have surgery on a planned trauma list on the day of, or the day after, admission' and rationale 'it is important to avoid any unnecessary delays for people who are assessed as fit for surgery,' source guidance CG124 recommendations 1.2.1 and 1.5.1 -- matches headline and sub exactly, no numbers/units to mismatch. Caption's 'a gap in the list is not' a legitimate reason to wait is a direct, non-contradicted inference from that rationale, not a fabricated addition, and no safety caveat (medical fitness) is omitted -- it is in fact the caveat the post is built around. G4 respectful, no fear language, states the clinical reasoning without shaming any provider or system. G5 fresh -- no other post in the queue covers hip fracture surgery timing (distinct from q20261016pm's open-fracture infection-risk post); a clinically actionable timing rule a practising orthopaedic/anaesthesia doctor would save or share. G6 queue/img/q20261026am.jpg present in repo, 1080x1080 JPEG; re-rendered locally with render.py, overflow false. Worth posting: a precise, source-verified timing rule with the exact caveat (fitness, not list convenience) that practice often gets wrong.",
    "revision": 0
   },
   {
@@ -647,8 +647,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261026pm.jpg",
-   "status": "drafted",
-   "qc_notes": null,
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line; no CME dates, faculty names, prices, accreditation/credit claims or partner names; no drug content; no patient-identifiable detail; theme gold, preceded by ivory (26 Oct am) -- no gold-gold adjacency. G3 n/a -- this is an AYUSH institutional/architecture post (the language engine), with no dose, threshold, timing, drug or management step and no external clinical claim to source, consistent with precedent (q20261012pm, q20261017pm, q20261023am all n/a on the same basis). source/source_url correctly null. G4 respectful: treats the AYUSH multilingual build as a deliberate design choice serving BAMS/BHMS practitioners and allopathic specialists teaching AYUSH audiences, without implying any system of medicine gets a lesser version. G5 fresh -- a distinct angle (build-once, localize-into-five-instances architecture) from the four prior AYUSH posts in the queue (two-track bilingual delivery 10/12, ayurvedic diagnosis sequence 10/15, homoeopathy's own curriculum 10/17, faculty language-matching 10/23); no headline or topic repeat. Useful as a trust point for an AYUSH practitioner deciding whether a regional-language session was built for them or bolted on. G6 queue/img/q20261026pm.jpg present in repo, 1080x1080 JPEG; re-rendered locally with render.py, overflow false. Worth posting: it is the AYUSH-track answer to why the language experience should feel native rather than translated.",
    "revision": 0
   }
  ]
