@@ -127,11 +127,14 @@
    "sub": "RSSDI 2022 says metformin can be initiated in combination with lifestyle intervention at the time of diagnosis, with HbA1c measured every three to six months.",
    "caption": "The old sequence, diet and exercise for three months, then review, then a drug, is not the only route the current Indian recommendation allows. The RSSDI clinical practice recommendations for type 2 diabetes state that metformin can be initiated in combination with lifestyle interventions at the time of diagnosis, with the other oral classes reserved for when metformin is contraindicated.\n\nThe target deserves the same care as the drug. An HbA1c below 7.0% minimises the risk of developing complications, but the document is explicit that a higher target may be considered where earlier attempts at tight control caused unacceptable hypoglycaemia, or where the person sitting in front of you is at high risk of it. Monitoring runs every three to six months depending on the level, the stability of control and any change in therapy.\n\n#CME #MedEd #Diabetes",
    "image": "queue/img/q20261012am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags correctly placed, generic drug name (metformin) only, no dates/faculty/price/accreditation/partner names, theme navy fits rotation. G3 verified: opened https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf directly — 'Metformin can be initiated in combination with lifestyle interventions at the time of diagnosis... if it is contraindicated then sulfonylurea...', the HbA1c <7.0% target, the three-to-six-month monitoring interval, and the higher-target caveat for prior/high hypoglycaemia risk all match the source verbatim. Confirmed current: RSSDI's 2025 publications are nutrition-specific and do not supersede the 2022 clinical practice recommendations. G4 respectful, no shaming of the old sequence. G5 unique topic. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: gives the permissive option and its real caveats, not just the headline change.",
    "revision": 1,
    "source": "RSSDI 2022",
-   "source_url": "https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf"
+   "source_url": "https://www.rssdi.in/newwebsite/RSSDI-Clinical-Practice-Recommendations-2022%20(1).pdf",
+   "ig_permalink": "https://www.instagram.com/p/DeYWmvhkUFz/",
+   "fb_post_id": "1240677149138394_122113324827486020",
+   "published_at": "2026-10-12T04:15:59Z"
   },
   {
    "id": "q20261012pm",
