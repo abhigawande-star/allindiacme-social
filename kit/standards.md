@@ -80,6 +80,15 @@ No worker edits this section. The Standards Researcher may propose a change in s
   multi-slide posts drew equivalent engagement. The carousel allocation above rests on saves, not
   on length, so a carousel has to be worth saving rather than merely longer — and a two-slide
   carousel that earns a save beats a ten-slide one that does not.
+  **Format advantage is a scale effect (12 Oct 2026):** in an independent 35M-post dataset
+  (447,613 pages, Jan–Dec 2025), carousels earn the most saves at every account size, but the gap
+  only opens with size — at 1–5K followers carousels, Reels and single images all average one save
+  per post; at 10–50K it is 8 saves against 3 for images, at 50–100K 35 against 10. Single-image
+  engagement rate fell from 0.45% to 0.37% across 2024–2025 and sits at 0.33% in Q2 2026, which
+  corroborates Metricool's single-image reach decline from a second dataset. The weekly allocation
+  is deliberately *unchanged*: this bounds it rather than overturning it. At our size no format
+  earns saves, so the split stays preparation — the same finding as the reality check, reached from
+  a different direction. Source in section C.
 - **Optimise for** shares and saves, not likes. The confirmed ranking signals are watch time,
   likes per reach and sends per reach; a send is weighted several times a like and a save about
   three times a like.
@@ -123,12 +132,12 @@ No worker edits this section. The Standards Researcher may propose a change in s
   - **Patient imagery does not loosen.** The guidelines allow before-and-after and case imagery for
     scientific or educational use with anonymised consent. Our own rule is stricter and does not
     move: none of it, ever (24 Sep bullet, A10).
-- **Reality check (updated 8 Oct 2026):** across all 32 posts old enough to measure, reach is
-  1–10 accounts per post with a median of 3, and there are zero saves, zero shares and zero
-  comments on every one of them, plus two profile visits in total. The last twelve measurable posts
-  all sit at reach 1–4, the account's floor of reach 1 now stands on 3 Oct, and the six posts
-  published since the 5 Oct run have not changed the shape of the line, so cadence alone is still
-  shown not to build distribution. Format tuning
+- **Reality check (updated 12 Oct 2026):** across all 40 posts old enough to measure, reach is
+  1–11 accounts per post with a median of 4, and there are zero saves, zero shares and zero
+  comments on every one of them, plus 68 likes and two profile visits in total. The last twelve
+  measurable posts all sit at reach 1–5, the account's floor of reach 1 now stands on 6 Oct, and
+  the eight posts published since the 8 Oct run have not changed the shape of the line, so cadence
+  alone is still shown not to build distribution. Format tuning
   cannot fix a problem of that size. Until reach is consistently in the hundreds, treat these
   format rules as preparation, and name distribution — not format — as the binding constraint in
   each Guardian run. **The route is now evidenced (5 Oct 2026):** in a
@@ -139,6 +148,91 @@ No worker edits this section. The Standards Researcher may propose a change in s
 
 ## C. Research log — dated entries, newest first
 
+- 12 Oct 2026 — **Format evidence: a second independent dataset, and one section B clause added.**
+  Socialinsider's 2026 Instagram benchmark study — 35,000,000 posts from 447,613 pages, January to
+  December 2025, published 20 Feb 2026, with 2026 quarterly figures — is the first dataset found
+  that reports saves *by account size*. Carousels lead on saves at every size, but the advantage is
+  a function of size: 1 save per post for carousels, Reels and images alike at 1–5K followers; 2, 2
+  and 1 at 5–10K; 8, 7 and 3 at 10–50K; 35, 22 and 10 at 50–100K; 98, 96 and 43 at 100K–1M. It also
+  corroborates the single-image decline from a second dataset: engagement rate by format, carousels
+  0.55% in both 2024 and 2025, Reels 0.50% to 0.52%, images 0.45% down to 0.37%, with 2026 Q1/Q2 at
+  carousels 0.52%/0.50%, Reels 0.50%/0.48% and images 0.35%/0.33%. Old: the Formats bullet carried
+  the weekly allocation, the "slide count is not the lever" clause and nothing about account size.
+  New: a "format advantage is a scale effect" clause sits beside them. The weekly numbers are
+  **unchanged** — the allocation rests on the Metricool saves data across 24.4M posts and is already
+  recorded as preparation, and this bounds it rather than overturning it. The practical reading is
+  that at our size no format earns saves, so a carousel flow is worth building for the audience we
+  intend to have and is not a lever on the audience we have. To reverse, delete the clause. The
+  study gives no healthcare or education breakdown and no shares-by-format figures, so neither is
+  claimed. No medical-education study published since 5 Oct was found; the three that underpin
+  section B are unchanged (In Vivo 39(6):3516; JMIR Med Educ 2026;1:e79124; PMC13147703, and the
+  board-review account analysis at PMC12515378 verified this run as Cureus 2025;17(9):e92127, PMID
+  41084675, 12 Sep 2025). Source:
+  https://www.socialinsider.io/social-media-benchmarks/instagram
+- 12 Oct 2026 — **Platform scan, 12 Sep – 12 Oct 2026: no confirmed ranking change.** The tracker
+  that admits only official posts, help-page changes and Mosseri statements was last checked 11 Oct
+  2026 and states in terms that no confirmed ranking change is rolling out; it still names April
+  2026's originality crackdown as the year's largest confirmed change, and the window's only
+  entries remain 15 Sep Meta One Links and 10 Sep Mosseri on chronological feeds, both logged on
+  5 Oct. A second tracker, published 9 Oct, adds nothing dated inside the window: its reach-related
+  items are the originality rules, AI-profile labelling and the user-facing "Your Algorithm"
+  controls, all previously handled, and the rest are tests (Reels-first feed layout, Reels Series,
+  friends-instead-of-followers, read-only profile browsing, short drama episodes). One new watch
+  item, not a rule: a third report describes Facebook Page managers being shown a limit of two link
+  posts a month unless they subscribe, an expansion of a December 2025 test, with publisher Pages
+  exempt and no formal Meta announcement. It bites only on link posts, we publish none, and CME
+  promotion is paused until A8 clears — but it belongs beside the Meta One Links watch item for the
+  day registration links matter. Mosseri's ranking video series restates originality, recency,
+  testing small accounts' posts with non-followers, and engagement rate over raw views; nothing in
+  it changes a rule. Nothing to do. Sources:
+  https://keywordseverywhere.com/news/instagram-algorithm-updates/ and
+  https://metricool.com/instagram-news/ and
+  https://finnpartners.com/news-insights/boom-scroll-october-2026-social-media-updates
+- 12 Oct 2026 — **Our own performance: 43 posts live, 40 old enough to measure, still a flat line.**
+  Reach 1–11 accounts per post, median 4, up from a median of 3 on 8 Oct. Zero saves, zero shares
+  and zero comments on all 40, unbroken since the account's first post; 68 likes and two profile
+  visits in total. Best: 21 Sep, the Gadchiroli paediatric sepsis brand post — reach 11 (up one
+  since 8 Oct), 3 interactions, one profile visit; then 7 Sep, "the future of healthcare is
+  evolving" — reach 9, 4 interactions. Worst: 6 Oct 12:17, "most clinicians reconstruct their CME
+  record from memory" — reach 1 and zero interactions, the account's floor, which has moved from
+  3 Oct to 6 Oct; the 3 Oct post previously recorded at reach 1 has since risen to 2. The eight
+  posts published since the last run sit at reach 1–5 and have moved nothing. **No pillar or
+  specialty ranking is possible and none is offered:** we optimise for saves and shares, there are
+  none anywhere in the account, and the top two posts by reach are both brand posts from the
+  account's first fortnight, which is an age effect rather than a pillar effect. Any ranking by
+  pillar or specialty this run would be invented. Section B reality check updated with the new
+  counts only.
+- 12 Oct 2026 — **NMC 6 Oct guidelines: the 8 Oct open question is now better answered, and the
+  primary source is still not readable from here.** The 8 Oct entry asked the next run to look for
+  a text-readable copy and to verify the AI-disclosure wording, on which two of three reports
+  agreed. A fourth independent source, dated 8 Oct, supplies paragraph-level references: public
+  notice No. R-13014/01/2024-Ethics dated 6 Oct 2026, a 14-page document; Explanation I to para 3.2
+  provides that information given without promotional intent or commercial benefit is not an
+  advertisement; para 3.2 brings AI-generated or AI-assisted communications in scope *where they
+  are promotional*; para 5.1 permits educational content provided it does not promote personal
+  practice and does not solicit patients; para 7.2 carries the AI clauses, including a source mark
+  on AI-generated images, voices or video and the ban on synthetic patients and testimonials; para
+  8.2(iii) covers public-health talks in the practitioner's own name. So three of four sources now
+  describe an AI-origin disclosure, and the scope reading recorded on 8 Oct — that it attaches to
+  promotional AI content, which is why the educational exemption is our protection — is corroborated
+  at paragraph level. That source paraphrases rather than quotes para 7.2, and it does not say
+  whether AI-assisted *educational* content needs the mark, so the 8 Oct founder proposal about an
+  AI-origin line beside the lockup stands and is now better supported, not resolved. No rule
+  changed. The primary document still could not be opened: https://nmc.org.in/whats-new/download/1874
+  is a scanned PDF, and this run was unattended, so the fetch raised a permission request that
+  nobody was there to answer and it was withdrawn. Next run should try the primary PDF again, and
+  should treat a quoted para 7.2 as the thing still missing. Source:
+  https://ichelonconsulting.com/insights/nmc-section-6-doctor-social-media-compliance-guide
+- 12 Oct 2026 — **Also checked, nothing to do.** (1) Meta health and medical content policy: every
+  2026 change found is an *advertising* policy change — health and wellness ad categories, detailed
+  targeting removals, restrictions on health claims in paid placements. We run no ads and publish
+  organic clinician-facing education, so none of it binds. If a paid route is ever proposed it
+  becomes a live constraint and a founder call. (2) Caption length, hashtag practice and India
+  posting times: no primary study or large dataset published since the last run was found — the
+  current material is marketing-blog content with no stated sample, which is below the bar section C
+  applies to the Buffer and Metricool datasets already cited. Cadence (09:30 and 17:30 IST) and the
+  three-hashtag rule (A4, founder) are unchanged, and the hashtag rule is section A in any case.
+  No rule changed.
 - 8 Oct 2026 — **New Indian regulatory instrument; one section B compliance bullet added.** The
   NMC Ethics and Medical Registration Board issued *Guidelines on Ethical Advertising and Public
   Communication by Hospitals/Medical Institutions and Registered Medical Practitioners* by public
