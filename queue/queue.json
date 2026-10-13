@@ -164,11 +164,14 @@
    "sub": "WHO rates cognitive behavioural therapy and related approaches on moderate certainty evidence. Every recommendation in that guideline, the drugs included, is conditional.",
    "caption": "Chronic pain in childhood tends to be managed as a pharmacological problem, and the WHO guideline on the management of chronic pain in children does not support that ordering. Psychological management through cognitive behavioural therapy and related interventions, including acceptance and commitment therapy, behavioural therapy and relaxation therapy, may be used, and it carries moderate certainty evidence, the highest certainty anywhere in the document. Delivery may be face to face, remote, or a combination of the two.\n\nPhysical therapies may be used alone or with other treatments, on very low certainty evidence. Pharmacological management tailored to the indication may be used, on low certainty evidence. Morphine sits within end-of-life care, given by appropriately trained providers under the principles of opioid stewardship.\n\nThe caveat that matters: every one of these is a conditional recommendation, not a default, and the certainty labels are the reason why.\n\n#CME #MedEd #PainCare",
    "image": "queue/img/q20261013am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant, generic drug name (morphine) only. G3 source opened and confirmed current, WHO guidelines on the management of chronic pain in children, 2020, no later edition; the NCBI mirror in source_url is bot-blocked from here, so verification was done against the WHO original, 9789240017870. Every claim matches: psychological management through CBT and related interventions, naming acceptance and commitment therapy, behavioural therapy and relaxation therapy, conditional recommendation on moderate certainty evidence; delivery face to face, remotely or combined; physical therapies alone or in combination, very low certainty; pharmacological management tailored to specific indications, low certainty; morphine for end-of-life care under opioid stewardship by appropriately trained providers, very low certainty. The safety caveat that all four recommendations are conditional is present and is the closing line. G4 respectful. G5 no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: it corrects a real default, reaching for a drug first, and it does so with the certainty grades on the table.",
    "revision": 0,
    "source": "WHO chronic pain in children 2020",
-   "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK566551/"
+   "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK566551/",
+   "ig_permalink": "https://www.instagram.com/p/Dea7dKYjXCI/",
+   "fb_post_id": "1240677149138394_122113717875486020",
+   "published_at": "2026-10-13T04:16:27+0000"
   },
   {
    "id": "q20261013pm",
