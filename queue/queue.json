@@ -185,9 +185,12 @@
    "sub": "Diagnostic momentum is how a provisional label hardens into settled history across a handover. Nobody re-examines the premise, because by the third telling it no longer sounds like a guess.",
    "caption": "A label picked up in a crowded casualty travels further than the reasoning behind it. By the time the patient reaches the ward, the working diagnosis has lost its question mark, and every subsequent decision is built on it. This is diagnostic momentum, and it is not a failure of knowledge. It is what happens when a summary is passed along faster than the uncertainty attached to it.\n\nTwo habits slow it down. When you hand over, say what the patient presented with and what you think it is, in that order, so the next clinician receives the findings and not only the conclusion. When you receive a handover, ask once what would have to be true for the label to be wrong, and check whether anyone has looked.\n\nThe patient who deteriorates on a confident diagnosis is rarely a patient nobody examined. Usually everybody examined them, for the wrong thing.\n\n#CME #MedEd #Reasoning",
    "image": "queue/img/q20261013pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, no claim/number so A5 n/a, theme navy fits rotation. G3 n/a — no dose, threshold, timing, drug or management step; this is a clinical-reasoning/handover post. G4 respectful: frames diagnostic momentum as a systemic/handover pattern, not a blame-the-doctor message. G5 confirmed distinct from q20261010pm (certainty-of-evidence framing) and from everything else in the queue — this is the rebuilt replacement noted in its own revision-1 note. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a concrete two-habit fix for a failure mode every clinician recognises.",
-   "revision": 1
+   "revision": 1,
+   "ig_permalink": "https://www.instagram.com/p/DebyztyGyp2/",
+   "fb_post_id": "1240677149138394_122113810047486020",
+   "published_at": "2026-10-13T12:20:10+0000"
   },
   {
    "id": "q20261014am",
