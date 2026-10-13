@@ -653,6 +653,42 @@
    "status": "qc_passed",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line; no CME dates, faculty names, prices, accreditation/credit claims or partner names; no drug content; no patient-identifiable detail; theme gold, preceded by ivory (26 Oct am) -- no gold-gold adjacency. G3 n/a -- this is an AYUSH institutional/architecture post (the language engine), with no dose, threshold, timing, drug or management step and no external clinical claim to source, consistent with precedent (q20261012pm, q20261017pm, q20261023am all n/a on the same basis). source/source_url correctly null. G4 respectful: treats the AYUSH multilingual build as a deliberate design choice serving BAMS/BHMS practitioners and allopathic specialists teaching AYUSH audiences, without implying any system of medicine gets a lesser version. G5 fresh -- a distinct angle (build-once, localize-into-five-instances architecture) from the four prior AYUSH posts in the queue (two-track bilingual delivery 10/12, ayurvedic diagnosis sequence 10/15, homoeopathy's own curriculum 10/17, faculty language-matching 10/23); no headline or topic repeat. Useful as a trust point for an AYUSH practitioner deciding whether a regional-language session was built for them or bolted on. G6 queue/img/q20261026pm.jpg present in repo, 1080x1080 JPEG; re-rendered locally with render.py, overflow false. Worth posting: it is the AYUSH-track answer to why the language experience should feel native rather than translated.",
    "revision": 0
+  },
+  {
+   "id": "q20261027am",
+   "date": "2026-10-27",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "radiology",
+   "theme": "navy",
+   "eyebrow": "Incidental lung nodules",
+   "headline": "A solid lung nodule under 6 mm in a low-risk patient needs no routine follow-up",
+   "sub": "Fleischner Society's 2017 criteria stop at that size; they do not cover a screening-detected nodule, an immunosuppressed patient, or one with known cancer.",
+   "caption": "An incidentally found solid pulmonary nodule on a CT ordered for something else does not always need a repeat scan to prove it is stable.\n\nThe Fleischner Society's 2017 guideline sets size as the first filter for a single solid nodule in an otherwise low-risk patient. Under 6 mm, no routine follow-up is required at all. Between 6 and 8 mm, a CT at six to twelve months is appropriate, with a further scan considered at eighteen to twenty-four months. Above 8 mm, the next step is a CT, PET-CT, or tissue sampling at three months rather than a wait-and-watch scan.\n\nThe guideline carries a caveat worth checking before it is applied: it does not extend to a nodule found on a lung cancer screening scan, an immunosuppressed patient, or someone with a known primary cancer, and it is not written for patients under thirty-five.\n\nSize decides the pathway here, not reassurance alone.\n\n#CME #MedEd #LungNodules",
+   "source": "Fleischner Society (2017), Radiology",
+   "source_url": "https://pubs.rsna.org/doi/10.1148/radiol.2017161659",
+   "image": "queue/img/q20261027am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261027pm",
+   "date": "2026-10-27",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "paediatrics and neonatology",
+   "theme": "ivory",
+   "eyebrow": "Neonatal warning signs",
+   "headline": "A newborn who is just not right is already showing a symptom",
+   "sub": "Feeding, colour, tone and activity often change before any single vital sign does, which is why a non-specific description still counts as a clinical finding.",
+   "caption": "Neonatal illness rarely announces itself with one abnormal number on a chart. More often it shows up first as a change in feeding, colour, tone, activity or cry, each one unremarkable alone but worth noticing together.\n\nCalling a baby just not right is sometimes dismissed as an imprecise handover, something to tidy up before it reaches a note. In a newborn, that description is frequently the earliest form an illness takes, arriving well before any single vital sign crosses a threshold a monitor would flag.\n\nThe caveat that matters is who is allowed to raise it. A parent's report that their baby is feeding differently or crying differently today deserves the same weight as a nurse's observation, because both are describing the same change from baseline, only from a different vantage point.\n\nA vague description is not a weak one; it may be the first sign available.\n\n#CME #MedEd #Neonatology",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261027pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
