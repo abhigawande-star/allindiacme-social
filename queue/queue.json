@@ -206,9 +206,12 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261014am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, theme ivory fits rotation, no restricted claims. G3 n/a — no dose/threshold/drug/management step, pure communication-with-radiology guidance. G4 respectful, practical, no shaming of requesting clinicians. G5 unique topic, no repeat. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a three-line habit doctors can apply on their very next imaging request.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DedgOkZAE1v/",
+   "fb_post_id": "1240677149138394_122114002641486020",
+   "published_at": "2026-10-14T04:16:14+0000"
   },
   {
    "id": "q20261014pm",
