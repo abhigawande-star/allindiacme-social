@@ -227,9 +227,12 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261014pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, three hashtags, theme gold fits rotation (preceded by ivory, followed by navy — no gold-adjacent-to-gold), no CME dates/faculty/price/accreditation/partner names, this is a brand post, not CME promotion. G3 n/a, no clinical claim. G4 respectful, states the policy plainly without implying other accounts are dishonest. G5 distinct from the other two brand posts in the queue (q09am on geography, q10am on sourcing) — this one is about audience and reinforces the NMC no-patient-imagery/no-solicitation rule from standards.md section B. G6 image present, 1080x1080 JPEG, overflow false. Worth posting: a clear statement of who the account is for, which doubles as a compliance commitment worth having on record.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DeeXPvkoFYn/",
+   "fb_post_id": "1240677149138394_122114098533486020",
+   "published_at": "2026-10-14T12:17:00+0000"
   },
   {
    "id": "q20261015am",
