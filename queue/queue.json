@@ -695,6 +695,40 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261028am",
+   "date": "2026-10-28",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "anaesthesia and pain",
+   "theme": "gold",
+   "eyebrow": "Cancer pain",
+   "headline": "Severe cancer pain does not have to start on a weak analgesic",
+   "sub": "WHO's 2018 guideline treats the three-step ladder as a general guide, not a protocol: the opioid matched to severity can be the first drug given.",
+   "caption": "Ask a ward team how severe cancer pain gets treated and the answer is usually a ladder: a mild analgesic first, then a weak opioid, then a strong one, each step earning the next.\n\nWHO's 2018 guideline on the pharmacological management of cancer pain treats that three-step ladder as a general guide rather than a protocol to climb. Paracetamol, an NSAID and an opioid may all be used at initiation, alone or combined, chosen by the severity of the pain assessed in front of you. For pain already moderate or severe, a mild analgesic alone should not be the first prescription; an opioid matched to that severity can be started directly, often alongside a non-opioid.\n\nThe caveat that matters: there is no fixed dose. The correct dose is the one that relieves that patient's pain to a level they find acceptable, reached by gradual titration and checked at regular intervals, because response varies by patient and by medicine.\n\n#CME #MedEd #Pain",
+   "source": "WHO cancer pain guideline (2018)",
+   "source_url": "https://www.iccp-portal.org/system/files/resources/9789241550390-eng.pdf",
+   "image": "queue/img/q20261028am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 1
+  },
+  {
+   "id": "q20261028pm",
+   "date": "2026-10-28",
+   "slot": "17:30",
+   "pillar": "brand",
+   "specialty": "general",
+   "theme": "navy",
+   "eyebrow": "How we follow up",
+   "headline": "A reminder is sent once, with everything needed, then we wait",
+   "sub": "No message chases a doctor into registering, and no second reminder arrives because the first one went unanswered.",
+   "caption": "Many accounts treat a reminder as something to repeat until it works: a nudge today, a firmer one tomorrow, a countdown by the weekend.\n\nOur standard runs the other way. A message goes out once it carries everything a reader needs to decide, and it is not followed by a second version written only because the first one did not get a response. We write for a working clinician's own schedule and judgment, not against them, and that holds whether the reader is a senior consultant or someone a few years into practice.\n\nA professional relationship is not something urgency builds. It is built the same way the rest of what we publish is: by being useful once, clearly, and leaving the decision where it belongs.\n\n#CME #MedEd #Courtesy",
+   "image": "queue/img/q20261028pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 1
   }
  ]
 }
