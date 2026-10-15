@@ -735,6 +735,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 1
+  },
+  {
+   "id": "q20261029am",
+   "date": "2026-10-29",
+   "slot": "09:30",
+   "pillar": "ayush",
+   "specialty": "AYUSH",
+   "theme": "ivory",
+   "eyebrow": "Two AYUSH tracks",
+   "headline": "A high-value allopathic subject is still taught by an allopathic specialist",
+   "sub": "BAMS and BHMS keep their own-discipline curriculum; a high-value allopathic subject taught to an AYUSH audience comes from a qualified allopathic specialist, not a colleague relaying it secondhand.",
+   "caption": "Two separate tracks run at the same time for an AYUSH doctor, and neither one substitutes for the other.\n\nA BAMS learner continues a structured Ayurvedic curriculum; a BHMS learner continues a structured Homoeopathic curriculum. Each is its own longitudinal programme, built around that system's own clinical reasoning, not condensed from somewhere else.\n\nAlongside it sits a second track: a high-value allopathic subject, taught to the same AYUSH audience in their own regional language, by an allopathic specialist qualified in that subject. An infertility programme taught this way comes from a gynaecologist, not from an AYUSH colleague relaying it secondhand, while the BAMS curriculum continues separately in Ayurvedic terms.\n\nTwo tracks, two kinds of expertise, taught by the people actually qualified in each.\n\n#CME #MedEd #AYUSH",
+   "image": "queue/img/q20261029am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0,
+   "source": null,
+   "source_url": null
+  },
+  {
+   "id": "q20261029pm",
+   "date": "2026-10-29",
+   "slot": "17:30",
+   "pillar": "clinical",
+   "specialty": "diabetes and internal medicine",
+   "theme": "gold",
+   "eyebrow": "Glycaemic escalation",
+   "headline": "Type 2 diabetes treatment escalates by HbA1c band, not by time on one drug",
+   "sub": "ICMR's standard treatment workflow adds a second agent once HbA1c sits between 8.5% and 10%, and allows a higher-than-7% target in elderly or significantly comorbid patients.",
+   "caption": "Many wards still step up diabetes treatment the way they step up antibiotics: give the current drug a few months, review, then add another if the numbers have not moved.\n\nICMR's standard treatment workflow for type 2 diabetes sets the escalation by HbA1c band instead. Below 8.5%, metformin alone is the starting point. Once HbA1c sits between 8.5% and 10%, dual therapy begins: metformin plus a sulfonylurea, TZD, DPP-4 inhibitor, SGLT2 inhibitor, alpha-glucosidase inhibitor or GLP-1 receptor agonist. Above 10%, the workflow moves to basal insulin together with metformin and a further oral agent.\n\nThe caveat that matters: the usual target of 7% or below is not universal. The workflow allows a higher target in elderly patients and those with significant comorbid conditions, where tighter control can cost more than it gives back.\n\n#CME #MedEd #Diabetes",
+   "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
+   "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
+   "image": "queue/img/q20261029pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
