@@ -92,6 +92,16 @@ No worker edits this section. The Standards Researcher may propose a change in s
 - **Optimise for** shares and saves, not likes. The confirmed ranking signals are watch time,
   likes per reach and sends per reach; a send is weighted several times a like and a save about
   three times a like.
+  **The two levers split by format (15 Oct 2026):** in a second Socialinsider dataset — 15,000,000
+  posts from 417,130 pages, Oct 2025 – Mar 2026 — carousels lead on saves (median 37, save rate
+  0.05%) while Reels lead on shares (median 5 shares, share rate 0.10%, against carousels' 3 and
+  0.08%); single images trail on both (median 10 saves and 1 share, 0.02% and 0.07%). So the
+  carousel slot is the saves lever and the Reels slot is the shares lever — and because a send is
+  weighted several times a like, the Reels route we have not built is the gap on our *stronger*
+  signal, not the lesser one. Record the unmet Reel slot on that footing. These are medians across
+  all industries with no healthcare breakdown and no account-size split for saves or shares, so
+  this ranks the formats without sizing the effect at our scale; the weekly allocation is
+  unchanged. Source in section C.
 - **Compliance constraints (24 Sep 2026; NMC social-media guidance for registered medical
   practitioners, 13 Aug 2023):** no patient photographs or scan images; no before-and-after,
   healed-patient, surgery or procedure imagery, however impressive the result; nothing that
@@ -125,6 +135,17 @@ No worker edits this section. The Standards Researcher may propose a change in s
     exemption above: keep every post educational and non-promotional in content and in framing.
     Never use AI to create or alter a patient, practitioner, image, voice, testimonial or clinical
     outcome. Whether the brand pillar clears this line is a founder call — see section C.
+    **Second disclosure limb (15 Oct 2026).** A fifth independent source, a specialist technology-
+    policy outlet, describes a duty that sits beside the promotional one: where AI-generated or
+    materially AI-altered content could mislead the audience about its artificial nature, the
+    content must reasonably disclose that it is AI-generated or AI-assisted. That limb is not on
+    its face confined to promotional content. Our cards are rendered type and brand furniture, not
+    synthetic people, voices, scans or clinical images, so the misleading-about-artificial-nature
+    trigger is doubtful on our output as it stands — but it is doubtful, not excluded. The
+    educational exemption stays the primary protection, the 8 Oct founder proposal about an
+    AI-origin line beside the lockup is strengthened rather than resolved, and this binds hard the
+    moment any post carries a generated image of a person, a voice or a clinical picture. Source
+    in section C.
   - **When A8 clears and faculty are named,** a named practitioner's post must carry their name,
     qualifications, registration status and registration number, and an institution must disclose
     the details of the practitioners associated with its posts. Engaging an agency, an influencer
@@ -148,6 +169,86 @@ No worker edits this section. The Standards Researcher may propose a change in s
 
 ## C. Research log — dated entries, newest first
 
+- 15 Oct 2026 — **Shares-by-format found at last; one section B clause added.** The 12 Oct entry
+  recorded that the Socialinsider benchmark gave no shares-by-format figures and did not claim any.
+  A second Socialinsider dataset supplies them: the Instagram Engagement Report, 15,000,000 posts
+  from 417,130 pages with an active presence, October 2025 – March 2026, published 25 May 2026.
+  Median saves and shares by format: Reels 35 saves / 5 shares (save rate 0.04%, share rate 0.10%),
+  carousels 37 / 3 (0.05% / 0.08%), single images 10 / 1 (0.02% / 0.07%). Carousels win saves,
+  Reels win shares, images lose both. Old: the "Optimise for" bullet named the two signals and
+  their weights and said nothing about which format earns which. New: a "two levers split by
+  format" clause sits under it, and it changes the reading of the unmet Reel slot — a send is
+  weighted several times a like, so the capability we have not built is the one attached to our
+  stronger signal. The weekly allocation is **unchanged**; this orders the formats, it does not
+  size the effect for an account of ours. Limits recorded in the clause and real: medians across
+  all industries with no healthcare or medical-education breakdown, no account-size split for
+  saves or shares (unlike the 12 Oct benchmark, which had one), and the report's explanations of
+  *why* each format earns its signal are the authors' and contributors' interpretation, untested —
+  so only the figures are relied on. To reverse, delete the clause. Source:
+  https://www.socialinsider.io/social-media-benchmarks/instagram-engagement-report
+- 15 Oct 2026 — **NMC 6 Oct guidelines: a fifth source, a second AI-disclosure limb, and the
+  primary PDF still unread.** The 12 Oct entry left para 7.2 as the thing still missing and asked
+  the next run to try the primary document again. A fifth independent source, a specialist
+  technology-policy outlet, reports clause 7.2 in more detail than the four before it and adds a
+  limb none of them recorded: alongside the ban on AI-generated promotional campaigns furthering a
+  commercial interest, and the labelling duty on *permitted* promotional AI content, there is a
+  separate duty that where AI-generated or materially AI-altered content could mislead the audience
+  about its artificial nature it must reasonably disclose that it is AI-generated or AI-assisted.
+  That second limb is not worded as promotional-only. The source is explicit that it cannot say
+  whether it reaches educational content, and it does not discuss educational AI communications at
+  all. Old: the section B AI sub-bullet carried the promotional clauses and the educational
+  exemption as our protection. New: a "second disclosure limb" paragraph records the wider duty,
+  states that our rendered-type cards are a doubtful rather than an excluded trigger, and marks the
+  point at which it would bind hard — any generated person, voice, scan or clinical image. The
+  8 Oct founder proposal stands and is better supported again. **The primary document still could
+  not be opened:** this source names the file as `20261006154257-publicnotice-ethics.pdf` on the
+  NMC site, a more specific handle than any run has had, but the fetch raised a permission request
+  and this run was unattended, so it went unanswered and was withdrawn — the same wall as 12 Oct.
+  An attended run should open that PDF; a verbatim para 7.2 remains the gap. Source:
+  https://www.medianama.com/2026/10/223-nmc-ai-generated-medical-ads-rules/
+- 15 Oct 2026 — **Platform scan, 15 Sep – 15 Oct 2026: no confirmed ranking change.** The tracker
+  that admits only official posts, help-page changes and Mosseri statements was last checked
+  14 Oct 2026 — after the previous run — and states in terms that no confirmed ranking change is
+  rolling out; it still names April 2026's originality crackdown as the year's largest confirmed
+  change, and the window's only entries remain 15 Sep Meta One Links and 10 Sep Mosseri on
+  chronological feeds, both logged on 5 Oct. Its one October note is the Facebook link-post test
+  already logged on 12 Oct as a watch item. A second roundup, published 9 Oct, has nothing dated on
+  or after 10 Oct and repeats the same three items. Two adjacent items noted and not acted on: from
+  31 Aug, unlabelled AI-generated *profiles* are ineligible for recommendations — a profile rule,
+  not a post rule, and ours is a labelled business account; and the 26 Aug Meta settlement sets
+  teen feed and time-limit changes that take effect 27 Feb 2027, which is a date to re-check nearer
+  the time and binds nothing we publish. Nothing to do. Sources:
+  https://keywordseverywhere.com/news/instagram-algorithm-updates/ and
+  https://www.finnpartners.com/news-insights/boom-scroll-october-2026-social-media-updates/
+- 15 Oct 2026 — **Our own performance: 48 posts live, 44 old enough to measure, the line has not
+  moved.** Reach 1–11 accounts per post, median 4, unchanged from 12 Oct. Zero saves, zero shares
+  and zero comments on all 44, unbroken since the account's first post. Likes total 68 and profile
+  visits 2 — *identical* to the 12 Oct totals, so the four posts that became measurable since then
+  have drawn no interaction of any kind. Those four sit at reach 1–3. Best: 21 Sep, the Gadchiroli
+  paediatric sepsis brand post — reach 11, 3 interactions, 1 profile visit; then 7 Sep, "the future
+  of healthcare is evolving" — reach 9, 4 interactions. Worst: 6 Oct 12:17, "most clinicians
+  reconstruct their CME record from memory", and 10 Oct 12:16, "two labels sit next to most modern
+  recommendations" — both reach 1 with zero interactions, so the account's floor of reach 1 now has
+  a second occupant and has moved forward from 6 Oct to 10 Oct. **No pillar or specialty ranking is
+  possible and none is offered:** we rank by saves and shares, both are zero everywhere, and the
+  top two posts by reach remain brand posts from the account's first fortnight, which is an age
+  effect. Any ranking this run would be invented. Section B reality check updated with the new
+  counts only; its reading — distribution, not format, is the binding constraint — is unchanged and
+  now three runs old.
+- 15 Oct 2026 — **Also checked, nothing to do.** (1) Meta health and medical content policy: the
+  only 2026 changes found remain *advertising* changes — health and wellness ad categories,
+  targeting removals, restrictions on health claims in paid placements. We run no ads and publish
+  organic clinician-facing education, so none of it binds; a paid route would make it live and is a
+  founder call. (2) Medical-education format evidence: no study published since 12 Oct was found.
+  The searches surfaced one record not previously logged, a content analysis of social media
+  driving traffic to a medical-education website (PMID 41909292), but its PubMed page could not be
+  fetched this run, and on its title it concerns website referral rather than post format or
+  saves — flagged for a later run, not relied on. The three studies underpinning section B are
+  unchanged (In Vivo 39(6):3516; JMIR Med Educ 2026;1:e79124; PMC13147703, with the board-review
+  account analysis at Cureus 2025;17(9):e92127). (3) Caption length, hashtag practice and India
+  posting times: nothing new above the evidence bar — the fresh material is marketing-blog content
+  with no stated sample. Cadence (09:30 and 17:30 IST) and the three-hashtag rule (A4, founder)
+  unchanged.
 - 12 Oct 2026 — **Format evidence: a second independent dataset, and one section B clause added.**
   Socialinsider's 2026 Instagram benchmark study — 35,000,000 posts from 447,613 pages, January to
   December 2025, published 20 Feb 2026, with 2026 quarterly figures — is the first dataset found
