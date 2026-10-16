@@ -282,11 +282,14 @@
    "sub": "Reserve a single drug for low-risk grade 1 hypertension, patients above eighty, or anyone frail. Everyone else starts on combination therapy, ideally as one pill.",
    "caption": "A solitary first prescription used to be the default, with a second drug added only once the first proved insufficient. The ICMR standard treatment workflow for hypertension in adults reverses that order.\n\nCombination therapy, two drugs from two different classes, is set out as the default initial pharmacological treatment for most adults with hypertension, preferably as a single pill rather than two separate ones. Monotherapy is kept for specific groups: low-risk grade 1 hypertension, adults above eighty years, and patients who are frail, where a gentler start matters more than speed.\n\nThe targets that follow are familiar, below 140/90 for most adults, below 130/80 where diabetes, chronic kidney disease or cardiovascular disease is already present, below 150/90 past eighty. What has changed is the first prescription, not the destination.\n\n#CME #MedEd #Hypertension",
    "image": "queue/img/q20261016am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. Lint clean; brand rules followed (sentence case, exactly #CME #MedEd #Hypertension after a blank line, no dates/faculty/price/accreditation/partner names, no specific drug names used). Source opened directly (ICMR Standard Treatment Workflow, Hypertension in Adults, dated May/2026, current - no newer edition found). Every numeric claim matches the source exactly: all-adults target <140/90 mmHg, diabetes/CKD/CVD target <130/80 mmHg, age >=80 target <150/90 mmHg; combination therapy (two drugs, two classes) as default initial pharmacological treatment for most adults; single-pill combinations preferred over separate pills; monotherapy reserved for low-risk grade 1 hypertension, age >=80, or frail patients - all verbatim-consistent with the source. Respectful tone, no repeat among the other 15 queued posts, image verified 1080x1080 JPEG in the repo and re-renders clean with overflow=false. Worth posting: it corrects a widely-held outdated assumption (start with one drug, add a second later) with a concrete, source-backed protocol change that cardiologists, GPs and internists will want to save.",
    "revision": 0,
    "source": "ICMR Standard Treatment Workflow — Hypertension in Adults",
-   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1778941063_hypertensioninadults_final.pdf"
+   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1778941063_hypertensioninadults_final.pdf",
+   "ig_permalink": "https://www.instagram.com/p/Deip3nVDcxK/",
+   "fb_post_id": "1240677149138394_122114609013486020",
+   "published_at": "2026-10-16T04:16:47Z"
   },
   {
    "id": "q20261016pm",
