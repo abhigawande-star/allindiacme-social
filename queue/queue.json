@@ -771,6 +771,40 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261030am",
+   "date": "2026-10-30",
+   "slot": "09:30",
+   "pillar": "brand",
+   "specialty": "general",
+   "theme": "navy",
+   "eyebrow": "What this account is for",
+   "headline": "Every post here teaches a clinician; it asks nothing of a patient",
+   "sub": "No post on this account is written to be seen by a patient, and none is written to bring one in.",
+   "caption": "Every account that talks about medicine faces the same question: is this teaching, or is it quietly building a patient list. We answered that once, early, and we do not revisit it post by post.\n\nWhat we publish is addressed to a working clinician, never to someone deciding where to seek care. There is no call to visit a clinic, no implied referral, and no case drawn from an actual patient, however the details are changed before it reaches a card. A reader can learn something useful and close the app; nothing here asks for more than that.\n\nStaying inside that line is not a constraint we work around. It is the reason this account exists in the format it does, and it will not loosen as the audience grows.\n\n#CME #MedEd #Education",
+   "image": "queue/img/q20261030am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261030pm",
+   "date": "2026-10-30",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "ivory",
+   "eyebrow": "Reading a negative trial",
+   "headline": "No difference in a trial often means not enough patients, not no effect",
+   "sub": "A trial underpowered to detect a real difference will report none, and that result is often read as reassurance rather than as a question about sample size.",
+   "caption": "A clinical trial that finds no significant difference between two treatments is often read as proof the two work equally well. That reading skips a step worth checking first: whether the trial enrolled enough patients to detect a difference if one truly existed.\n\nAn underpowered trial and a genuinely negative one can produce a similar looking result on the page, but they say different things. The underpowered trial's confidence interval is wide enough to include both a meaningful benefit and a meaningful harm; a truly negative trial's interval sits tightly around no effect at all.\n\nBefore treating a null result as settled, look at the width of that interval, not only at whether it crosses the line of no effect. A wide interval around nothing is not evidence of nothing; it is a question the trial was never large enough to answer.\n\n#CME #MedEd #EvidenceLiteracy",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261030pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
