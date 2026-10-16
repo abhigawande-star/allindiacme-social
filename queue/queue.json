@@ -303,11 +303,14 @@
    "sub": "Antibiotics given within an hour of injury matter more than which antibiotic is chosen. The aminoglycoside add-on applies to every type three fracture, not just the more severe ones.",
    "caption": "An open fracture is treated as an orthopaedic emergency the moment the skin is breached, and the clock that matters most starts at the injury, not at the operating table.\n\nThe ICMR standard treatment workflow for open fractures names early antibiotic administration, ideally within one hour of injury, as the single most important factor in reducing infection rate. A cephalosporin is the base antibiotic across every grade, type one through type three C. For type three as a whole, grades A, B and C alike, an aminoglycoside is added to that base, and soil contamination of any grade adds metronidazole. Antibiotics continue for three days after wound closure.\n\nNone of this works if the first dose waits for imaging, for the operating list, or for a full debridement plan. The sequence is antibiotic first, everything else after.\n\n#CME #MedEd #OpenFracture",
    "image": "queue/img/q20261016pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G3 verified verbatim against ICMR Open Fracture STW (Vol IV, Jul 2024, current): 1-hour antibiotic timing as the single most important factor, cefuroxime base, gentamycin add-on for Type III, metronidazole for soil contamination, 3-day post-closure duration all match exactly. A sharp, actionable orthopaedic pearl orthopods will save.",
    "revision": 1,
    "source": "ICMR Standard Treatment Workflow — Open Fracture",
-   "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726645314_9_open_fracture.pdf"
+   "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726645314_9_open_fracture.pdf",
+   "ig_permalink": "https://www.instagram.com/p/Dejh2OkIPmp/",
+   "fb_post_id": "1240677149138394_122114693505486020",
+   "published_at": "2026-10-16T12:25:51Z"
   },
   {
    "id": "q20261017am",
