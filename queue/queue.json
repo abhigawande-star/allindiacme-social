@@ -811,6 +811,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261031am",
+   "date": "2026-10-31",
+   "slot": "09:30",
+   "pillar": "brand",
+   "specialty": "general",
+   "theme": "gold",
+   "eyebrow": "Independent review",
+   "headline": "A post is checked by someone other than the one who drafted it, every time",
+   "sub": "The person reviewing a card never also writes it, so a mistake has to pass two different sets of eyes, not one distracted one.",
+   "caption": "A card that goes out from this account is never approved by the person who wrote it. Drafting and review are separate steps, handled by different roles, and a draft does not count as finished until someone outside the writing process has checked it against a fixed set of questions: does it represent the brand correctly, is everything in it actually true and available, does it follow the current rulebook, is it worth publishing at all, and does it treat the reader with respect.\n\nThat separation exists because a writer is rarely the best judge of their own writing. The questions are fixed in advance, asked the same way each time, and nothing that fails them reaches the page, however well it reads on its own.\n\nThis is not a claim meant to be noticed from the outside. It is simply how every post here gets to the point of being posted at all.\n\n#CME #MedEd #Governance",
+   "source": "",
+   "source_url": "",
+   "image": "queue/img/q20261031am.jpg",
+   "status": "drafted",
+   "qc_notes": [],
+   "revision": 0
+  },
+  {
+   "id": "q20261031pm",
+   "date": "2026-10-31",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "navy",
+   "eyebrow": "Intention to treat",
+   "headline": "Analysing by intention to treat keeps a trial's comparison fair",
+   "sub": "A patient who switches treatment, stops early or is lost to follow-up still stays in the group they were first assigned to.",
+   "caption": "A randomised trial starts as a fair comparison because treatment is assigned by chance, not by anything about the patient. That fairness only survives to the final analysis if every patient is counted in the group they were originally assigned to, whatever happened afterward, which is what an intention-to-treat analysis does.\n\nA per-protocol analysis instead counts only the patients who actually completed the treatment as planned. That can look like the stricter, cleaner comparison, but it quietly drops the patients who stopped early because of side effects, who switched arms, or who did not tolerate the regimen, and those patients are rarely a random slice of the trial. Dropping them in one arm and not the other reopens the very bias randomisation was meant to close.\n\nReading a trial, check which analysis is reported as the primary one. A result that only holds up per protocol, and not by intention to treat, is telling you something about tolerability, not only about efficacy.\n\n#CME #MedEd #EvidenceLiteracy",
+   "source": "",
+   "source_url": "",
+   "image": "queue/img/q20261031pm.jpg",
+   "status": "drafted",
+   "qc_notes": [],
+   "revision": 0
   }
  ]
 }
