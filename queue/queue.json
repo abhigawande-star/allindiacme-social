@@ -853,6 +853,42 @@
    "status": "drafted",
    "qc_notes": [],
    "revision": 0
+  },
+  {
+   "id": "q20261101am",
+   "date": "2026-11-01",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "cardiology",
+   "theme": "ivory",
+   "eyebrow": "Antiplatelet timing",
+   "headline": "Don't de-escalate antiplatelet therapy in the first month after a coronary event",
+   "sub": "The 2023 ESC acute coronary syndrome guideline advises against stepping down from standard dual antiplatelet therapy during this early window, even when bleeding risk looks high.",
+   "caption": "After an acute coronary syndrome, the instinct once bleeding risk looks high is to lighten the antiplatelet regimen early. The 2023 ESC guideline for acute coronary syndromes pushes back on that instinct for the first thirty days.\n\nIts recommendation against de-escalating antiplatelet therapy in this window carries a class III caution, meaning the evidence does not support stepping down to a single agent or a less potent P2Y12 inhibitor that early, however appealing it looks on paper. The ischaemic risk in the first month after a coronary event stays high enough that the usual bleeding-risk argument for lightening treatment does not yet apply.\n\nThe caveat that matters: this is a question of timing, not of permanence. The same guideline supports shortening dual antiplatelet therapy later in appropriately selected patients. What it rules out is doing so inside the first month, when the risk the second agent is protecting against has not yet fallen.\n\n#CME #MedEd #Antiplatelet",
+   "source": "2023 ESC acute coronary syndromes guideline (ACC ten points summary)",
+   "source_url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/14/01/2023-esc-guidelines-acs-esc-2023",
+   "image": "queue/img/q20261101am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261101pm",
+   "date": "2026-11-01",
+   "slot": "17:30",
+   "pillar": "educational",
+   "specialty": "cross-specialty",
+   "theme": "gold",
+   "eyebrow": "Surrogate endpoints",
+   "headline": "A surrogate endpoint moving does not mean the outcome that matters moved too",
+   "sub": "A drug can lower a lab value or shrink a tumour on a scan and still fail to reduce death, stroke or disability, which is what the surrogate was meant to predict.",
+   "caption": "A trial can report success and still not have helped a single patient feel or live better. That gap shows up whenever the primary result is a surrogate: a stand-in measurement, such as a tumour's size on a scan, a lab value, or a narrowing seen on angiography, chosen because it is faster and cheaper to measure than the outcome a patient actually cares about.\n\nA surrogate earns its place only when it has been shown, across many trials, to move in step with that real outcome. Several that looked biologically obvious have failed this test: improving one marker has, in specific drug classes, left death and major cardiovascular events unchanged, or made them worse, despite the marker itself moving exactly as intended.\n\nBefore treating a positive surrogate result as a reason to prescribe, ask what hard outcome the surrogate is meant to stand in for, and whether that particular drug class has actually been shown to move it. A tidier number on a report is not the same as a patient living longer or better.\n\n#CME #MedEd #SurrogateEndpoints",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261101pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
