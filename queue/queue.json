@@ -366,11 +366,14 @@
    "sub": "Blood glucose below 20 mg/dL is treated with an immediate IV bolus whether or not the baby looks unwell; waiting for symptoms risks the brain injury the treatment exists to prevent.",
    "caption": "A newborn with a low blood glucose but no jitteriness, poor feeding or lethargy is often watched rather than treated, on the assumption that a baby who looks normal can wait for a recheck.\n\nThe ICMR standard treatment workflow for neonatology sets a lower bound instead of a waiting period. A blood glucose below 20 mg/dL is treated as an emergency regardless of symptoms: an immediate intravenous bolus of 2 ml/kg of 10% dextrose, followed by a continuous infusion at 6 mg/kg per minute. The workflow states plainly that both symptomatic and asymptomatic hypoglycaemia can cause permanent brain damage, so the absence of signs is not a reason to wait.\n\nCheck the number before you check the baby's appearance. Below that threshold, the bolus comes first and the examination follows.\n\n#CME #MedEd #NeonatalHypoglycaemia",
    "image": "queue/img/q20261018am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G3 verified verbatim against the exact ICMR Neonatology STW cited (2022 ed., Jul 2020, not superseded -- Vol IV does not cover neonatology): <20 mg/dL emergency threshold, 2 mL/kg 10% dextrose bolus, 6 mg/kg/min infusion, and the symptomatic-or-not brain-damage warning all match exactly. A high-stakes threshold pearl NICU and paediatric staff will want on hand.",
    "revision": 0,
    "source": "ICMR Standard Treatment Workflow — Neonatology (Neonatal Hypoglycaemia)",
-   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1726568619_neonatology_all.pdf"
+   "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1726568619_neonatology_all.pdf",
+   "ig_permalink": "https://www.instagram.com/p/DenyOx7AEpN/",
+   "fb_post_id": "1240677149138394_122115262485486020",
+   "published_at": "2026-10-18T04:06:00Z"
   },
   {
    "id": "q20261018pm",
