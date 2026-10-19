@@ -120,6 +120,14 @@ No worker edits this section. The Standards Researcher may propose a change in s
     provided they do not promote personal practice, do not solicit patients, and are not monetised
     through promotional marketing. So every post stays clinician-facing education that solicits no
     patient. That is now a compliance position, not only a style choice.
+    **The provision named (19 Oct 2026).** In the notice's own text the exemption rests on
+    Explanation I to para 3.2, which places "the discourse of information in the normal course of
+    discharge of information to the public at large" outside the *definition* of advertisement
+    ("discourse" is an extraction artefact for "disclosure"). Non-promotional information with no
+    commercial intent is therefore outside the definition rather than an allowance inside it — a
+    stronger position than a carve-out, and one that holds only while the content stays
+    non-promotional in substance and in manner. One secondary account reads the Explanations as
+    covering government campaigns only; the primary text does not. Source in section C.
   - **No superlatives, no guarantees.** Never "best", "No. 1" or "leading" unless objectively
     verifiable; never a guaranteed cure, a success rate or a patient-number claim. Any ranking or
     award quoted must be independently verifiable, with its methodology and date.
@@ -146,6 +154,23 @@ No worker edits this section. The Standards Researcher may propose a change in s
     AI-origin line beside the lockup is strengthened rather than resolved, and this binds hard the
     moment any post carries a generated image of a person, a voice or a clinical picture. Source
     in section C.
+    **Primary text reached, and a third limb (19 Oct 2026).** The clause five secondary sources
+    paraphrased can now be read. A copy of the notice itself — *Guidelines on Ethical Advertising
+    and Public Communication by hospitals/medical institutions and Registered Medical
+    Practitioners*, NMC Ethics & Medical Registration Board, Ref. No. R-13014/01/2024-Ethics,
+    dated 06.10.2026, in force from 6 Oct 2026 — is posted on ResearchGate, and para 7.2 of
+    Chapter II runs to lettered sub-clauses rather than the two sentences the roundups quoted.
+    Two of them reach us. **7.2(h)** reads, in that copy, that "[w]here Al-generated or materially
+    Al-altered content is used" and "its artificial nature may reasonably be material to the
+    audience's understanding", "appropriate disclosure shall be made" — so the 15 Oct second limb
+    is confirmed as a separately lettered duty and is not on its face promotional-only. **7.2(i)**
+    is new to us: "[a]ny use of patient information as input for an Al system" "shall comply with
+    applicable privacy, confidentiality, data-protection" "and professional-ethics requirements."
+    Operationally: never place patient information of any kind into a drafting, rendering or
+    research prompt. Our vignettes are invented and generic already (A10), so this records a rule
+    we keep rather than imposing a new one. The copy is a third-party upload carrying no NMC
+    letterhead, so it is the primary text in substance and not an official source; a founder-grade
+    reading should still be taken from the NMC site. Source in section C.
   - **When A8 clears and faculty are named,** a named practitioner's post must carry their name,
     qualifications, registration status and registration number, and an institution must disclose
     the details of the practitioners associated with its posts. Engaging an agency, an influencer
@@ -153,12 +178,13 @@ No worker edits this section. The Standards Researcher may propose a change in s
   - **Patient imagery does not loosen.** The guidelines allow before-and-after and case imagery for
     scientific or educational use with anonymised consent. Our own rule is stricter and does not
     move: none of it, ever (24 Sep bullet, A10).
-- **Reality check (updated 12 Oct 2026):** across all 40 posts old enough to measure, reach is
-  1–11 accounts per post with a median of 4, and there are zero saves, zero shares and zero
-  comments on every one of them, plus 68 likes and two profile visits in total. The last twelve
-  measurable posts all sit at reach 1–5, the account's floor of reach 1 now stands on 6 Oct, and
-  the eight posts published since the 8 Oct run have not changed the shape of the line, so cadence
-  alone is still shown not to build distribution. Format tuning
+- **Reality check (updated 19 Oct 2026):** across all 50 posts old enough to measure, reach is
+  0–11 accounts per post with a median of 4, and there are zero saves, zero shares and zero
+  comments on every one of them, plus 69 likes and two profile visits in total. The floor has
+  fallen through one: the 16 Oct 12:25 open-fracture post reached nobody at all, the first
+  zero-reach post in the account's history, and the ten posts that have become measurable since
+  the 12 Oct run sit at reach 0–5. Cadence alone is still shown not to build distribution, and six
+  weeks of it has moved the line down, not up. Format tuning
   cannot fix a problem of that size. Until reach is consistently in the hundreds, treat these
   format rules as preparation, and name distribution — not format — as the binding constraint in
   each Guardian run. **The route is now evidenced (5 Oct 2026):** in a
@@ -166,9 +192,126 @@ No worker edits this section. The Standards Researcher may propose a change in s
   followers while personalised direct invitations produced 30 within twelve hours. Direct personal
   invitation, not publishing volume, is what builds the first audience. Acting on it is a founder
   call (see section C); quoting it is not.
+  **An outside number for the scale of the gap (19 Oct 2026):** the one published prospective
+  account of a medical-education account's own social output — 45 Instagram posts and 23 X posts,
+  May 2022 to July 2025 — averaged 13 likes and 473 impressions per Instagram post, grew from 170
+  to 449 followers, and saw website traffic significantly higher while posts were live
+  (p = 0.012). Two readings, both ours to use: a clinician-facing education account of ordinary
+  size runs two orders of magnitude above our reach of 4, which is where the ceiling sits once an
+  audience exists; and that account began with 170 followers, which is the asset we do not have.
+  It is a single account, its users were 74% healthcare-professional students, and it reports
+  nothing by post format, so it calibrates the gap and settles no format question. Source in
+  section C.
 
 ## C. Research log — dated entries, newest first
 
+- 19 Oct 2026 — **NMC 6 Oct guidelines: the primary text finally read, and two section B
+  additions.** Three runs (8, 12 and 15 Oct) worked from secondary reporting and recorded para 7.2
+  as the gap; 15 Oct named the file but the fetch raised a permission request that an unattended
+  run could not answer. A copy of the notice itself is posted on ResearchGate (uploaded 7 Oct 2026)
+  and could be read this run: *Guidelines on Ethical Advertising and Public Communication by
+  hospitals/medical institutions and Registered Medical Practitioners*, NMC Ethics & Medical
+  Registration Board, Ref. No. R-13014/01/2024-Ethics, dated 06.10.2026, in force 6 Oct 2026.
+  Two findings. (1) Para 7.2 of Chapter II is not two sentences but a lettered series, and the limb
+  the 15 Oct run could only report at second hand is **7.2(h)**: where AI-generated or materially
+  AI-altered content is used and "its artificial nature may reasonably be material to the
+  audience's understanding", "appropriate disclosure shall be made". Confirmed, separately
+  lettered, and not worded as promotional-only. (2) **7.2(i)** was in none of the five earlier
+  sources: any use of patient information as input to an AI system must comply with privacy,
+  confidentiality, data-protection and professional-ethics requirements. Old: the section B AI
+  sub-bullet carried the promotional clauses and a 15 Oct paragraph calling the second limb
+  doubtful on secondary evidence. New: a "primary text reached, and a third limb" paragraph quotes
+  7.2(h) and 7.2(i) from the primary copy and states the operational rule for 7.2(i) — never put
+  patient information into a drafting, rendering or research prompt, which is a rule we already
+  keep under A10. Separately, the educational-exemption bullet now names the provision it rests on,
+  Explanation I to para 3.2, which places non-promotional information with no commercial intent
+  outside the *definition* of advertisement rather than inside an allowance. Limits recorded and
+  real: the ResearchGate copy is a third-party upload with no NMC letterhead, the extraction is
+  garbled in places ("Al" for "AI", "discourse" for "disclosure"), the sub-clause letters print as
+  f)–i) in that extraction, and a 125-character quoting limit meant 7.2(h) and 7.2(i) had to be
+  taken in fragments rather than as whole sentences. A founder-grade reading should still come from
+  the NMC site. Nothing in section A touched and nothing loosened. To reverse, delete the two
+  paragraphs. A seventh source, a medical-news report of the notice dated 7 Oct 2026, corroborates
+  the promotional prohibition, the source-mark duty and the ban on AI-manipulated patient images,
+  testimonials, voices and outcomes, but records neither 7.2(h) nor 7.2(i) and reads the
+  Explanations as covering government campaigns only — which is why the primary text, not the
+  roundups, is now what section B cites. Sources:
+  https://www.researchgate.net/publication/415351552_NMC_Guidelines_on_Ethical_Advertising_and_Public_Communication_by_hospitalsmedical_institutions_and_Registered_Medical_Practitioners
+  and https://medicaldialogues.in/health-news/nmc/nmc-issues-ethical-advertising-public-communication-guidelines-for-doctors-hospitals-details-180731
+  and https://ichelonconsulting.com/insights/chatgpt-healthcare-marketing-nmc-compliance-india
+  (the last an advisory blog whose own dates conflict — published 8 Jul 2026, body "updated
+  8 October 2026", page last updated 19 Oct 2026 — used only to locate 7.2's structure, not relied
+  on for wording).
+- 19 Oct 2026 — **Proposal for the founder, sharpened (restates 8 Oct, now on primary text).**
+  7.2(h) is a real, separately lettered duty to disclose where the artificial nature of
+  AI-generated or materially AI-altered content may reasonably be material to the audience. Our
+  cards are machine-rendered type and brand furniture with no synthetic person, voice, scan or
+  clinical image, so the trigger remains doubtful on current output and the Explanation I to para
+  3.2 exemption remains the primary protection — but the question is now whether to put a short
+  AI-origin line beside the lockup anyway. That would change A6 (image furniture), so it is a
+  founder call and a researcher cannot make it. Two further points for the decision: the duty binds
+  hard the moment any post carries a generated picture of a person or a clinical image, and the
+  guidelines are explicit that engaging an agency, an influencer or a platform transfers no
+  responsibility. No change made.
+- 19 Oct 2026 — **Platform scan, 19 Sep – 19 Oct 2026: no confirmed ranking change.** The tracker
+  that admits only official posts, help-page changes and Mosseri statements was last checked
+  18 Oct 2026 — after the previous run — and states in terms that no confirmed ranking change is
+  rolling out; it still names April 2026's originality crackdown (30 Apr) as the year's largest
+  confirmed change. The only entry near the window is 15 Sep Meta One Links, logged on 5 Oct and
+  now a day outside a 30-day window, and the tracker itself notes that it changes what a post can
+  carry, not how it is ranked; its 8 Oct revision concerns Facebook. A second roundup, last updated
+  12 Oct, lists October items as tests and features with no dates and nothing that changes ranking:
+  the Reels-first feed test on iOS was already logged on 12 Oct, and the rest — timestamped
+  comments, a Longform profile tab, creator series tabs, boosted livestreams, a redesigned profile
+  editor — bind nothing. Two adjacent items noted and not acted on: search inside Saved posts and
+  Saved collections reachable from Explore make a save slightly more durable for the viewer, which
+  supports the existing save-first reading without being a ranking change; and the 26 Aug Meta
+  settlement's teen feed changes still take effect 27 Feb 2027. Nothing to do. Sources:
+  https://keywordseverywhere.com/news/instagram-algorithm-updates/ and
+  https://socialbee.com/blog/instagram-updates/
+- 19 Oct 2026 — **Our own performance: 54 posts live, 50 old enough to measure, and the floor has
+  fallen through one.** Reach 0–11 accounts per post, median 4. Zero saves, zero shares and zero
+  comments on all 50, unbroken since the account's first post. Likes total 69 — one more than the
+  68 recorded on 12 and 15 Oct — and profile visits still 2, so the six posts that became
+  measurable since 15 Oct have drawn a single like between them. **New worst: 16 Oct 12:25, the
+  open-fracture post, reach 0** — the first post in the account's history to reach nobody at all,
+  which displaces the reach-1 floor that had moved 3 Oct → 6 Oct → 10 Oct. Best is unchanged and
+  still an age effect: 21 Sep, the Gadchiroli paediatric sepsis brand post — reach 11, 3
+  interactions, 1 profile visit; then 7 Sep, "the future of healthcare is evolving" — reach 9, 4
+  interactions. The two best posts remain brand posts from the account's first fortnight. **No
+  pillar or specialty ranking is possible and none is offered:** we rank by saves and shares, both
+  are zero on every post, and any ranking this run would be invented. Section B reality check
+  updated with the new counts and the zero-reach floor; its reading — distribution, not format, is
+  the binding constraint — is unchanged and now four runs old.
+- 19 Oct 2026 — **The 15 Oct flagged record resolved: it is not format evidence, and it gives a
+  calibration instead.** PMID 41909292 could not be fetched on 15 Oct and was flagged. It is
+  *Integration of Social Media to Enhance Engagement With a Medical Education Website: A Content
+  Analysis*, Cureus 18(2), published 24 Feb 2026 — a prospective content analysis of one
+  medical-education account's output, 45 Instagram posts and 23 X posts, May 2022 to July 2025,
+  with descriptive statistics, t-tests and trend analysis. It reports **nothing by post format**,
+  so on its face the 15 Oct reading was right and the three studies underpinning section B are
+  unchanged (In Vivo 39(6):3516; JMIR Med Educ 2026;1:e79124; BMC Med Educ 10.1186/s12909-026-09350-0
+  = PMC13147703, PMID 42087121, with the board-review account analysis at Cureus 2025;17(9):e92127).
+  What it does give is the first outside measurement of a comparable account: 13 likes and 473
+  impressions per Instagram post on average, followers 170 → 449 (164.1%) over three years, X
+  followers 53 → 112, website users averaging 544 a month and traffic significantly higher while
+  posts were live (p = 0.012), with 74.1% of 21,302 website users being healthcare-professional
+  students. Old: the reality check had our own numbers and no external scale. New: an "outside
+  number for the scale of the gap" clause records it, with the limits stated — one account, a
+  student-weighted audience, no format breakdown. The weekly allocation and every format rule are
+  **unchanged**; this sizes the distance, it decides nothing. To reverse, delete the clause.
+  Source: https://www.cureus.com/articles/450965-integration-of-social-media-to-enhance-engagement-with-a-medical-education-website-a-content-analysis
+- 19 Oct 2026 — **Also checked, nothing to do.** (1) Meta health and medical content policy: every
+  2026 change found is again an *advertising* change — health and wellness ad categories, targeting
+  removals, claim restrictions in paid placements. We run no ads and publish organic
+  clinician-facing education, so none of it binds; a paid route would make it live and is a founder
+  call. (2) Medical-education format evidence: no study published since 15 Oct was found. One
+  2026 review of Instagram in anatomy and histology teaching was surfaced and not relied on — it
+  concerns students and pedagogy, not post format or saves. (3) Caption length, hashtag practice
+  and India posting times: nothing above the evidence bar. One dataset of stated size (a scheduling
+  vendor's 7M-post analysis) was found but could not be fetched, and it is a marketing blog against
+  Buffer's 9.6M-post analysis, which our cadence already rests on. Cadence (09:30 and 17:30 IST),
+  the day weighting and the three-hashtag rule (A4, founder) unchanged.
 - 15 Oct 2026 — **Shares-by-format found at last; one section B clause added.** The 12 Oct entry
   recorded that the Socialinsider benchmark gave no shares-by-format figures and did not claim any.
   A second Socialinsider dataset supplies them: the Instagram Engagement Report, 15,000,000 posts
