@@ -407,9 +407,12 @@
    "source": "WHO recommendation on tranexamic acid for PPH (2017)",
    "source_url": "https://www.who.int/publications/i/item/9789241550154",
    "image": "queue/img/q20261019am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #PPH' after a blank line; no dates, faculty, prices, accreditation or partner names; generic drug name (tranexamic acid); no patient-identifiable detail; theme gold between ivory/navy, no gold adjacency. G3 verified against the cited WHO recommendation on tranexamic acid for PPH (WHO/RHR/17.21, pub. 9789241550154) via the WHO's own TXA briefer of that same recommendation: 1g IV over 10 minutes, repeat 1g if bleeding continues after 30 minutes, must start within 3 hours of birth with benefit falling roughly 10% per 15-minute delay beyond that — all match exactly; searched for a newer edition and found none that changes dose or window. G4 respectful, no fear-selling, states a hard fact plainly. G5 no PPH/TXA post in the queue window; a clinician would save this as a checklist rule. ",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DeqXEv7gJRt/",
+   "fb_post_id": "1240677149138394_122115526497486020",
+   "published_at": "2026-10-19T04:06:25Z"
   },
   {
    "id": "q20261019pm",
