@@ -892,6 +892,42 @@
    "status": "drafted",
    "qc_notes": "",
    "revision": 0
+  },
+  {
+   "id": "q20261102am",
+   "date": "2026-11-02",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "obstetrics and gynaecology",
+   "theme": "navy",
+   "eyebrow": "GDM screening",
+   "headline": "Screening for gestational diabetes does not need a fasting test",
+   "sub": "The FOGSI practice recommendation allows a single glucose test, fasting or not, with a 2-hour plasma reading of 140 mg/dL or higher as the cut-off for gestational diabetes.",
+   "caption": "Gestational diabetes screening does not need a fasting sample. The ICOG/FOGSI good clinical practice recommendation on GDM endorses the DIPSI single-step test: a 75 g glucose load dissolved in about 300 mL of water, taken fasting or non-fasting, with the timing of the last meal not mattering at all.\n\nPlasma glucose is checked once, two hours after the load, using a plasma-calibrated glucometer. A reading of 140 mg/dL or higher is the cut-off for diagnosing gestational diabetes, and the protocol does not call for a second confirmatory test before starting management.\n\nThe caveat that matters: a negative result is not a one-time clearance. The same test is repeated between 24 and 28 weeks, at least four weeks after the first, because risk rises as pregnancy progresses. And if vomiting occurs within thirty minutes of the glucose load, the test is invalid and has to be repeated the next day.\n\n#CME #MedEd #GDM",
+   "source": "ICOG/FOGSI good clinical practice recommendation — DIPSI guideline on GDM",
+   "source_url": "https://icogonline.org/wp-content/uploads/pdf/gcpr/gdm-dipsi-guidline.pdf",
+   "image": "queue/img/q20261102am.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
+  },
+  {
+   "id": "q20261102pm",
+   "date": "2026-11-02",
+   "slot": "17:30",
+   "pillar": "ayush",
+   "specialty": "AYUSH",
+   "theme": "ivory",
+   "eyebrow": "AYUSH assessment",
+   "headline": "An AYUSH learner's assessment tests the own-discipline curriculum, not a borrowed one",
+   "sub": "A BAMS learner is assessed on ayurvedic practice and a BHMS learner on homoeopathic practice, each against its own curriculum, not a shared allopathic yardstick.",
+   "caption": "An assessment only means something if it tests the curriculum a learner actually studied. For the AYUSH own-discipline track, that sounds simple, and it is easy to get wrong.\n\nA BAMS learner follows a structured Ayurvedic curriculum through the year, so the assessment that closes each session has to test ayurvedic reasoning and practice, not a translated version of an allopathic checklist. A BHMS learner's assessment works the same way, built against homoeopathic practice, not adapted from the Ayurvedic one sitting next to it.\n\nThe high-value allopathic subject taught to the same AYUSH audience, in their own language, is assessed separately again, on its own terms, by faculty qualified in that subject. Three tracks, three assessments, none of them a copy of another.\n\n#CME #MedEd #AYUSH",
+   "source": null,
+   "source_url": null,
+   "image": "queue/img/q20261102pm.jpg",
+   "status": "drafted",
+   "qc_notes": "",
+   "revision": 0
   }
  ]
 }
