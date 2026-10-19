@@ -695,8 +695,8 @@
    "source": "Fleischner Society (2017), Radiology",
    "source_url": "https://pubs.rsna.org/doi/10.1148/radiol.2017161659",
    "image": "queue/img/q20261027am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #LungNodules' after a blank line, no banned content, theme navy fits rotation (gold before at q20261026pm, ivory after at q20261027pm), not CME promotion. G3 FAIL: opened the Fleischner Society 2017 guideline directly (pubs.rsna.org/doi/10.1148/radiol.2017161659). The post frames the whole pathway as 'a low-risk patient' (headline and sub), then for the 6-8mm band states 'a further scan considered at eighteen to twenty-four months' -- but per the guideline, the 18-24 month second follow-up applies specifically to HIGH-RISK patients; low-risk patients get a single 6-12 month follow-up, with any additional study only if morphology is suspicious or stability is uncertain (not a routine 18-24 month step). As written, the post misattributes the high-risk timeline to the low-risk pathway it is describing -- numbers do not match the source in context. Fix: either state that step applies when risk is intermediate/high, or replace with the correct low-risk wording (one follow-up at 6-12 months; a further study only if morphology is suspicious or stability uncertain). G4 respectful, no fear-framing. G5 fresh topic, not covered elsewhere in the queue. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -713,8 +713,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261027pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Neonatology' after a blank line, no banned content, no dates/faculty/prices, theme ivory fits rotation (navy before, gold after). G3 n/a, no dose/drug/threshold claim -- general clinical-sign observation, no guideline citation needed. G4 respectful of nursing and parental observation alike, no fear-framing. G5 fresh, no repeat of topic or headline elsewhere in the queue. G6 image present, 1080x1080 JPEG, re-rendered overflow false. Worth posting: reframes a 'vague' handover description as a legitimate early clinical sign, useful to any paediatric/neonatal team.",
    "revision": 0
   },
   {
@@ -731,8 +731,8 @@
    "source": "WHO cancer pain guideline (2018)",
    "source_url": "https://www.iccp-portal.org/system/files/resources/9789241550390-eng.pdf",
    "image": "queue/img/q20261028am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6 (revision 1). G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Pain' after a blank line, no banned content, theme gold fits rotation (navy before, navy after -- no gold adjacency), generic drug language only (opioid/NSAID/paracetamol, no brand names). G3 opened the WHO 2018 cancer pain guideline PDF directly (iccp-portal.org). Confirmed: the ladder is called 'a general guide' not a strict protocol (verbatim); paracetamol/NSAID/opioid may be used at initiation alone or combined; mild analgesics alone should not be the first prescription for moderate-or-severe pain; dosing is titrated to patient-acceptable relief with regular reassessment. The caption's 'often alongside a non-opioid' hedge on starting an opioid correctly reflects the guideline's preference for combination over opioid monotherapy at initiation -- it does not overclaim that an opioid alone is the recommended start. G4 respectful, no fear-framing. G5 fresh, cancer-pain/WHO-ladder topic not covered elsewhere in the queue. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 1
   },
   {
@@ -747,8 +747,8 @@
    "sub": "No message chases a doctor into registering, and no second reminder arrives because the first one went unanswered.",
    "caption": "Many accounts treat a reminder as something to repeat until it works: a nudge today, a firmer one tomorrow, a countdown by the weekend.\n\nOur standard runs the other way. A message goes out once it carries everything a reader needs to decide, and it is not followed by a second version written only because the first one did not get a response. We write for a working clinician's own schedule and judgment, not against them, and that holds whether the reader is a senior consultant or someone a few years into practice.\n\nA professional relationship is not something urgency builds. It is built the same way the rest of what we publish is: by being useful once, clearly, and leaving the decision where it belongs.\n\n#CME #MedEd #Courtesy",
    "image": "queue/img/q20261028pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6 (revision 1). G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Courtesy' after a blank line, no banned content, theme navy fits rotation (gold before, ivory after). G3 n/a, no clinical claim. G4 directly implements the respect protocol (Architecture section 12 / standards A11): no chasing, no pressure, professional courtesy regardless of seniority. G5 fresh -- distinct from q20261017am ('detail stays off cards until confirmed') and q20261023pm ('never asks you to follow/share/tag'); no other post states this one-reminder-then-wait policy. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 1
   },
   {
@@ -763,8 +763,8 @@
    "sub": "BAMS and BHMS keep their own-discipline curriculum; a high-value allopathic subject taught to an AYUSH audience comes from a qualified allopathic specialist, not a colleague relaying it secondhand.",
    "caption": "Two separate tracks run at the same time for an AYUSH doctor, and neither one substitutes for the other.\n\nA BAMS learner continues a structured Ayurvedic curriculum; a BHMS learner continues a structured Homoeopathic curriculum. Each is its own longitudinal programme, built around that system's own clinical reasoning, not condensed from somewhere else.\n\nAlongside it sits a second track: a high-value allopathic subject, taught to the same AYUSH audience in their own regional language, by an allopathic specialist qualified in that subject. An infertility programme taught this way comes from a gynaecologist, not from an AYUSH colleague relaying it secondhand, while the BAMS curriculum continues separately in Ayurvedic terms.\n\nTwo tracks, two kinds of expertise, taught by the people actually qualified in each.\n\n#CME #MedEd #AYUSH",
    "image": "queue/img/q20261029am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6, flagging G5 as borderline rather than failing. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line, no banned content, theme ivory fits rotation (navy before, gold after). G3 n/a, no dose/drug claim -- describes programme structure, not clinical content. G4 respectful of both AYUSH and allopathic practitioners, no implied hierarchy. G5 shares the 'two AYUSH tracks' territory with q20261012pm, q20261017pm, q20261023pm and q20261026pm, but its specific claim -- that the allopathic-subject track must come from a qualified allopathic specialist, not an AYUSH colleague relaying it secondhand -- has not been made before in the queue, so judged fresh; flagging that this is the fourth AYUSH-track post this window for the Factory to vary the angle further out. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0,
    "source": null,
    "source_url": null
@@ -783,8 +783,8 @@
    "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
    "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
    "image": "queue/img/q20261029pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Diabetes' after a blank line, generic drug/class names only, theme gold fits rotation (ivory before, navy after). G3 FAIL: opened the ICMR Standard Treatment Workflow for type 2 diabetes PDF directly. The below-8.5% and 8.5-10% bands are confirmed exactly as written. Above 10%, the workflow lists TWO alternative pathways -- 'basal insulin + metformin + another OAD' OR a 'triple OAD combination' -- but the caption states only the insulin pathway ('the workflow moves to basal insulin together with metformin and a further oral agent') as though it were the sole next step. This drops a guideline-sanctioned oral alternative and could lead a reader to believe insulin is mandatory above 10% HbA1c when it is not. Fix: add 'or a triple oral-agent combination' alongside the insulin option. G4 respectful, no fear-framing. G5 fresh -- escalation-by-band is a different angle from q20261012am, which covered initiation at diagnosis, not escalation. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -799,8 +799,8 @@
    "sub": "No post on this account is written to be seen by a patient, and none is written to bring one in.",
    "caption": "Every account that talks about medicine faces the same question: is this teaching, or is it quietly building a patient list. We answered that once, early, and we do not revisit it post by post.\n\nWhat we publish is addressed to a working clinician, never to someone deciding where to seek care. There is no call to visit a clinic, no implied referral, and no case drawn from an actual patient, however the details are changed before it reaches a card. A reader can learn something useful and close the app; nothing here asks for more than that.\n\nStaying inside that line is not a constraint we work around. It is the reason this account exists in the format it does, and it will not loosen as the audience grows.\n\n#CME #MedEd #Education",
    "image": "queue/img/q20261030am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "FAIL G5. G1 clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Education' after a blank line, theme navy fits rotation (gold before, ivory after). G3 n/a, no clinical claim. G4 respectful, no implied criticism of other accounts. G5 FAIL: this repeats q20261014pm ('Everything we publish is written for a clinician, not a patient', published 14 Oct), which already made the identical core claim in the same brand pillar -- clinician-only audience, no patient solicitation, no referral or case-building off real patients. q20261030am restates it in different words ('asks nothing of a patient', 'no call to visit a clinic, no implied referral') but headline, claim and underlying point are the same topic repeated inside the last 60 posts, which the rotation rule (section B) and G5 prohibit. Fix: the Factory should drop this post or find a genuinely distinct angle not already covered by q20261014pm. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -817,8 +817,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261030pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #EvidenceLiteracy' after a blank line, theme ivory fits rotation (navy before, gold after). G3 n/a -- general trial-methodology teaching (confidence-interval width, underpowered vs. negative trials), no specific drug/dose/guideline citation required, consistent with the queue's other uncited evidence-literacy posts (e.g. q20261022pm composite endpoints, q20261025pm subgroup analysis). G4 respectful, no shaming of any practice pattern. G5 fresh -- underpowered-vs-negative-trial / CI-width is a distinct concept from the queue's other evidence-literacy posts (relative vs absolute risk, composite endpoints, subgroup analysis, test specificity). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -835,8 +835,8 @@
    "source": "",
    "source_url": "",
    "image": "queue/img/q20261031am.jpg",
-   "status": "drafted",
-   "qc_notes": [],
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Governance' after a blank line, theme gold fits rotation (ivory before, navy after). G3 n/a, no clinical claim. G4 respectful, states the policy plainly without implying carelessness elsewhere. G5 fresh -- distinct from the queue's other process/brand posts (q20261017am on confirmed details, q20261020am on not cutting caveats, q20261024am on invented vignettes); none state the independent-reviewer structure this post describes. G6 image present, 1080x1080 JPEG, re-rendered overflow false. Worth posting: an accurate, non-promotional description of the review step this very run is performing.",
    "revision": 0
   },
   {
@@ -853,8 +853,8 @@
    "source": "",
    "source_url": "",
    "image": "queue/img/q20261031pm.jpg",
-   "status": "drafted",
-   "qc_notes": [],
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #EvidenceLiteracy' after a blank line, theme navy fits rotation (gold before, ivory after). G3 n/a -- intention-to-treat vs per-protocol is general trial-methodology teaching, no specific drug/dose/guideline citation required. G4 respectful. G5 fresh, distinct concept from the queue's other evidence-literacy posts. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -871,8 +871,8 @@
    "source": "2023 ESC acute coronary syndromes guideline (ACC ten points summary)",
    "source_url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/14/01/2023-esc-guidelines-acs-esc-2023",
    "image": "queue/img/q20261101am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_failed",
+   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Antiplatelet' after a blank line, generic terms only, theme ivory fits rotation (navy before, gold after). G3 FAIL: opened the cited ACC 'ten points' summary page directly (acc.org). It confirms the core claim exactly -- 'Class III guidelines caution against de-escalation of antiplatelet therapy in the first 30 days post-ACS (LOE B)' -- matching the headline, the class-III caution and the 30-day/first-month window. However, the caption's closing caveat, 'the same guideline supports shortening dual antiplatelet therapy later in appropriately selected patients,' does not appear anywhere on the cited page -- it is not one of its ten points and that page does not address DAPT duration/de-escalation after the acute window. Fix: remove that sentence, or re-source it to a page/summary that actually states it, since as written it is attributed to a source that does not make that statement. G4 respectful, no fear-framing. G5 fresh, distinct from q20261022am (AFib/mechanical valve). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -889,8 +889,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261101pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #SurrogateEndpoints' after a blank line, theme gold fits rotation (ivory before, navy after). G3 n/a -- general evidence-literacy teaching about surrogate vs hard outcomes; the reference to 'specific drug classes' where a marker improved but hard outcomes did not is a well-established, non-specific methodological point (no single drug, dose or trial is named, so no guideline citation is invoked or required), consistent with the queue's other uncited evidence-literacy posts. G4 respectful. G5 fresh, distinct from the queue's other evidence-literacy posts. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -907,8 +907,8 @@
    "source": "ICOG/FOGSI good clinical practice recommendation — DIPSI guideline on GDM",
    "source_url": "https://icogonline.org/wp-content/uploads/pdf/gcpr/gdm-dipsi-guidline.pdf",
    "image": "queue/img/q20261102am.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #GDM' after a blank line, generic terms only, theme navy fits rotation (gold before, ivory after). G3 opened the ICOG/FOGSI DIPSI good-clinical-practice PDF directly. Confirmed verbatim: 75g glucose in about 300mL water, fasting or non-fasting, timing of last meal not mattering; 2-hour plasma glucose; cut-off of 140 mg/dL or higher; vomiting within 30 minutes invalidates the test and it is repeated the next day (vomiting after 30 minutes, test continues); second test at 24-28 weeks if the first is negative, with at least a 4-week gap between tests. A search found no newer superseding ICOG/FOGSI edition -- current guidance still endorses the same DIPSI single-step test. G4 respectful. G5 fresh, no other GDM-screening post in the queue (distinct from the PPH/eclampsia/preterm obstetric posts). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   },
   {
@@ -925,8 +925,8 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261102pm.jpg",
-   "status": "drafted",
-   "qc_notes": "",
+   "status": "qc_passed",
+   "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line, theme ivory fits rotation (navy before; last post in the queue). G3 n/a, no dose/drug claim -- describes assessment-design philosophy, not clinical content. G4 respectful of both AYUSH systems and the allopathic track alike. G5 fresh -- assessment-design angle not covered by the queue's other AYUSH posts (track separation, faculty matching, language delivery). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
    "revision": 0
   }
  ]
