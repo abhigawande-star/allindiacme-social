@@ -428,9 +428,12 @@
    "source": null,
    "source_url": null,
    "image": "queue/img/q20261019pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Evidence' after a blank line; no dates, faculty, prices, accreditation, partner names; no drug or dose stated. G3 n/a — no dose, threshold, timing, drug or management step stated, so no source needed; the post correctly avoids asserting any specific trial numbers. G4 respectful, explains the concept without condescension. G5 no relative/absolute risk post elsewhere in the queue window; genuinely useful for reading any trial reported in the media. Worth posting: equips a doctor to correctly interpret the next 'risk cut by X%' headline.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DerOxq2lBlP/",
+   "fb_post_id": "1240677149138394_122115619383486020",
+   "published_at": "2026-10-19T12:13:08Z"
   },
   {
    "id": "q20261020am",
