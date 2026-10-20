@@ -447,11 +447,14 @@
    "sub": "Clinical accuracy outranks engagement here, even when the clean version of the sentence is shorter.",
    "caption": "Every medical caption could be made shorter. Cut the dose, drop the contraindication, lose the interval that matters, and the sentence reads cleaner.\n\nWe do not make that trade. A dose, a caveat or a contraindication stays in the sentence even when it makes the sentence longer, because the alternative is a shorter sentence that could mislead a reader we are not there to correct in person.\n\nThis is why some of our cards read less smoothly than a typical feed post, and why a post occasionally gets held back to check one more number against its source before it goes out. Reach is slower to build this way. Credibility is not something we are willing to spend to get there faster.\n\n#CME #MedEd #Accuracy",
    "image": "queue/img/q20261020am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #Accuracy' after a blank line; no dates, faculty, prices, accreditation, partner names; no clinical claim. G3 n/a — brand post, no clinical statement. G4 respectful, states the account's own rule without shaming other publishers. G5 distinct from the other brand-rule posts in the queue (q20261010am on naming the guideline, q20261017am on confirming programme details) — this one is specifically about never trimming a dose or caveat for readability, not previously stated. Worth posting: makes the accuracy-over-virality rule explicit and credible to a clinical reader.",
    "revision": 0,
    "source": null,
-   "source_url": null
+   "source_url": null,
+   "ig_permalink": "https://www.instagram.com/p/Des7074ANon/",
+   "fb_post_id": "1240677149138394_122115919731486020",
+   "published_at": "2026-10-20T04:06:03Z"
   },
   {
    "id": "q20261020pm",
