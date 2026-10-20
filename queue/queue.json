@@ -695,15 +695,14 @@
    "specialty": "radiology",
    "theme": "navy",
    "eyebrow": "Incidental lung nodules",
-   "headline": "A solid lung nodule under 6 mm in a low-risk patient needs no routine follow-up",
-   "sub": "Fleischner Society's 2017 criteria stop at that size; they do not cover a screening-detected nodule, an immunosuppressed patient, or one with known cancer.",
-   "caption": "An incidentally found solid pulmonary nodule on a CT ordered for something else does not always need a repeat scan to prove it is stable.\n\nThe Fleischner Society's 2017 guideline sets size as the first filter for a single solid nodule in an otherwise low-risk patient. Under 6 mm, no routine follow-up is required at all. Between 6 and 8 mm, a CT at six to twelve months is appropriate, with a further scan considered at eighteen to twenty-four months. Above 8 mm, the next step is a CT, PET-CT, or tissue sampling at three months rather than a wait-and-watch scan.\n\nThe guideline carries a caveat worth checking before it is applied: it does not extend to a nodule found on a lung cancer screening scan, an immunosuppressed patient, or someone with a known primary cancer, and it is not written for patients under thirty-five.\n\nSize decides the pathway here, not reassurance alone.\n\n#CME #MedEd #LungNodules",
-   "source": "Fleischner Society (2017), Radiology",
-   "source_url": "https://pubs.rsna.org/doi/10.1148/radiol.2017161659",
+   "headline": "A 6-8 mm solid lung nodule gets a stricter recheck schedule in a high-risk patient",
+   "sub": "Fleischner Society's 2017 criteria make a further scan at eighteen to twenty-four months optional in a low-risk patient and required in a high-risk one.",
+   "caption": "An incidentally found solid pulmonary nodule on a scan ordered for something else does not call for the same follow-up in every patient.\n\nThe Fleischner Society's 2017 guideline splits a single solid nodule between six and eight millimetres by risk category. In a low-risk patient, the path is a scan at six to twelve months, with a further scan at eighteen to twenty-four months left to the radiologist's judgement rather than fixed. In a high-risk patient, that second scan at eighteen to twenty-four months is part of the recommended pathway, not an optional extra. Under six millimetres in a low-risk patient, no routine follow-up is needed at all; above eight millimetres, the next step is a scan, PET scan, or tissue sampling at three months, for either risk group.\n\nThe guideline carries a caveat worth checking first: it does not extend to a nodule found on a screening scan, an immunosuppressed patient, or someone with a known primary cancer, and it is not written for patients under thirty-five.\n\nRisk category decides the pathway here as much as size does.\n\n#CME #MedEd #LungNodules",
+   "source": "Fleischner Society (2017) nodule follow-up criteria, summarised by Radiopaedia",
+   "source_url": "https://radiopaedia.org/articles/13541",
    "image": "queue/img/q20261027am.jpg",
-   "status": "qc_failed",
-   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #LungNodules' after a blank line, no banned content, theme navy fits rotation (gold before at q20261026pm, ivory after at q20261027pm), not CME promotion. G3 FAIL: opened the Fleischner Society 2017 guideline directly (pubs.rsna.org/doi/10.1148/radiol.2017161659). The post frames the whole pathway as 'a low-risk patient' (headline and sub), then for the 6-8mm band states 'a further scan considered at eighteen to twenty-four months' -- but per the guideline, the 18-24 month second follow-up applies specifically to HIGH-RISK patients; low-risk patients get a single 6-12 month follow-up, with any additional study only if morphology is suspicious or stability is uncertain (not a routine 18-24 month step). As written, the post misattributes the high-risk timeline to the low-risk pathway it is describing -- numbers do not match the source in context. Fix: either state that step applies when risk is intermediate/high, or replace with the correct low-risk wording (one follow-up at 6-12 months; a further study only if morphology is suspicious or stability uncertain). G4 respectful, no fear-framing. G5 fresh topic, not covered elsewhere in the queue. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-   "revision": 0
+   "status": "drafted",
+   "revision": 1
   },
   {
    "id": "q20261027pm",
@@ -785,13 +784,12 @@
    "eyebrow": "Glycaemic escalation",
    "headline": "Type 2 diabetes treatment escalates by HbA1c band, not by time on one drug",
    "sub": "ICMR's standard treatment workflow adds a second agent once HbA1c sits between 8.5% and 10%, and allows a higher-than-7% target in elderly or significantly comorbid patients.",
-   "caption": "Many wards still step up diabetes treatment the way they step up antibiotics: give the current drug a few months, review, then add another if the numbers have not moved.\n\nICMR's standard treatment workflow for type 2 diabetes sets the escalation by HbA1c band instead. Below 8.5%, metformin alone is the starting point. Once HbA1c sits between 8.5% and 10%, dual therapy begins: metformin plus a sulfonylurea, TZD, DPP-4 inhibitor, SGLT2 inhibitor, alpha-glucosidase inhibitor or GLP-1 receptor agonist. Above 10%, the workflow moves to basal insulin together with metformin and a further oral agent.\n\nThe caveat that matters: the usual target of 7% or below is not universal. The workflow allows a higher target in elderly patients and those with significant comorbid conditions, where tighter control can cost more than it gives back.\n\n#CME #MedEd #Diabetes",
+   "caption": "Many wards still step up diabetes treatment the way they step up antibiotics: give the current drug a few months, review, then add another if the numbers have not moved.\n\nICMR's standard treatment workflow for type 2 diabetes sets the escalation by HbA1c band instead. Below 8.5%, metformin alone is the starting point. Once HbA1c sits between 8.5% and 10%, dual therapy begins: metformin plus a sulfonylurea, TZD, DPP-4 inhibitor, SGLT2 inhibitor, alpha-glucosidase inhibitor or GLP-1 receptor agonist. Above 10%, the workflow offers two paths: basal insulin together with metformin and a further oral agent, or a triple oral-agent combination instead of starting insulin.\n\nThe caveat that matters: the usual target of 7% or below is not universal. The workflow allows a higher target in elderly patients and those with significant comorbid conditions, where tighter control can cost more than it gives back.\n\n#CME #MedEd #Diabetes",
    "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
    "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
    "image": "queue/img/q20261029pm.jpg",
-   "status": "qc_failed",
-   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Diabetes' after a blank line, generic drug/class names only, theme gold fits rotation (ivory before, navy after). G3 FAIL: opened the ICMR Standard Treatment Workflow for type 2 diabetes PDF directly. The below-8.5% and 8.5-10% bands are confirmed exactly as written. Above 10%, the workflow lists TWO alternative pathways -- 'basal insulin + metformin + another OAD' OR a 'triple OAD combination' -- but the caption states only the insulin pathway ('the workflow moves to basal insulin together with metformin and a further oral agent') as though it were the sole next step. This drops a guideline-sanctioned oral alternative and could lead a reader to believe insulin is mandatory above 10% HbA1c when it is not. Fix: add 'or a triple oral-agent combination' alongside the insulin option. G4 respectful, no fear-framing. G5 fresh -- escalation-by-band is a different angle from q20261012am, which covered initiation at diagnosis, not escalation. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-   "revision": 0
+   "status": "drafted",
+   "revision": 1
   },
   {
    "id": "q20261030am",
@@ -800,14 +798,13 @@
    "pillar": "brand",
    "specialty": "general",
    "theme": "navy",
-   "eyebrow": "What this account is for",
-   "headline": "Every post here teaches a clinician; it asks nothing of a patient",
-   "sub": "No post on this account is written to be seen by a patient, and none is written to bring one in.",
-   "caption": "Every account that talks about medicine faces the same question: is this teaching, or is it quietly building a patient list. We answered that once, early, and we do not revisit it post by post.\n\nWhat we publish is addressed to a working clinician, never to someone deciding where to seek care. There is no call to visit a clinic, no implied referral, and no case drawn from an actual patient, however the details are changed before it reaches a card. A reader can learn something useful and close the app; nothing here asks for more than that.\n\nStaying inside that line is not a constraint we work around. It is the reason this account exists in the format it does, and it will not loosen as the audience grows.\n\n#CME #MedEd #Education",
+   "eyebrow": "CME is the product",
+   "headline": "A masterclass is how we teach a CME, not a second thing beside it",
+   "sub": "All India CME offers CME. The year-long masterclass structure is the format that delivers one CME skill, not a separate product sitting next to CME.",
+   "caption": "Two words get used around here, and it is worth being precise about which one is the product.\n\nWhat All India CME offers is continuing medical education, delivered sometimes as a single CME session and, for one clinical skill, as a year-long CME taught in the masterclass format: two sessions a month, building from fundamentals toward advanced practice.\n\nThat is why a programme is never described as a masterclass on its own; every such programme is a CME, taught the masterclass way, session after session for a year. The format changes from session to session; what it is teaching stays continuing medical education throughout.\n\n#CME #MedEd #Brand",
    "image": "queue/img/q20261030am.jpg",
-   "status": "qc_failed",
-   "qc_notes": "FAIL G5. G1 clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Education' after a blank line, theme navy fits rotation (gold before, ivory after). G3 n/a, no clinical claim. G4 respectful, no implied criticism of other accounts. G5 FAIL: this repeats q20261014pm ('Everything we publish is written for a clinician, not a patient', published 14 Oct), which already made the identical core claim in the same brand pillar -- clinician-only audience, no patient solicitation, no referral or case-building off real patients. q20261030am restates it in different words ('asks nothing of a patient', 'no call to visit a clinic, no implied referral') but headline, claim and underlying point are the same topic repeated inside the last 60 posts, which the rotation rule (section B) and G5 prohibit. Fix: the Factory should drop this post or find a genuinely distinct angle not already covered by q20261014pm. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-   "revision": 0
+   "status": "drafted",
+   "revision": 1
   },
   {
    "id": "q20261030pm",
@@ -873,13 +870,12 @@
    "eyebrow": "Antiplatelet timing",
    "headline": "Don't de-escalate antiplatelet therapy in the first month after a coronary event",
    "sub": "The 2023 ESC acute coronary syndrome guideline advises against stepping down from standard dual antiplatelet therapy during this early window, even when bleeding risk looks high.",
-   "caption": "After an acute coronary syndrome, the instinct once bleeding risk looks high is to lighten the antiplatelet regimen early. The 2023 ESC guideline for acute coronary syndromes pushes back on that instinct for the first thirty days.\n\nIts recommendation against de-escalating antiplatelet therapy in this window carries a class III caution, meaning the evidence does not support stepping down to a single agent or a less potent P2Y12 inhibitor that early, however appealing it looks on paper. The ischaemic risk in the first month after a coronary event stays high enough that the usual bleeding-risk argument for lightening treatment does not yet apply.\n\nThe caveat that matters: this is a question of timing, not of permanence. The same guideline supports shortening dual antiplatelet therapy later in appropriately selected patients. What it rules out is doing so inside the first month, when the risk the second agent is protecting against has not yet fallen.\n\n#CME #MedEd #Antiplatelet",
+   "caption": "After an acute coronary syndrome, the instinct once bleeding risk looks high is to lighten the antiplatelet regimen early. The 2023 ESC guideline for acute coronary syndromes pushes back on that instinct for the first thirty days.\n\nIts recommendation against de-escalating antiplatelet therapy in this window carries a class III caution, meaning the evidence does not support stepping down to a single agent or a less potent P2Y12 inhibitor that early, however appealing it looks on paper. The ischaemic risk in the first month after a coronary event stays high enough that the usual bleeding-risk argument for lightening treatment does not yet apply.\n\nThe caveat that matters: this caution is specific to the first thirty days, not a verdict on every later decision in the same patient. What the guideline rules out is stepping down inside that window, while the risk the second agent is protecting against has not yet fallen.\n\n#CME #MedEd #Antiplatelet",
    "source": "2023 ESC acute coronary syndromes guideline (ACC ten points summary)",
    "source_url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/14/01/2023-esc-guidelines-acs-esc-2023",
    "image": "queue/img/q20261101am.jpg",
-   "status": "qc_failed",
-   "qc_notes": "FAIL G3. G1 lint clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #Antiplatelet' after a blank line, generic terms only, theme ivory fits rotation (navy before, gold after). G3 FAIL: opened the cited ACC 'ten points' summary page directly (acc.org). It confirms the core claim exactly -- 'Class III guidelines caution against de-escalation of antiplatelet therapy in the first 30 days post-ACS (LOE B)' -- matching the headline, the class-III caution and the 30-day/first-month window. However, the caption's closing caveat, 'the same guideline supports shortening dual antiplatelet therapy later in appropriately selected patients,' does not appear anywhere on the cited page -- it is not one of its ten points and that page does not address DAPT duration/de-escalation after the acute window. Fix: remove that sentence, or re-source it to a page/summary that actually states it, since as written it is attributed to a source that does not make that statement. G4 respectful, no fear-framing. G5 fresh, distinct from q20261022am (AFib/mechanical valve). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-   "revision": 0
+   "status": "drafted",
+   "revision": 1
   },
   {
    "id": "q20261101pm",
@@ -933,6 +929,40 @@
    "image": "queue/img/q20261102pm.jpg",
    "status": "qc_passed",
    "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line, theme ivory fits rotation (navy before; last post in the queue). G3 n/a, no dose/drug claim -- describes assessment-design philosophy, not clinical content. G4 respectful of both AYUSH systems and the allopathic track alike. G5 fresh -- assessment-design angle not covered by the queue's other AYUSH posts (track separation, faculty matching, language delivery). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
+   "revision": 0
+  },
+  {
+   "id": "q20261103am",
+   "date": "2026-11-03",
+   "slot": "09:30",
+   "pillar": "clinical",
+   "specialty": "orthopaedics",
+   "theme": "gold",
+   "eyebrow": "Low back pain imaging",
+   "headline": "Acute low back pain without red flags does not need an x-ray or MRI",
+   "sub": "NICE reserves routine imaging for suspected infection, cancer, trauma, cord compression, inflammatory disease or cauda equina syndrome; most uncomplicated back pain settles within six weeks.",
+   "caption": "A patient walks in with acute low back pain, and often the first question is which scan to order. For most of them, the guideline's answer is none.\n\nNICE recommends against routine imaging in a non-specialist setting for low back pain, with or without sciatica, when there are no red flags and no suspected serious underlying pathology on history and examination. The reasoning holds up: most uncomplicated back pain resolves within six weeks on its own, and a scan rarely changes that course.\n\nThe caveat that decides when this stops applying: suspected infection, cancer or spinal metastases, spinal injury, cord compression, inflammatory conditions including spondyloarthritis in adults over sixteen, and cauda equina syndrome, where imaging should never be delayed. Any one of these moves a patient out of the reassurance-and-review path and into same-day imaging.\n\n#CME #MedEd #Orthopaedics",
+   "source": "NICE guideline NG59 — Low back pain and sciatica",
+   "source_url": "https://ebi.aomrc.org.uk/interventions/low-back-pain-imaging-2/",
+   "image": "queue/img/q20261103am.jpg",
+   "status": "drafted",
+   "revision": 0
+  },
+  {
+   "id": "q20261103pm",
+   "date": "2026-11-03",
+   "slot": "17:30",
+   "pillar": "clinical",
+   "specialty": "paediatrics and neonatology",
+   "theme": "navy",
+   "eyebrow": "Bronchiolitis in infants",
+   "headline": "Bronchiolitis does not improve faster with a bronchodilator or an antibiotic",
+   "sub": "IAP's review finds no benefit from salbutamol, nebulised adrenaline, steroids or antibiotics in bronchiolitis, and flags a potential for harm in using them routinely.",
+   "caption": "A wheezy infant with bronchiolitis often meets the same reflex: try a nebuliser, start an antibiotic just in case, see if the chest clears faster. The evidence points the other way.\n\nThe Indian Academy of Pediatrics' review of bronchiolitis management finds no benefit from salbutamol, nebulised adrenaline, glucocorticosteroids or antibiotics, and states that inhaled bronchodilators and these other therapies are not routinely recommended. It goes further: these interventions carry a potential for harm rather than a neutral one.\n\nThe caveat that matters: bronchiolitis in infancy is overwhelmingly a self-limited viral illness, and the therapy that actually helps is supportive, oxygen and fluids where needed, not a drug chosen to feel like something was done.\n\n#CME #MedEd #Paediatrics",
+   "source": "Indian Academy of Pediatrics — bronchiolitis management review",
+   "source_url": "https://iapindia.org/pdf/nRICH-Article-79.pdf",
+   "image": "queue/img/q20261103pm.jpg",
+   "status": "drafted",
    "revision": 0
   }
  ]
