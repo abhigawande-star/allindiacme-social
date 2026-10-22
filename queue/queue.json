@@ -524,9 +524,12 @@
    "source": "ICMR Standard Treatment Workflow — Cardiology",
    "source_url": "https://www.icmr.gov.in/icmrobject/uploads/STWs/1768823344_cardiology-1.pdf",
    "image": "queue/img/q20261022am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #AFib' after a blank line; no dates/faculty/prices/partners; generic drug/class names only (warfarin, DOAC); theme gold, neighbours navy/navy - no gold-gold adjacency. G3 verified against ICMR Standard Treatment Workflow - Cardiology/Atrial Fibrillation (DHR/MoHFW, uploaded 19 Jan 2026 - the newest cardiology STW on file; the two 2024 cardiology STWs it supersedes were checked separately and do not apply): source lists 'Direct oral anticoagulants (DOAC)' as the anticoagulation choice, states 'VKA only if severe M.S or metallic valve', and lists the only exceptions to anticoagulating as 'Limited period with reversible etiology' and 'Score <2' - all three claims in the post match verbatim. G4 respectful, states the clinical reason plainly without shaming convenience-driven prescribing. G5 no warfarin/DOAC/AFib post elsewhere in the queue; genuinely useful - a checkable, high-stakes anticoagulant-choice correction. G6 image present, 1080x1080 JPEG, re-render overflow=false. Worth posting: corrects a real stroke-protection risk, not a stylistic preference.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/DeyB7OEgPHh/",
+   "fb_post_id": "1240677149138394_122116482747486020",
+   "published_at": "2026-10-22T09:07:48+05:30"
   },
   {
    "id": "q20261022pm",
