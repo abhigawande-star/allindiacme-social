@@ -102,6 +102,26 @@ No worker edits this section. The Standards Researcher may propose a change in s
   all industries with no healthcare breakdown and no account-size split for saves or shares, so
   this ranks the formats without sizing the effect at our scale; the weekly allocation is
   unchanged. Source in section C.
+  **A third dataset, same direction (22 Oct 2026):** Metricool's 2026 Instagram study —
+  24,364,803 posts from 375,118 accounts, published 16 Jun 2026 — reports carousels earning nine
+  times the saves of single images. Three independent datasets (Socialinsider 35M, Socialinsider
+  15M, Metricool 24M) now point the same way on the saves lever, so the carousel allocation is
+  well founded as *preparation*. The study gives no Reels save comparison, no healthcare
+  breakdown, no account-size split and no date range for the posts analysed, and its figures on
+  caption length, hashtag counts and posting times sit behind a download form and were not
+  obtained. Nothing in the allocation changes. Source in section C.
+- **Facebook ranking now takes typed viewer requests (22 Oct 2026; Meta newsroom, 13 Oct 2026).**
+  Meta is rolling out "Your algorithm": a viewer can add and manage topics, and answer follow-up
+  questions in their own words, and Meta states that large language models interpret that
+  natural-language input and combine it with the existing ranking signals (likes, comments, watch
+  behaviour). Recommendations update in real time and can change within a session. The operational
+  consequence for us is small but real: a post is now more rankable if a viewer could have asked
+  for its subject by name, so name the specialty and the clinical subject explicitly in the first
+  line of the caption and on the card, and do not let a post's only declarable subject be "CME" or
+  the brand. Limits: the announcement covers Facebook feed and Reels and does not mention
+  Instagram, says nothing about Pages or creators, and gives no ranking detail or reach data; it
+  is a rollout of unstated scope. It changes neither the weekly allocation, the cadence nor the
+  binding constraint, which is still distribution. Source in section C.
 - **Compliance constraints (24 Sep 2026; NMC social-media guidance for registered medical
   practitioners, 13 Aug 2023):** no patient photographs or scan images; no before-and-after,
   healed-patient, surgery or procedure imagery, however impressive the result; nothing that
@@ -171,6 +191,23 @@ No worker edits this section. The Standards Researcher may propose a change in s
     we keep rather than imposing a new one. The copy is a third-party upload carrying no NMC
     letterhead, so it is the primary text in substance and not an official source; a founder-grade
     reading should still be taken from the NMC site. Source in section C.
+    **The secondary readings now conflict, and the official locator is known (22 Oct 2026).** Two
+    sources published within a day of each other read 7.2(h) in opposite directions. A
+    clinician-education platform's own note (8 Oct 2026) states that an organisation using AI for
+    educational health content "must explicitly disclose the source origin" and that AI-generated
+    educational graphics or text must be labelled — which is our exact output class, rendered cards
+    and drafted captions, not a synthetic person or scan. A healthcare-marketing agency's guide
+    (9 Oct 2026) states the guidelines impose no disclosure or labelling duty on AI content at all.
+    The primary 7.2(h) wording governs over both and is not confined to promotional content, so the
+    trigger on our output moves from doubtful to contested. **Interim guard, inside this section and
+    touching no brand rule:** never write or imply human authorship of a card or a caption (no
+    "illustrated by", "our designer", "hand-drawn", no byline), and never present rendered brand
+    furniture as a photograph. The remedy itself — a visible AI-origin line beside the lockup —
+    would change A6 and remains a founder call; the official text is at
+    https://nmc.org.in/whats-new/download/1874, listed on the NMC "What's New" page as
+    "Guidelines on Ethical Advertising and Public Communication", dated 06/10/2026. That page
+    serves the notice as a binary download which this run could not render to text, so the
+    founder-grade reading still has to be taken by opening it. Source in section C.
   - **When A8 clears and faculty are named,** a named practitioner's post must carry their name,
     qualifications, registration status and registration number, and an institution must disclose
     the details of the practitioners associated with its posts. Engaging an agency, an influencer
@@ -178,12 +215,11 @@ No worker edits this section. The Standards Researcher may propose a change in s
   - **Patient imagery does not loosen.** The guidelines allow before-and-after and case imagery for
     scientific or educational use with anonymised consent. Our own rule is stricter and does not
     move: none of it, ever (24 Sep bullet, A10).
-- **Reality check (updated 19 Oct 2026):** across all 50 posts old enough to measure, reach is
+- **Reality check (updated 22 Oct 2026):** across all 56 posts old enough to measure, reach is
   0–11 accounts per post with a median of 4, and there are zero saves, zero shares and zero
-  comments on every one of them, plus 69 likes and two profile visits in total. The floor has
-  fallen through one: the 16 Oct 12:25 open-fracture post reached nobody at all, the first
-  zero-reach post in the account's history, and the ten posts that have become measurable since
-  the 12 Oct run sit at reach 0–5. Cadence alone is still shown not to build distribution, and six
+  comments on every one of them, plus 70 likes and two profile visits in total. The floor remains
+  the 16 Oct 12:25 open-fracture post, which reached nobody at all; the six posts that have become
+  measurable since the 19 Oct run sit at reach 1–3 and drew one like between them. Cadence alone is still shown not to build distribution, and six
   weeks of it has moved the line down, not up. Format tuning
   cannot fix a problem of that size. Until reach is consistently in the hundreds, treat these
   format rules as preparation, and name distribution — not format — as the binding constraint in
@@ -205,6 +241,119 @@ No worker edits this section. The Standards Researcher may propose a change in s
 
 ## C. Research log — dated entries, newest first
 
+- 22 Oct 2026 — **A confirmed Facebook ranking change, missed by four runs because the trackers
+  are Instagram-only.** Meta's own newsroom announced "Your algorithm" on 13 Oct 2026: a viewer can
+  add and manage topics and answer follow-up questions in their own words, and Meta states that
+  large language models interpret that natural-language input and combine it with the existing
+  ranking signals — likes, comments and watch behaviour — with recommendations updating in real
+  time and able to change within a session. This is an official, primary-source, confirmed ranking
+  change inside the 30-day window, and the 5, 12, 15 and 19 Oct runs all reported "no confirmed
+  ranking change" because each checked Instagram algorithm trackers only while step 1a covers
+  Instagram *and* Facebook. Old: section B had no clause on viewer-declared interest as a ranking
+  input. New: a "Facebook ranking now takes typed viewer requests" bullet records it and draws the
+  one operational consequence — a post is more rankable if a viewer could have asked for its
+  subject by name, so the specialty and the clinical subject go in the first line of the caption
+  and on the card, and no post's only declarable subject is "CME" or the brand. Limits recorded in
+  the bullet and real: the announcement covers Facebook feed and Reels, does not mention Instagram,
+  says nothing about Pages or creators, gives no ranking detail or reach data, and states no scope
+  for the rollout. Allocation, cadence and the binding constraint are unchanged. To reverse, delete
+  the bullet. Standing correction to this role: check Facebook sources separately from the
+  Instagram trackers. Sources:
+  https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/ and
+  https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/
+- 22 Oct 2026 — **Instagram platform scan, 22 Sep – 22 Oct 2026: still no confirmed ranking
+  change.** The tracker that admits only official posts, help-page changes and Mosseri statements
+  was last checked 21 Oct 2026 — after the previous run — was last updated 8 Oct, and states that
+  no confirmed Instagram ranking change is rolling out. It still names April 2026's originality
+  crackdown (30 Apr) as the year's largest confirmed change. Two entries were added during the
+  window but both have older source dates: the AI-generated profile label (post dated 31 Aug, added
+  20 Sep) and the Meta settlement with US states (judgment 26 Aug, added 28 Sep, teen feed changes
+  effective 27 Feb 2027). The 15 Sep Meta One links entry is now outside a 30-day window and
+  changes what a post can carry, not how it ranks; the 8 Oct revision to it concerns Facebook.
+  Nothing to do on Instagram. Source: https://keywordseverywhere.com/news/instagram-algorithm-updates/
+- 22 Oct 2026 — **NMC 7.2(h): the secondary readings now contradict each other, and the official
+  locator is finally in hand.** Two sources a day apart read the AI limb in opposite directions. A
+  clinician-education platform's daily update (8 Oct 2026) states that an organisation using AI for
+  educational health content "must explicitly disclose the source origin" and that AI-generated
+  educational graphics or text must be labelled — our exact output class, rendered cards and
+  drafted captions. A healthcare-marketing agency's guide (9 Oct 2026, bylined) states flatly that
+  the guidelines report no disclosure or labelling duty for AI content, calling the human-review
+  advice its own recommendation rather than a requirement. The primary 7.2(h) wording read on
+  19 Oct governs over both and is not worded as promotional-only, so the status of the trigger on
+  our output moves from *doubtful* to *contested*. Old: the AI sub-bullet called the trigger
+  doubtful on current output. New: a "secondary readings now conflict" paragraph records the
+  contradiction and adds an interim guard that touches no brand rule — never write or imply human
+  authorship of a card or caption, and never present rendered brand furniture as a photograph.
+  Separately, the official text has a locator at last: the NMC "What's New" page lists "Guidelines
+  on Ethical Advertising and Public Communication", dated 06/10/2026, at
+  https://nmc.org.in/whats-new/download/1874. That page serves the notice as a binary download
+  which this run could not render to text, so three runs' request for a founder-grade reading from
+  the NMC site now has an exact URL to open rather than a search to repeat. Nothing in section A
+  touched and nothing loosened. To reverse, delete the paragraph. Sources:
+  https://www.omnicuris.com/medshots/daily_updates/nmc-ethical-advertising-guidelines-ai-testimonials-rules_08-Oct-26_08-15
+  and https://www.gonexaflow.com/blog/latest-nmc-advertising-guidelines-2026 and
+  https://nmc.org.in/whats-new/download/1874
+- 22 Oct 2026 — **Proposal for the founder, now on contested rather than doubtful ground (restates
+  8 and 19 Oct).** A clinician-education platform — the closest thing found to a peer reading of
+  7.2(h) by someone in our own business — states that AI-generated educational graphics and text
+  must be labelled. One agency source says the opposite. Our cards are machine-rendered and our
+  captions machine-drafted, so if the first reading is right the duty is live on every post we have
+  published. The remedy is a short AI-origin line beside the lockup, which changes A6 (image
+  furniture) and is therefore a founder call a researcher cannot make. Two things make the call
+  cheap to take now rather than later: the official text is one click away at
+  https://nmc.org.in/whats-new/download/1874, and the duty binds hard regardless the moment any
+  post carries a generated picture of a person, a voice or a clinical image. The Explanation I to
+  para 3.2 educational position remains the primary protection either way. No change made.
+- 22 Oct 2026 — **A third independent dataset on the saves lever; allocation unchanged.** Metricool's
+  2026 Instagram study — 24,364,803 posts from 375,118 accounts, published 16 Jun 2026 — reports
+  carousels earning nine times the saves of single images. Old: the "two levers" clause rested on
+  two Socialinsider datasets (35M posts, 447,613 pages; 15M posts, 417,130 pages). New: a "third
+  dataset, same direction" clause records the corroboration, so three independent datasets of
+  24M–35M posts now agree on which format earns saves. The weekly allocation is **unchanged** and
+  deliberately so — the 12 Oct account-size finding still says no format earns saves at our size,
+  so this strengthens the preparation case and moves no slot. Limits recorded and real: no Reels
+  save comparison, no healthcare breakdown, no account-size split, no date range stated for the
+  posts analysed, and the study's caption-length, hashtag and posting-time figures sit behind a
+  download form and were not obtained — so nothing in it bears on cadence or on A4. To reverse,
+  delete the clause. Source: https://metricool.com/instagram-research-study/
+- 22 Oct 2026 — **Our own performance: 57 posts live, 56 old enough to measure, and the floor has
+  stopped falling without rising.** Reach 0–11 accounts per post, median 4 — identical to the
+  19 Oct distribution. Zero saves, zero shares and zero comments on all 56, unbroken since the
+  account's first post. Likes total 70, one more than the 69 recorded on 19 Oct, and profile visits
+  still 2 — so the six posts that became measurable since the last run drew a single like between
+  them. The zero-reach floor is still the 16 Oct 12:25 open-fracture post and was not matched; the
+  six new measurable posts sit at reach 1–3 (14 Oct 12:17 r1, 16 Oct 04:16 r1, 17 Oct 04:15 r1,
+  17 Oct 12:07 r1, 18 Oct 04:06 r2, 18 Oct 12:07 r3, with 19 Oct 04:06 r1 carrying the single
+  like). Best is unchanged and still an age effect: 21 Sep, the Gadchiroli paediatric sepsis brand
+  post — reach 11, 3 interactions, 1 profile visit; then 7 Sep, "the future of healthcare is
+  evolving" — reach 9, 4 interactions. The two best posts remain brand posts from the account's
+  first fortnight. **No pillar or specialty ranking is possible and none is offered:** we rank by
+  saves and shares, both are zero on every post, and any ranking this run would be invented.
+  Section B reality check updated with the new counts; its reading — distribution, not format, is
+  the binding constraint — is unchanged and now five runs old.
+- 22 Oct 2026 — **Also checked, nothing to do.** (1) Meta health and medical content policy: every
+  2026 change found is again an *advertising* change — health and wellness ad categories, targeting
+  removals, claim restrictions in paid placements. We run no ads and publish organic
+  clinician-facing education, so none of it binds; a paid route would make it live and is a founder
+  call. (2) Medical-education format evidence: no study published since the 19 Oct run was found.
+  One 2026 mixed-methods study of Chinese medical students' professional social-media learning
+  practices was surfaced and could not be fetched (the host served a browser-verification page); on
+  its title and abstract it concerns student learning practices, not post format, saves or shares,
+  so it is recorded as unfetched rather than flagged as format evidence. The three studies
+  underpinning section B are unchanged (In Vivo 39(6):3516; JMIR Med Educ 2026;1:e79124;
+  BMC Med Educ 10.1186/s12909-026-09350-0, with the board-review account analysis at
+  Cureus 2025;17(9):e92127). (3) Caption length, hashtag practice and India posting times: nothing
+  above the evidence bar; Metricool's figures on all three are gated behind a download form.
+  Cadence (09:30 and 17:30 IST), the day weighting and the three-hashtag rule (A4, founder)
+  unchanged. (4) **Watch item, not acted on:** several analytics vendors describe Meta retiring
+  legacy Facebook reach metrics in favour of views/viewers during 2026, and one secondary outlet
+  claims Facebook's Reach metric ends 31 Oct 2026 and is replaced by Viewers. No official Meta
+  newsroom post or developer changelog was reached for the October claim, so it is below the bar
+  and no reporting rule changes. It matters only if it reaches Instagram media insights, which it
+  has not: the reach, saved and shares metrics used for our own measurement above all returned
+  normally today. Re-check next run. Sources:
+  https://support.iconosquare.com/facebook-reach-metrics-changes-june-2026 and
+  https://manilashaker.com/facebook-reach-metric-to-end-on-october-31-2026
 - 19 Oct 2026 — **NMC 6 Oct guidelines: the primary text finally read, and two section B
   additions.** Three runs (8, 12 and 15 Oct) worked from secondary reporting and recorded para 7.2
   as the gap; 15 Oct named the file but the fetch raised a permission request that an unattended
