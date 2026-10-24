@@ -618,11 +618,14 @@
    "sub": "The same test, with the same sensitivity and specificity, yields a different post-test probability depending on how likely the diagnosis already was before it was ordered.",
    "caption": "A test's sensitivity and specificity do not change from one patient to the next. What changes is how likely the diagnosis already was before the test was ordered, and that pretest probability decides what a positive result actually means.\n\nOrder a highly sensitive test in a patient with a low pretest probability, and most positive results will be false positives, however good the test's published numbers look in a textbook. Order the same test in a patient whose presentation already made the diagnosis likely, and a positive result is far more trustworthy, even though nothing about the test itself has changed.\n\nThis is why a test ordered to confirm a strong clinical suspicion and the same test ordered to screen a low-risk patient are not doing the same clinical work, and should not be read the same way.\n\nThe question worth asking before trusting any result: how likely was this diagnosis before the test, and does the result actually move that number enough to change what happens next.\n\n#CME #MedEd #ClinicalReasoning",
    "image": "queue/img/q20261024pm.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G1 lint clean. G2 sentence case, no emoji, '#CME #MedEd #ClinicalReasoning' after a blank line; no CME dates, faculty names, prices, accreditation or partner names; no real drug, dose or numeric statistic asserted; theme ivory, neighbours navy (24 Oct am) -- not itself gold, no gold-gold adjacency. G3 n/a - the pretest-probability/Bayesian-reasoning point is a generic diagnostic-testing principle with no dose, threshold, drug or management step and no invented number, so no guideline citation is required, consistent with precedent for this educational sub-genre (q20261010pm, q20261019pm, q20261021pm, q20261022pm); the underlying statistics teaching point (predictive value depends on prevalence) is standard and uncontested. G4 respectful, no fear-selling or shaming of any ordering pattern. G5 fresh - a distinct EBM concept (pretest probability) versus the four prior educational-pillar EBM posts in this window (certainty vs strength, RRR vs ARR, NNT, composite endpoints); highly practical for everyday test-ordering decisions. G6 queue/img/q20261024pm.jpg present, 1080x1080 JPEG, re-rendered locally, overflow false. Worth posting: pretest-probability reasoning is one of the most common blind spots in everyday test ordering, taught here without a single invented number.",
    "revision": 0,
    "source": null,
-   "source_url": null
+   "source_url": null,
+   "ig_permalink": "https://www.instagram.com/p/De4CctzFaQM/",
+   "fb_post_id": "1240677149138394_122117590461486020",
+   "published_at": "2026-10-24T17:05:34+05:30"
   },
   {
    "id": "q20261025am",
