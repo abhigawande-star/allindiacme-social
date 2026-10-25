@@ -641,9 +641,12 @@
    "source": "WHO 2022",
    "source_url": "https://www.who.int/publications/i/item/9789240057296",
    "image": "queue/img/q20261025am.jpg",
-   "status": "qc_passed",
+   "status": "published",
    "qc_notes": "PASS G1-G6. G3: opened WHO 'Antenatal corticosteroids for improving preterm birth outcomes' (who.int/publications/i/item/9789240057296, pub 29 Sep 2022; no newer edition found, still the live WHO page, no superseding guideline located). Headline/sub/caption match Recommendation 1.0 exactly: 24-34 weeks gestation, high likelihood of birth within 7 days, no clinical evidence of maternal infection, adequate childbirth care, and newborn capacity for resuscitation/thermal care/feeding/infection treatment/respiratory support -- all verbatim-supported, no numbers invented. G2: sentence case, no emoji, 3 hashtags after blank line, no dates/names/prices/accreditation/partners, generic drug term only (no specific steroid named), no patient-identifiable detail, theme gold sits between ivory (10/24 pm) and navy (10/25 pm) -- rotation intact. G5: no prior post on antenatal corticosteroids/newborn-care precondition in the queue. Worth posting: surfaces the newborn-care precondition doctors most often miss, which changes the actual decision (treat vs refer before birth) -- high save/share value.",
-   "revision": 0
+   "revision": 0,
+   "ig_permalink": "https://www.instagram.com/p/De5wK5TgKUa/",
+   "fb_post_id": "1240677149138394_122117798529486020",
+   "published_at": "2026-10-25T09:04:19+05:30"
   },
   {
    "id": "q20261025pm",
