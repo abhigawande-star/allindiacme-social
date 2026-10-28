@@ -754,9 +754,12 @@
       "source": "WHO cancer pain guideline (2018)",
       "source_url": "https://www.iccp-portal.org/system/files/resources/9789241550390-eng.pdf",
       "image": "queue/img/q20261028am.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6 (revision 1). G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Pain' after a blank line, no banned content, theme gold fits rotation (navy before, navy after -- no gold adjacency), generic drug language only (opioid/NSAID/paracetamol, no brand names). G3 opened the WHO 2018 cancer pain guideline PDF directly (iccp-portal.org). Confirmed: the ladder is called 'a general guide' not a strict protocol (verbatim); paracetamol/NSAID/opioid may be used at initiation alone or combined; mild analgesics alone should not be the first prescription for moderate-or-severe pain; dosing is titrated to patient-acceptable relief with regular reassessment. The caption's 'often alongside a non-opioid' hedge on starting an opioid correctly reflects the guideline's preference for combination over opioid monotherapy at initiation -- it does not overclaim that an opioid alone is the recommended start. G4 respectful, no fear-framing. G5 fresh, cancer-pain/WHO-ladder topic not covered elsewhere in the queue. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-      "revision": 1
+      "revision": 1,
+      "ig_permalink": "https://www.instagram.com/p/DfBekssgE4_/",
+      "fb_post_id": "1240677149138394_122118735123486020",
+      "published_at": "2026-10-28T09:05:02+05:30"
     },
     {
       "id": "q20261028pm",
