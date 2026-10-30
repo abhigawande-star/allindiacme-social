@@ -847,9 +847,12 @@
       "source": null,
       "source_url": null,
       "image": "queue/img/q20261030pm.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #EvidenceLiteracy' after a blank line, theme ivory fits rotation (navy before, gold after). G3 n/a -- general trial-methodology teaching (confidence-interval width, underpowered vs. negative trials), no specific drug/dose/guideline citation required, consistent with the queue's other uncited evidence-literacy posts (e.g. q20261022pm composite endpoints, q20261025pm subgroup analysis). G4 respectful, no shaming of any practice pattern. G5 fresh -- underpowered-vs-negative-trial / CI-width is a distinct concept from the queue's other evidence-literacy posts (relative vs absolute risk, composite endpoints, subgroup analysis, test specificity). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-      "revision": 0
+      "revision": 0,
+      "ig_permalink": "https://www.instagram.com/p/DfHfHAOIK8g/",
+      "fb_post_id": "1240677149138394_122119326969486020",
+      "published_at": "2026-10-30T11:35:34Z"
     },
     {
       "id": "q20261031am",
