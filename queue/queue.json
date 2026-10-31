@@ -868,9 +868,12 @@
       "source": "",
       "source_url": "",
       "image": "queue/img/q20261031am.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #Governance' after a blank line, theme gold fits rotation (ivory before, navy after). G3 n/a, no clinical claim. G4 respectful, states the policy plainly without implying carelessness elsewhere. G5 fresh -- distinct from the queue's other process/brand posts (q20261017am on confirmed details, q20261020am on not cutting caveats, q20261024am on invented vignettes); none state the independent-reviewer structure this post describes. G6 image present, 1080x1080 JPEG, re-rendered overflow false. Worth posting: an accurate, non-promotional description of the review step this very run is performing.",
-      "revision": 0
+      "revision": 0,
+      "ig_permalink": "https://www.instagram.com/p/DfJM9z9jaA4/",
+      "fb_post_id": "1240677149138394_122119500147486020",
+      "published_at": "2026-10-31T09:05:17.566714+05:30"
     },
     {
       "id": "q20261031pm",
