@@ -889,9 +889,12 @@
       "source": "",
       "source_url": "",
       "image": "queue/img/q20261031pm.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #EvidenceLiteracy' after a blank line, theme navy fits rotation (gold before, ivory after). G3 n/a -- intention-to-treat vs per-protocol is general trial-methodology teaching, no specific drug/dose/guideline citation required. G4 respectful. G5 fresh, distinct concept from the queue's other evidence-literacy posts. G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-      "revision": 0
+      "revision": 0,
+      "ig_permalink": "https://www.instagram.com/p/DfKD2lpICMJ/",
+      "fb_post_id": "1240677149138394_122119583037486020",
+      "published_at": "2026-10-31T11:34:12Z"
     },
     {
       "id": "q20261101am",
