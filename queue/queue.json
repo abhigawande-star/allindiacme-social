@@ -716,8 +716,9 @@
       "source": "Fleischner Society (2017) nodule follow-up criteria, summarised by Radiopaedia",
       "source_url": "https://radiopaedia.org/articles/13541",
       "image": "queue/img/q20261027am.jpg",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "FAIL G1: headline is 15 words (max 10) — shorten to ≤10 words. e.g. \"Solid lung nodule 6–8 mm: stricter follow-up in high-risk patients\""
     },
     {
       "id": "q20261027pm",
@@ -815,8 +816,9 @@
       "source": "ICMR Standard Treatment Workflow — Diabetes Mellitus Type 2",
       "source_url": "https://icmr.gov.in/icmrobject/uploads/STWs/1726567245_diabetes_mellitus_type_2.pdf",
       "image": "queue/img/q20261029pm.jpg",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "FAIL G1: headline is 14 words (max 10) — shorten to ≤10 words. e.g. \"Type 2 diabetes: escalate by HbA1c band, not time\""
     },
     {
       "id": "q20261030am",
@@ -830,8 +832,9 @@
       "sub": "All India CME offers CME. The year-long masterclass structure is the format that delivers one CME skill, not a separate product sitting next to CME.",
       "caption": "Two words get used around here, and it is worth being precise about which one is the product.\n\nWhat All India CME offers is continuing medical education, delivered sometimes as a single CME session and, for one clinical skill, as a year-long CME taught in the masterclass format: two sessions a month, building from fundamentals toward advanced practice.\n\nThat is why a programme is never described as a masterclass on its own; every such programme is a CME, taught the masterclass way, session after session for a year. The format changes from session to session; what it is teaching stays continuing medical education throughout.\n\n#CME #MedEd #Brand",
       "image": "queue/img/q20261030am.jpg",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "FAIL G1: headline is 14 words (max 10) — shorten to ≤10 words. Sub is 2 sentences — merge into one: combine \"All India CME offers CME.\" and the second sentence into a single sentence."
     },
     {
       "id": "q20261030pm",
@@ -910,8 +913,9 @@
       "source": "2023 ESC acute coronary syndromes guideline (ACC ten points summary)",
       "source_url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2023/08/29/14/01/2023-esc-guidelines-acs-esc-2023",
       "image": "queue/img/q20261101am.jpg",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "FAIL G1: headline is 12 words (max 10) — shorten to ≤10 words. e.g. \"First 30 days post-ACS: do not step down antiplatelet therapy\""
     },
     {
       "id": "q20261101pm",
@@ -984,8 +988,9 @@
       "source": "NICE guideline NG59 — Low back pain and sciatica",
       "source_url": "https://ebi.aomrc.org.uk/interventions/low-back-pain-imaging-2/",
       "image": "queue/img/q20261103am.jpg",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 14 words (max 10) — shorten to ≤10 words. e.g. \"Acute low back pain without red flags: no imaging needed\""
     },
     {
       "id": "q20261103pm",
@@ -1001,8 +1006,9 @@
       "source": "Indian Academy of Pediatrics — bronchiolitis management review",
       "source_url": "https://iapindia.org/pdf/nRICH-Article-79.pdf",
       "image": "queue/img/q20261103pm.jpg",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 11 words (max 10) — shorten to ≤10 words. e.g. \"Bronchiolitis: bronchodilators and antibiotics do not help\""
     },
     {
       "id": "q20261104am",
@@ -1017,8 +1023,9 @@
       "caption": "Type 2 diabetes | HbA1c management\n\nThe 2022 RSSDI clinical practice recommendations set HbA1c below 7.0% as the reference target for most adults with type 2 diabetes, with the explicit instruction to individualize it. A lower target may be appropriate when it can be reached safely without hypoglycemia. A higher target is the right choice for patients with significant comorbidities, advanced age, a long duration of diabetes, or a history of severe hypoglycemic events.\n\nThe caveat that matters: any agreed target should be re-examined if it is not met on two consecutive occasions. That is when the treatment plan needs to change, not when a single reading comes in high. HbA1c measurement is recommended every three to six months throughout.\n\nThe number is a threshold to check against, not a target to chase at the cost of the patient in front of you.\n\n#CME #MedEd #DiabetesManagement",
       "source_label": "RSSDI Clinical Practice Recommendations 2022",
       "source_url": "https://link.springer.com/article/10.1007/s13410-022-01074-5",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 11 words (max 10) — shorten to ≤10 words. e.g. \"HbA1c 7% is a starting point, not a rule\""
     },
     {
       "id": "q20261104pm",
@@ -1031,8 +1038,9 @@
       "headline": "A non-inferiority trial sets the floor, not the ceiling",
       "sub": "When a trial is designed to show a new treatment is 'not much worse' than the standard, the margin of acceptable inferiority is a clinical judgment built into the protocol before a single patient is enrolled.",
       "caption": "Clinical trial literacy | cross-specialty\n\nA non-inferiority trial does not ask whether a new treatment is better than the comparator. It asks whether the new treatment is no worse than the comparator by more than a pre-specified amount, called the non-inferiority margin.\n\nThat margin is set by the trialists before the study begins, and it represents the largest performance gap they consider acceptable in clinical practice. The question to ask as a reader is whether you agree with that judgment. A margin that was chosen to make the trial easier to pass does not establish clinical equivalence; it establishes only that the new treatment fell within the chosen boundary.\n\nA drug approved on non-inferiority evidence is not the same as a drug proved equivalent. It is a drug that failed to exceed the agreed floor. In some situations that is enough. In others, the floor matters a great deal.\n\n#CME #MedEd #TrialDesign",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_passed",
+      "revision": 0,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261105am",
@@ -1047,8 +1055,9 @@
       "caption": "Cardiology | post-ACS lipid management\n\nAfter an acute coronary syndrome, the 2024 Cardiological Society of India clinical practice guidelines do not recommend starting a statin alone and adding ezetimibe only if the LDL target is missed. They recommend combination therapy from the start.\n\nThe target is LDL below 55 mg/dL. Achieving it requires high-intensity statin therapy combined with ezetimibe at initiation, rather than a staged approach that requires a follow-up reading and a second prescription. If the target is still not reached after four weeks on this combination, PCSK9 inhibitors, bempedoic acid or inclisiran are the next options.\n\nThe caveat that matters: the four-week review is built into the guideline. The combination is the starting point, not the ceiling. Patients who have high baseline LDL or cannot tolerate maximum statin doses will need that review and the escalation it may trigger.\n\n#CME #MedEd #Cardiology",
       "source_label": "CSI Clinical Practice Guidelines 2024 — Lipid Management",
       "source_url": "https://cardiologysocietyofindia.org/guidelines",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 11 words (max 10) — shorten to ≤10 words. e.g. \"Combine statin and ezetimibe from day one after ACS\""
     },
     {
       "id": "q20261105pm",
@@ -1061,8 +1070,9 @@
       "headline": "Every All India CME session is built around a single clinical skill",
       "sub": "The programme is not a series of talks on a topic — it is twenty-four sessions across a year, each one designed to move the same skill forward by one measurable step.",
       "caption": "A session in this programme does not exist to cover ground. It exists to move a skill.\n\nThe masterclass format means one clinical competency, selected because it matters in real practice, is taught across twenty-four sessions over a year. Each session has the same objective: make the participant marginally more capable of applying that skill than they were before it started. Not more informed. More capable.\n\nThat distinction shapes how the sessions are built. Information presented as a lecture moves understanding. A session built to change practice has to include the moment where the participant uses the skill under some form of constraint — a case, a question, a decision that must be justified — and gets feedback on whether they got it right.\n\nThis is CME in masterclass format. The masterclass is how the CME is taught. The CME is the point.\n\n#CME #MedEd #ClinicalEducation",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 12 words (max 10) — shorten to ≤10 words. e.g. \"Every All India CME session targets one clinical skill\""
     },
     {
       "id": "q20261106am",
@@ -1075,8 +1085,9 @@
       "headline": "The tagline describes a standard, not a feeling",
       "sub": "Uniform Excellence in Clinical Practice means every participant in the programme, regardless of location or seniority, encounters the same clinical standard in the same session delivered the same way.",
       "caption": "Uniform Excellence in Clinical Practice is not a phrase chosen for how it sounds. It describes a specific commitment.\n\nEvery session in this programme is delivered the same way to every cohort. The content is the same. The cases are the same. The standard against which a participant's answer is assessed is the same. A doctor in a tier-three city sits through the same session, with the same rigor, as one in a metro teaching hospital.\n\nThat uniformity is harder to achieve than it sounds. It requires a session to be built rather than performed, assessed the same way each time it runs, and checked against the same clinical standard regardless of who is in the room. It does not depend on a particularly effective facilitator on a particular evening.\n\nThe point of the standard is that it does not vary with circumstances it cannot control.\n\n#CME #MedEd #AllIndiaCME",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_passed",
+      "revision": 0,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261106pm",
@@ -1089,8 +1100,9 @@
       "headline": "Relative risk reduction always looks larger than absolute risk reduction",
       "sub": "A trial that cuts a 2% event rate to 1% can report either a 50% relative risk reduction or a 1% absolute risk reduction — both are correct, and only one of them tells you how many patients you need to treat.",
       "caption": "Clinical trial literacy | cross-specialty\n\nThe same result looks different depending on how it is expressed. A trial that reduces event rates from 2% to 1% can honestly report a fifty percent relative risk reduction. It can just as honestly report a one percent absolute risk reduction. Both numbers describe the same finding.\n\nRelative risk reduction compares the two rates to each other: one percent is half of two percent. Absolute risk reduction compares them to a fixed baseline: one percent minus two percent is one percentage point. The number needed to treat — the inverse of the absolute risk reduction — in this case is a hundred patients to prevent one event.\n\nThe relative figure is the one that appears in most press releases and most headlines. It is larger, and larger looks more significant. The absolute figure, and the number needed to treat derived from it, is what belongs in a clinical decision.\n\nNeither number is wrong. One of them is more useful.\n\n#CME #MedEd #EvidenceLiteracy",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_passed",
+      "revision": 0,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261107am",
@@ -1105,8 +1117,9 @@
       "caption": "Obstetrics and gynaecology | preeclampsia management\n\nFor preeclampsia without severe features, FOGSI guidelines recommend expectant management until 37 weeks of gestation, at which point delivery is indicated. The goal of that management is BP control, not resolution — antihypertensives are titrated to keep blood pressure below 160/110 mmHg, a threshold that reflects the risk of stroke rather than an optimal target for the mother.\n\nFluid management is constrained. The guideline advises restricting IV fluids to 80 mL per hour, or 1 mL per kilogram per hour, specifically to reduce the risk of pulmonary oedema, a serious and preventable complication in preeclampsia.\n\nThe caveat that decides when expectant management ends: severe disease, eclampsia, or any deterioration in maternal or fetal status requires delivery regardless of gestation, after initial stabilisation. Thirty-seven weeks is the planned endpoint for uncomplicated disease, not the threshold for proceeding under pressure.\n\n#CME #MedEd #Obstetrics",
       "source_label": "FOGSI Clinical Practice Guidelines — Preeclampsia",
       "source_url": "https://www.fogsi.org/good-clinical-practice-recommendations-gcpr/",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 11 words (max 10) — shorten to ≤10 words. e.g. \"Preeclampsia without severe features: deliver at 37 weeks\""
     },
     {
       "id": "q20261107pm",
@@ -1119,8 +1132,9 @@
       "headline": "An AYUSH session reaches more learners when delivered in the learner's language",
       "sub": "Sessions for AYUSH cohorts are delivered in the language the participants actually work in, which means regional-language delivery is built into the programme structure rather than added as an afterthought.",
       "caption": "A CME session delivered in a language the participant is not fully comfortable in does not teach what it sets out to teach. The content may be correct and the faculty expert, but the cognitive load of following unfamiliar language competes with the cognitive load of learning.\n\nFor AYUSH cohorts, the programme plans for regional-language delivery as a structural decision, not a concession to access. The session is designed to run in the language the participants actually read, document and communicate in, which is typically not English.\n\nThat has one practical implication that is easy to overlook: the cases, the clinical vocabulary and the assessment questions all have to be prepared in that language, not translated from an English original on the day. A translated session is not the same as a session built in the language. The difference shows up in the assessment.\n\n#CME #MedEd #AYUSH",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 12 words (max 10) — shorten to ≤10 words. e.g. \"AYUSH sessions work better in the learner's own language\""
     },
     {
       "id": "q20261108am",
@@ -1133,8 +1147,9 @@
       "headline": "Number needed to treat puts absolute risk reduction into clinical terms",
       "sub": "NNT is the inverse of the absolute risk reduction, and it tells you how many patients need to receive a treatment for one to benefit — a figure that is useful for weighing benefit against cost, burden or side effects.",
       "caption": "Clinical trial literacy | cross-specialty\n\nNumber needed to treat is not a separate statistic. It is the absolute risk reduction expressed as the number of patients treated rather than as a percentage.\n\nIf a treatment reduces the absolute risk of an outcome from 4% to 2%, the absolute risk reduction is 2 percentage points, and the number needed to treat is fifty: one in fifty patients who receive the treatment will have the outcome prevented. The other forty-nine receive the treatment and do not benefit from it — though they still take on its risks and costs.\n\nThat framing is useful because it makes the trade-off visible. A treatment with a number needed to treat of ten and a number needed to harm of a hundred has a clear margin. A treatment with a number needed to treat of two hundred and a number needed to harm of fifty does not. The clinical decision is the same in both cases, but only one of them looks unambiguous from the relative risk alone.\n\n#CME #MedEd #ClinicalEpidemiology",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 11 words (max 10) — shorten to ≤10 words. e.g. \"Number needed to treat: absolute risk in clinical terms\""
     },
     {
       "id": "q20261108pm",
@@ -1149,8 +1164,9 @@
       "caption": "Paediatrics and neonatology | neonatal sepsis\n\nIAP guidance on neonatal sepsis works through a clinical probability framework. The assessment begins with red and yellow flag signs. A neonate showing red flag signs, two or more yellow signs together, or a specific set of risk factors at or below 32 weeks gestation falls into the high probability category. In that group, management does not wait for culture results.\n\nThe sequence is admission, blood culture, and empirical antibiotic treatment started immediately. Antibiotic duration is determined later by the culture and CSF findings, and typically runs between five and twenty-one days depending on the pathogen and site of infection.\n\nThe caveat that matters: the framework requires a systematic assessment of both red and yellow signs together, not a response only to the most obvious finding. A neonate with a single yellow sign and a significant risk factor has the same classification as one with multiple yellow signs, and the same urgency follows.\n\n#CME #MedEd #Neonatology",
       "source_label": "IAP Neonatal Sepsis Management Guidelines",
       "source_url": "https://iapindia.org/pdf/Neonatal-Sepsis-IAP.pdf",
-      "status": "drafted",
-      "revision": 0
+      "status": "held",
+      "revision": 0,
+      "qc_notes": "HELD G3: Ambiguous threshold for preterm infants. The sub states \"two or more yellow signs\" as a criterion for high-probability neonatal sepsis. IAP guidance appears to specify that for infants ≤32 weeks, even ONE yellow flag sign or maternal risk factor indicates high probability (not two). Please confirm: does the \"2+ yellow signs\" threshold apply only to term neonates, with a lower one-sign threshold for preterm infants ≤32 weeks?"
     },
     {
       "id": "q20261109am",
@@ -1163,8 +1179,9 @@
       "headline": "AYUSH cohorts run as a separate track built on the same clinical standard",
       "sub": "The AYUSH track is not a modified version of the allopathic programme — it runs as its own curriculum, built separately, with own-discipline content and high-value allopathic subjects taught by faculty qualified in each.",
       "caption": "The AYUSH track in this programme is not constructed by simplifying the allopathic curriculum. It is built separately, from the objectives up.\n\nOwn-discipline sessions cover Ayurvedic or homoeopathic practice and are built and assessed against those curricula. High-value allopathic subjects — pharmacology, basic sciences, clinical skills that cross disciplinary lines — are taught in the AYUSH cohort by allopathic faculty qualified in that subject, in the language the learners use, with cases and assessments prepared for that audience.\n\nThe clinical standard applied to both tracks is the same: does the participant leave with a measurable improvement in a skill they can use? The content differs because the practitioners differ. The standard does not.\n\nRunning these as separate cohorts is not a compromise on quality. It is what makes quality possible across a genuinely diverse learner group.\n\n#CME #MedEd #AYUSH",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "FAIL G1: headline is 13 words (max 10) — shorten to ≤10 words. e.g. \"AYUSH cohorts: a separate track, the same clinical standard\""
     },
     {
       "id": "q20261109pm",
@@ -1179,8 +1196,9 @@
       "caption": "Internal medicine | blood pressure targets in diabetes\n\nFor most adults with hypertension, the 2023 Indian Society of Hypertension consensus guidelines set an office blood pressure target below 140/90 mmHg. For adults with diabetes mellitus, chronic kidney disease or established cardiovascular disease, the target is tighter: below 130/80 mmHg, on the condition that this lower threshold is reached gradually and is well-tolerated by the patient.\n\nFor adults aged 80 years or older, the systolic target is below 140 mmHg, regardless of comorbidities.\n\nThe caveat that matters: the lower target in high-risk groups is a treatment goal, not a threshold to reach quickly. Abrupt reductions in blood pressure in patients with long-standing hypertension, particularly in older adults or those with established coronary disease, carry their own risks. The guideline's qualifier — provided it is well-tolerated — is not a footnote. It is a clinical instruction.\n\n#CME #MedEd #Hypertension",
       "source_label": "InSH Consensus Guidelines 2023 — Blood Pressure Targets",
       "source_url": "https://link.springer.com/article/10.1007/s40292-023-00571-4",
-      "status": "drafted",
-      "revision": 0
+      "status": "held",
+      "revision": 0,
+      "qc_notes": "HELD G3: Ambiguous claim about BP target for adults ≥80. The post states \"below 140 mmHg systolic, regardless of comorbidities.\" InSH 2023 consensus guidelines appear to specify this target for elderly patients WITH specific comorbidities (diabetes, CKD, CVD), not \"regardless of comorbidities.\" Please verify: (a) whether <140 mmHg systolic for adults ≥80 applies universally or only to those with the listed conditions, and (b) whether the InSH 2023 text specifies only systolic <140 or also diastolic."
     }
   ]
 }
