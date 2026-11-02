@@ -973,9 +973,12 @@
       "source": null,
       "source_url": null,
       "image": "queue/img/q20261102pm.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6. G1 clean. G2 sentence case, no emoji, '#CME #MedEd #AYUSH' after a blank line, theme ivory fits rotation (navy before; last post in the queue). G3 n/a, no dose/drug claim -- describes assessment-design philosophy, not clinical content. G4 respectful of both AYUSH systems and the allopathic track alike. G5 fresh -- assessment-design angle not covered by the queue's other AYUSH posts (track separation, faculty matching, language delivery). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-      "revision": 0
+      "revision": 0,
+      "ig_permalink": "https://www.instagram.com/p/DfPNnk-Fck2/",
+      "fb_post_id": "1240677149138394_122120132985486020",
+      "published_at": "2026-11-02T17:35:43+05:30"
     },
     {
       "id": "q20261103am",
