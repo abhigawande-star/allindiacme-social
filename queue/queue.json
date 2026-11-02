@@ -952,9 +952,12 @@
       "source": "ICOG/FOGSI good clinical practice recommendation — DIPSI guideline on GDM",
       "source_url": "https://icogonline.org/wp-content/uploads/pdf/gcpr/gdm-dipsi-guidline.pdf",
       "image": "queue/img/q20261102am.jpg",
-      "status": "qc_passed",
+      "status": "published",
       "qc_notes": "PASS G1-G6. G1 clean. G2 compliant: sentence case, no emoji, '#CME #MedEd #GDM' after a blank line, generic terms only, theme navy fits rotation (gold before, ivory after). G3 opened the ICOG/FOGSI DIPSI good-clinical-practice PDF directly. Confirmed verbatim: 75g glucose in about 300mL water, fasting or non-fasting, timing of last meal not mattering; 2-hour plasma glucose; cut-off of 140 mg/dL or higher; vomiting within 30 minutes invalidates the test and it is repeated the next day (vomiting after 30 minutes, test continues); second test at 24-28 weeks if the first is negative, with at least a 4-week gap between tests. A search found no newer superseding ICOG/FOGSI edition -- current guidance still endorses the same DIPSI single-step test. G4 respectful. G5 fresh, no other GDM-screening post in the queue (distinct from the PPH/eclampsia/preterm obstetric posts). G6 image present, 1080x1080 JPEG, re-rendered overflow false.",
-      "revision": 0
+      "revision": 0,
+      "ig_permalink": "https://www.instagram.com/p/DfOWgv3Ddjz/",
+      "fb_post_id": "1240677149138394_122120056815486020",
+      "published_at": "2026-11-02T09:04:11+05:30"
     },
     {
       "id": "q20261102pm",
