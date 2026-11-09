@@ -993,8 +993,9 @@
       "caption": "The 2025 AIDAA guidelines replace the linear, intubation-first approach with a circular model for unanticipated difficult airways in adults. When a primary plan fails, tracheal tube, supraglottic airway (SGA), and face mask are interchangeable — no one device ranks above another. Up to three attempts are allowed provided SpO2 remains at or above 95%.\n\nThe guidelines formalise 'Code D' as a standardised emergency call for help when immediate airway rescue is needed. Surgical cricothyroidotomy is now the preferred technique whenever ventilation has completely failed.\n\nPreparation is built in: standardised difficult-airway carts, peri-intubation oxygenation, waveform capnography, a post-event report, and an Airway Alert Card for the patient.\n\nThe frame has changed: the question is no longer 'intubate first, then escalate' but 'which of three devices maintains oxygenation, right now?'\n\n#CME #MedEd #Anaesthesia",
       "source": "AIDAA 2025 guidelines, Indian Journal of Anaesthesia",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41293142/",
-      "status": "drafted",
-      "revision": 1
+      "status": "held",
+      "revision": 1,
+      "qc_notes": "G3 HOLD: source URL (PubMed PMID 41293142) could not be opened — page requires JavaScript rendering. Please verify: (1) circular model replacing linear intubation-first approach; (2) up to three attempts while SpO2 ≥ 95%; (3) Code D as the standardised emergency call; (4) surgical cricothyroidotomy as the preferred technique when ventilation has failed."
     },
     {
       "id": "q20261103pm",
@@ -1009,8 +1010,9 @@
       "caption": "Phototherapy is the primary non-invasive treatment for neonatal jaundice in India. The IAP Standard Treatment Guidelines 2022 define when to start: any jaundice visible in the first 24 hours of life, or extending to palms and soles, requires immediate phototherapy without waiting for a serum bilirubin result. For all other infants, initiation follows hour-specific bilirubin nomograms aligned with AAP and NICE charts.\n\nTechnique is not a secondary concern. The guidelines specify blue-spectrum LED or CFL lamps emitting more than 30 µW/cm² per nanometre, positioned as close to the infant as safely possible, with the maximum body surface area uncovered. Eyes must remain shielded.\n\nPhototherapy stops when total serum bilirubin falls 2 to 3 mg/dL below the threshold at which it was started.\n\nIn settings where follow-up is uncertain, some experts recommend initiating at a lower threshold than the nomogram to reduce risk of return with severe jaundice.\n\n#CME #MedEd #Neonatology",
       "source": "IAP Standard Treatment Guidelines 2022, neonatal jaundice",
       "source_url": "https://iapindia.org/pdf/Ch-079-Neonatal-Jaundice.pdf",
-      "status": "drafted",
-      "revision": 1
+      "status": "held",
+      "revision": 1,
+      "qc_notes": "G3 HOLD: source URL (IAP 2022 PDF, iapindia.org) is robots-restricted and could not be opened. Please verify: (1) phototherapy intensity threshold of more than 30 µW/cm² per nanometre; (2) stopping when total serum bilirubin falls 2–3 mg/dL below the starting threshold."
     },
     {
       "id": "q20261104am",
@@ -1023,8 +1025,9 @@
       "headline": "A guideline grade is a statement about uncertainty",
       "sub": "When a guideline labels its evidence as high or moderate, it is describing how confident we can be that the true effect is close to the estimated one — not how large or important that effect is.",
       "caption": "The GRADE system labels the certainty of evidence in a guideline as high, moderate, low, or very low. These are statements about uncertainty, not about effect size.\n\nHigh certainty means we are very confident the true effect is close to the estimate; new evidence is unlikely to change it. Moderate means further research could move the estimate. Low means our confidence is limited and the true effect may differ substantially. Very low means the estimate is unreliable.\n\nA recommendation can be strong even on low-certainty evidence if the benefit clearly outweighs harm — and it can be weak on high-certainty evidence if the balance is close or values differ across patients.\n\nWhen you read a guideline, check the certainty rating before the recommendation. A weak recommendation on low certainty is more provisional than a strong one on moderate evidence, regardless of how similar the wording looks.\n\n#CME #MedEd #EvidenceLiteracy",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261104pm",
@@ -1054,8 +1057,9 @@
       "caption": "Heart failure with reduced ejection fraction is now managed with four drug classes, not two. The 2025 Heart Failure Association of India guidelines define these as angiotensin receptor-neprilysin inhibitors (ARNI), beta-blockers, mineralocorticoid receptor antagonists (MRA), and sodium-glucose cotransporter-2 (SGLT2) inhibitors.\n\nAll four are started as early as possible — including during the index hospitalisation — not sequentially over several clinic visits. ARNI replaces ACE inhibitors or ARBs as the first-line choice for the renin-angiotensin system. SGLT2 inhibitors are recommended regardless of whether the patient has diabetes.\n\nEach drug is begun at a low dose and titrated to target or maximum tolerated dose within four to six weeks.\n\nThe rationale: the index hospitalisation is the highest-risk window, and it is also when supervised initiation of all four pillars is most feasible. Delay adds risk.\n\n#CME #MedEd #HeartFailure",
       "source": "HFAI Guidelines 2025",
       "source_url": "https://hfai.co.in/wp-content/uploads/2025/07/HFAI-Guidelines.pdf",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "G3 FAIL: Titration timeline does not match the HFAI guidelines (source opened and verified). Post states \"within four to six weeks\"; HFAI 2025 states the general titration range is about six weeks to three months — the four-to-six-week window is the STRONG-HF subprotocol, not the standard guideline recommendation. Fix: change \"within four to six weeks\" to \"within about six weeks to three months\", or scope the reference to the STRONG-HF approach specifically. G1, G2, G4, G5 pass."
     },
     {
       "id": "q20261105pm",
@@ -1068,8 +1072,9 @@
       "headline": "A statistic on this account always names its source",
       "sub": "Every number on this account — a dose, a threshold, a risk figure — comes from a guideline or trial the team has opened and read, and the source is available to verify.",
       "caption": "A number without a source is an assertion, not a fact. Every figure that appears on this account — a dose, a threshold, a risk reduction, a diagnostic cut-off — names the guideline or study behind it.\n\nThat is not a disclosure at the bottom of a post. It is the standard the post is built to, from the first draft. If the team cannot open and read the source, the number does not appear.\n\nThis matters in clinical education because the easiest errors to spread are the plausible ones: rough-order estimates, remembered figures from a lecture years ago, the number that sounds reasonable. Our commitment is that a clinician reading this account can trace every clinical claim to a document they can verify themselves.\n\nSource-linked teaching is slower to produce. It is also the only kind worth sending to a practitioner.\n\n#CME #MedEd #ClinicalAccuracy",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261106am",
@@ -1114,8 +1119,9 @@
       "caption": "The 2025 consolidated postpartum haemorrhage guidelines from WHO, FIGO, and ICM formalise the MOTIVE care bundle as the first-line response to PPH. The six steps run simultaneously: uterine massage, oxytocic drugs, tranexamic acid, intravenous fluids, vaginal and genital-tract examination, and escalation of care.\n\nThe timing rule for tranexamic acid is clear: 1 gram intravenously on diagnosis, immediately. If bleeding continues, a second gram is given after 30 minutes. The evidence that tranexamic acid loses its benefit beyond three hours from the onset of bleeding is unambiguous — late administration does not compensate for early delay.\n\nOxytocin remains first-line for the oxytocic step. Heat-stable carbetocin and misoprostol are alternatives where oxytocin is not available.\n\nImplementation now includes simulation training, stocked PPH trolleys, and audit feedback loops to sustain the bundle in routine use.\n\n#CME #MedEd #Obstetrics",
       "source": "WHO/FIGO/ICM consolidated PPH guidelines 2025",
       "source_url": "https://www.who.int/publications/i/item/9789240115637",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5. G3: WHO item 9789240115637 confirmed as 2025 WHO/FIGO/ICM PPH guideline; TXA 1 g IV, second gram at 30 minutes, three-hour window are WOMAN-trial-established recommendations consistent with this guideline."
     },
     {
       "id": "q20261107pm",
@@ -1128,8 +1134,9 @@
       "headline": "AYUSH assessment tests own-discipline reasoning, not adapted content",
       "sub": "An AYUSH practitioner's assessment in a CME programme is built around the diagnostic reasoning and therapeutic frameworks of their own discipline — not a modified version of what allopathic practitioners are asked.",
       "caption": "When an AYUSH track runs through a CME programme, the assessment is not a modified allopathic template. It is written for the own-discipline framework: the categories of diagnosis, the therapeutic logic, the reasoning specific to that system.\n\nThat distinction matters for learning. A practitioner who trains to reason well within their own system — and to recognise where and when to refer — develops different competencies from one tested on adapted content.\n\nAssessment is also how a programme discovers what learners already know. Poorly designed questions map poorly to both learning and gaps. Questions written from within the discipline measure the gap accurately and identify where the curriculum should focus next.\n\nThe design commitment here is to build assessments for the practitioner who is actually in front of the programme — not for the system that happens to be running the platform.\n\n#CME #MedEd #AYUSH",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_failed",
+      "revision": 1,
+      "qc_notes": "G5 FAIL: Topic repeated within last 30 posts. q20261102pm (2026-11-02) covers the identical message — AYUSH assessment tests own-discipline curriculum, not borrowed or adapted content. The headlines are near-identical in substance. Retire and replace with a different AYUSH topic. G1, G2, G4 pass."
     },
     {
       "id": "q20261108am",
@@ -1142,8 +1149,9 @@
       "headline": "Subgroup findings are hypothesis-generating unless pre-specified in the protocol",
       "sub": "A subgroup analysis is only evidence when it was defined before the trial started and the trial had enough patients in that subgroup to detect the difference reliably — most reported subgroup effects fail one or both conditions.",
       "caption": "Subgroup analyses ask whether a treatment worked better in patients with characteristic X than without it. The answer is only credible if two conditions hold: the subgroup was specified before the trial started and written into the protocol, and the trial enrolled enough patients in that subgroup to detect the difference reliably.\n\nMost published subgroup findings fail the first test. Post-hoc analysis — identifying a subgroup because the data looked interesting — generates a hypothesis, not evidence. Reporting it as a conclusion misrepresents its certainty.\n\nThe second test is about statistical power. A significant subgroup effect in a hundred patients may be chance, especially when the overall trial is neutral.\n\nThe signal to look for in a trial report: how many subgroups were pre-specified, and what was the protocol's stated hypothesis for each? Everything beyond that is a lead for future research, not a practice-changing finding.\n\n#CME #MedEd #TrialInterpretation",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261108pm",
@@ -1158,8 +1166,9 @@
       "caption": "Contrast-associated acute kidney injury is a real risk, but it is threshold-dependent. The ESUR Contrast Media Guidelines identify that intravenous iodinated contrast carries a meaningful risk of post-contrast acute kidney injury only when the estimated glomerular filtration rate is below 30 mL/min/1.73m². Above that threshold, the risk is low and routine withholding is not supported by evidence.\n\nFor intra-arterial administration with first-pass renal exposure — as in direct aortic injection — the threshold rises to an eGFR below 45 mL/min/1.73m².\n\nBelow the relevant threshold, the decision requires a benefit-risk assessment, not automatic refusal. Preventive hydration is considered when the clinical benefit of the study outweighs the risk. eGFR should be rechecked 48 to 72 hours after contrast administration in high-risk patients.\n\nOver-restricting contrast use causes delayed or degraded imaging, which carries its own clinical consequence.\n\n#CME #MedEd #Radiology",
       "source": "ESUR Contrast Media Guidelines v10.0",
       "source_url": "https://www.esur.org/wp-content/uploads/2022/03/ESUR-Guidelines-10_0-Final-Version.pdf",
-      "status": "drafted",
-      "revision": 1
+      "status": "held",
+      "revision": 1,
+      "qc_notes": "G3 HOLD: source URL (ESUR Guidelines 10.0 PDF, esur.org) is robots-restricted and could not be opened. Please verify: (1) meaningful risk of post-contrast AKI below eGFR 30 mL/min/1.73m² for intravenous iodinated contrast; (2) threshold rises to eGFR below 45 mL/min/1.73m² for intra-arterial administration with first-pass renal exposure."
     },
     {
       "id": "q20261109am",
@@ -1172,8 +1181,9 @@
       "headline": "Language-matched delivery reaches further than a subtitled lecture",
       "sub": "When CME is delivered in the language a practitioner thinks and works in, the distance between what is taught and what is applied shrinks — language-matched delivery is a design principle, not a feature.",
       "caption": "A CME session recorded in English and sent to practitioners across India reaches every device but does not reach every learner equally. A clinician who practices in a regional language, processes clinical reasoning in that language, and writes notes in it is not well served by a high-quality English lecture — even with subtitles.\n\nLanguage-matched delivery is not only an accessibility measure. It is alignment between the medium of learning and the medium of practice. The session that arrives in the language the practitioner thinks in is the one that changes what they do.\n\nThis account and the programmes behind it exist for every registered practitioner, not only for those who are also fluent in English. Language plurality is a constraint to design around, not a limitation to note at the end of a mission statement.\n\n#CME #MedEd #AYUSH",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261109pm",
@@ -1188,8 +1198,9 @@
       "caption": "India has no validated population-wide screening tool for osteoporosis. The 2025 Indian Orthopaedics Association consensus guidelines — developed with 62 experts over six Delphi rounds and published in the Indian Journal of Orthopaedics — recommend an opportunistic case-finding strategy: screen women above the age of 40 when they present to any clinical setting.\n\nClinical risk assessment tools — OSTA, ORAI, and ABONE — identify those at highest risk and guide who should be prioritised for dual-energy X-ray absorptiometry (DXA). DXA remains the diagnostic standard. A T-score of -2.5 or below defines osteoporosis.\n\nThe IOA guidelines address specific subgroups separately: postmenopausal women, men, patients with chronic kidney disease, and those on long-term glucocorticoids.\n\nOpportunistic identification is the operative phrase — osteoporosis is frequently missed in the absence of a fracture.\n\n#CME #MedEd #Orthopaedics",
       "source": "IOA Osteoporosis Guidelines 2025, Indian Journal of Orthopaedics",
       "source_url": "https://link.springer.com/article/10.1007/s43465-025-01393-7",
-      "status": "drafted",
-      "revision": 1
+      "status": "qc_passed",
+      "revision": 1,
+      "qc_notes": "PASS G1-G5. G3: Springer source confirmed as IOA 2025 consensus (62 experts, six Delphi rounds, Indian Journal of Orthopaedics); T-score −2.5 is the universal WHO diagnostic threshold universally used in osteoporosis guidelines."
     },
     {
       "id": "q20261110am",
@@ -1202,8 +1213,9 @@
       "headline": "High I-squared means the pooled estimate needs explanation",
       "sub": "When a meta-analysis reports a high I² statistic, the studies differ enough — in population, intervention, or outcome definition — that the pooled estimate may not represent any of them well.",
       "caption": "The I² statistic in a meta-analysis describes the proportion of variation across studies due to heterogeneity rather than chance. A value of 0% means the studies are consistent. A value above 75% is conventionally described as high, and it signals that pooling the results into a single estimate may not be meaningful.\n\nHigh heterogeneity should prompt three questions: do the study populations differ enough to change how the intervention works, do the comparators vary meaningfully, and are the outcome definitions consistent across studies?\n\nA pooled estimate from a high-heterogeneity meta-analysis can still be reported, but it should be read as the centre of a wide distribution rather than a reliable point estimate. The forest plot — showing each study's result individually — carries more information than the diamond at the bottom.\n\nHeterogeneity is itself a finding. It identifies precisely where the evidence is genuinely inconsistent.\n\n#CME #MedEd #MetaAnalysis",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_passed",
+      "revision": 0,
+      "qc_notes": "PASS G1-G5"
     },
     {
       "id": "q20261110pm",
@@ -1218,8 +1230,9 @@
       "caption": "Unstructured blood glucose monitoring — checking whenever the device is nearby — generates numbers but not patterns. The 2024 RSSDI Expert Consensus for Optimal Glucose Monitoring in India specifies structured self-monitoring of blood glucose: checks at predefined times, paired pre- and post-prandial, reviewed with education and follow-up.\n\nFor stable patients on oral antidiabetic agents: at least four tests per month — one fasting, three post-prandial. On sulfonylureas or meglitinides, or when diabetes is uncontrolled or an acute illness is present: fasting glucose on alternate days as the minimum.\n\nFor stable patients on insulin or insulin plus oral agents: fasting glucose on alternate days, four tests weekly. Uncontrolled or acutely ill insulin users: at least one fasting and one pre-prandial test daily, plus tests whenever hypoglycaemia is suspected.\n\nAll devices must comply with ISO 15197:2013 standards.\n\n#CME #MedEd #DiabetesManagement",
       "source": "RSSDI Expert Consensus for Optimal Glucose Monitoring in Diabetes Mellitus in India 2024",
       "source_url": "https://www.rssdi.in/newwebsite/pdfdata/rssdiGuidelines/2024/2024-RSSDI-Expert-Consensus-for-Optimal-Glucose-Monitoring-in-Diabetes-Mellitus-in-India.pdf",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_failed",
+      "revision": 0,
+      "qc_notes": "G3 FAIL: Testing frequencies conflict with the RSSDI 2024 guideline (source opened and verified). Two specific errors: (1) stable OAD patients — post states \"at least four tests per month\" but guideline recommended care is four tests per week (four per month is the limited-care minimum); (2) uncontrolled or acutely ill insulin users — post states \"at least one fasting and one pre-prandial test daily\" but guideline recommends at least four tests per day. Fix: align frequencies with the recommended-care column, or explicitly label these as limited-care settings. G1, G2, G4, G5 pass."
     },
     {
       "id": "q20261111am",
@@ -1232,8 +1245,9 @@
       "headline": "No advertiser has ever decided what this account publishes",
       "sub": "Every post here is written on clinical and educational grounds alone — no sponsor shapes the content, no brand partnership determines a topic, and no product is named or implied.",
       "caption": "The posts on this account are written without commercial direction. No sponsor holds a preferred topic, no partner arrangement reserves a slot, and no brand name appears — not in the caption, not on the card, not in the source cited.\n\nThat independence is not incidental. It is the condition under which clinical content can be trusted. A post that exists because a drug company funded its production should be labelled accordingly. A post that exists because a clinical educator decided it was worth writing should not need to be.\n\nAll India CME is a venture of Covelis Health Tech LLP. The posts here are the editorial output of that team, answerable to the clinical standards in the guidelines cited and to the practitioners who read them.\n\nNothing on this account was written to serve a third party's commercial objective.\n\n#CME #MedEd #AllIndiaCME",
-      "status": "drafted",
-      "revision": 0
+      "status": "qc_passed",
+      "revision": 0,
+      "qc_notes": "PASS G1-G5"
     }
   ]
 }
